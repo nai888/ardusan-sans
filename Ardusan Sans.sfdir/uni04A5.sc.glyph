@@ -1,0 +1,78 @@
+StartChar: uni04A5.sc
+Encoding: 65967 -1 1455
+Width: 706
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 42
+ 0
+ 5
+ 0
+ 2
+ 1
+ 5
+ 2
+ 101
+ 0
+ 0
+ 0
+ 4
+ 93
+ 7
+ 6
+ 2
+ 4
+ 4
+ 32
+ 75
+ 3
+ 1
+ 1
+ 1
+ 33
+ 1
+ 76
+ 0
+ 0
+ 0
+ 13
+ 0
+ 13
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 8
+ 7
+ 26
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+AnchorPoint: "Anchor-6" 312 283 basechar 0
+AnchorPoint: "Anchor-5" 312 564 basechar 0
+AnchorPoint: "Anchor-4" 312 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+696 564 m 1,0,-1
+ 687 488 l 1,1,-1
+ 525 488 l 1,2,-1
+ 525 0 l 1,3,-1
+ 433 0 l 1,4,-1
+ 433 259 l 1,5,-1
+ 192 259 l 1,6,-1
+ 192 0 l 1,7,-1
+ 100 0 l 1,8,-1
+ 100 564 l 1,9,-1
+ 192 564 l 1,10,-1
+ 192 334 l 1,11,-1
+ 433 334 l 1,12,-1
+ 433 564 l 1,13,-1
+ 696 564 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

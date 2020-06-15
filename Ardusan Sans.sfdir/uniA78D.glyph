@@ -1,0 +1,20 @@
+StartChar: uniA78D
+Encoding: 42893 42893 119
+Width: 612
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 276 689 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 306 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1129 1063 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 34 subtable" uniA78D.ss02
+Substitution2: "'salt' Stylistic Alternatives lookup 32 subtable" uniA78D.ss02
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uniA78D.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uniA78D.sc uniA78D.ss02
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

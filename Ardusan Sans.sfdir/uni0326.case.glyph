@@ -1,0 +1,67 @@
+StartChar: uni0326.case
+Encoding: 66457 -1 2544
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+NPUSHB
+ 34
+ 8
+ 1
+ 0
+ 1
+ 1
+ 74
+ 2
+ 1
+ 1
+ 0
+ 0
+ 1
+ 87
+ 2
+ 1
+ 1
+ 1
+ 0
+ 93
+ 0
+ 0
+ 1
+ 0
+ 77
+ 0
+ 0
+ 0
+ 13
+ 0
+ 12
+ 22
+ 3
+ 9
+ 21
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-22" -90 0 mark 0
+AnchorPoint: "Anchor-19" -90 0 mark 0
+AnchorPoint: "Anchor-14" -90 0 mark 0
+AnchorPoint: "Anchor-9" -90 0 mark 0
+AnchorPoint: "Anchor-4" -90 0 mark 0
+AnchorPoint: "Anchor-0" -90 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-46.5 -93 m 128,-1,1
+ -30 -109 -30 -109 -30 -133 c 0,2,3
+ -30 -146 -30 -146 -35.5 -162 c 128,-1,4
+ -41 -178 -41 -178 -56 -210 c 2,5,-1
+ -97 -296 l 1,6,-1
+ -150 -296 l 1,7,-1
+ -121 -180 l 1,8,9
+ -145 -159 -145 -159 -145 -133 c 0,10,11
+ -145 -109 -145 -109 -128 -93 c 128,-1,12
+ -111 -77 -111 -77 -87 -77 c 256,13,0
+ -63 -77 -63 -77 -46.5 -93 c 128,-1,1
+EndSplineSet
+Validated: 1
+EndChar

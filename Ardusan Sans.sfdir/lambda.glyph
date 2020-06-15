@@ -1,0 +1,65 @@
+StartChar: lambda
+Encoding: 955 955 1685
+Width: 490
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 23
+ 21
+ 20
+ 2
+ 0
+ 72
+ 14
+ 13
+ 12
+ 8
+ 7
+ 5
+ 0
+ 71
+ 0
+ 0
+ 0
+ 79
+ 0
+ 76
+ 31
+ 1
+ 10
+ 21
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 245 739 basechar 0
+AnchorPoint: "Anchor-9" 245 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+203 710 m 128,-1,1
+ 248 682 248 682 274.5 633 c 128,-1,2
+ 301 584 301 584 321 500 c 0,3,4
+ 357 346 357 346 385 258 c 128,-1,5
+ 413 170 413 170 439.5 119 c 128,-1,6
+ 466 68 466 68 505 22 c 1,7,-1
+ 419 -12 l 1,8,9
+ 379 42 379 42 352 94.5 c 128,-1,10
+ 325 147 325 147 300 233 c 128,-1,11
+ 275 319 275 319 248 457 c 1,12,-1
+ 109 -12 l 1,13,-1
+ 20 10 l 1,14,-1
+ 188 527 l 1,15,-1
+ 229 527 l 1,16,17
+ 217 575 217 575 199.5 605 c 128,-1,18
+ 182 635 182 635 151 653.5 c 128,-1,19
+ 120 672 120 672 68 681 c 1,20,-1
+ 82 752 l 1,21,0
+ 158 738 158 738 203 710 c 128,-1,1
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" lambda.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" lambda.sc
+EndChar

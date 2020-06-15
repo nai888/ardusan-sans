@@ -1,0 +1,30 @@
+StartChar: uni030B.sc
+Encoding: 66479 -1 2596
+Width: 366
+Flags: W
+TtInstrs:
+PUSHB_6
+ 6
+ 4
+ 2
+ 0
+ 2
+ 48
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+106 862 m 1,0,-1
+ 184 821 l 1,1,-1
+ 88 669 l 1,2,-1
+ 30 694 l 1,3,-1
+ 106 862 l 1,0,-1
+258 862 m 1,4,-1
+ 336 821 l 1,5,-1
+ 230 664 l 1,6,-1
+ 172 689 l 1,7,-1
+ 258 862 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar

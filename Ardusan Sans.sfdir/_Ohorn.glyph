@@ -1,0 +1,98 @@
+StartChar: Ohorn
+Encoding: 416 416 203
+Width: 703
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 49
+ 17
+ 1
+ 2
+ 1
+ 1
+ 1
+ 3
+ 2
+ 2
+ 74
+ 23
+ 22
+ 2
+ 1
+ 72
+ 0
+ 2
+ 2
+ 1
+ 95
+ 0
+ 1
+ 1
+ 104
+ 75
+ 4
+ 1
+ 3
+ 3
+ 0
+ 95
+ 0
+ 0
+ 0
+ 105
+ 0
+ 76
+ 26
+ 26
+ 26
+ 35
+ 26
+ 34
+ 44
+ 38
+ 38
+ 5
+ 11
+ 23
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 601 689 basechar 0
+AnchorPoint: "Anchor-16" 346 689 basechar 0
+AnchorPoint: "Anchor-15" 445 0 basechar 0
+AnchorPoint: "Anchor-14" 346 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+574 587 m 1,1,2
+ 637 494 637 494 637 344 c 0,3,4
+ 637 232 637 232 600.5 152 c 128,-1,5
+ 564 72 564 72 498.5 30 c 128,-1,6
+ 433 -12 433 -12 346 -12 c 256,7,8
+ 259 -12 259 -12 193.5 29 c 128,-1,9
+ 128 70 128 70 91.5 150 c 128,-1,10
+ 55 230 55 230 55 343 c 0,11,12
+ 55 454 55 454 91.5 535 c 128,-1,13
+ 128 616 128 616 194 658.5 c 128,-1,14
+ 260 701 260 701 346 701 c 0,15,16
+ 459 701 459 701 531 635 c 1,17,18
+ 586 642 586 642 586 686 c 0,19,20
+ 586 709 586 709 582.5 724.5 c 128,-1,21
+ 579 740 579 740 572 758 c 1,22,-1
+ 644 773 l 1,23,24
+ 663 740 663 740 663 691 c 0,25,0
+ 663 604 663 604 574 587 c 1,1,2
+536 344 m 0,27,28
+ 536 623 536 623 346 623 c 0,29,30
+ 256 623 256 623 206 555 c 128,-1,31
+ 156 487 156 487 156 343 c 0,32,33
+ 156 200 156 200 206.5 133 c 128,-1,34
+ 257 66 257 66 346 66 c 0,35,26
+ 536 66 536 66 536 344 c 0,27,28
+EndSplineSet
+Validated: 1
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" ohorn.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ohorn.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

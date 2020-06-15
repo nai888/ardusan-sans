@@ -1,0 +1,16 @@
+StartChar: ebreve.sc
+Encoding: 65647 -1 830
+Width: 490
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 270 819 basechar 0
+AnchorPoint: "Anchor-15" 416 0 basechar 0
+AnchorPoint: "Anchor-14" 268 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 828 -1 N 1 0 0 1 0 0 0
+Refer: 2599 -1 N 1 0 0 1 86 0 0
+Validated: 1
+EndChar

@@ -1,0 +1,19 @@
+StartChar: uni020E
+Encoding: 526 526 211
+Width: 492
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 549 689 basechar 0
+AnchorPoint: "Anchor-16" 348 922 basechar 0
+AnchorPoint: "Anchor-15" 445 0 basechar 0
+AnchorPoint: "Anchor-14" 346 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 182 79 N 1 0 0 1 0 0 0
+Refer: 2488 785 N 1 0 0 1 527 162 2
+Validated: 65537
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni020F.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni020F.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

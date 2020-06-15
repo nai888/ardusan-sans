@@ -1,0 +1,118 @@
+StartChar: uni20BA
+Encoding: 8378 8378 2242
+Width: 545
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 27
+ 22
+ 21
+ 20
+ 19
+ 18
+ 17
+ 16
+ 15
+ 12
+ 11
+ 10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 17
+ 2
+ 1
+ 1
+ 74
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 16
+ 0
+ 1
+ 1
+ 96
+ 75
+ 0
+ 2
+ 2
+ 0
+ 94
+ 0
+ 0
+ 0
+ 97
+ 0
+ 76
+ELSE
+NPUSHB
+ 16
+ 0
+ 1
+ 2
+ 1
+ 131
+ 0
+ 2
+ 2
+ 0
+ 94
+ 0
+ 0
+ 0
+ 97
+ 0
+ 76
+EIF
+PUSHB_6
+ 41
+ 25
+ 34
+ 3
+ 11
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+540 173 m 1,0,1
+ 507 87 507 87 444 43.5 c 128,-1,2
+ 381 0 381 0 276 0 c 2,3,-1
+ 121 0 l 1,4,-1
+ 121 204 l 1,5,-1
+ 65 178 l 1,6,-1
+ 40 233 l 1,7,-1
+ 121 271 l 1,8,-1
+ 121 345 l 1,9,-1
+ 67 320 l 1,10,-1
+ 40 377 l 1,11,-1
+ 121 414 l 1,12,-1
+ 121 669 l 1,13,-1
+ 212 669 l 1,14,-1
+ 212 457 l 1,15,-1
+ 377 533 l 1,16,-1
+ 403 477 l 1,17,-1
+ 212 388 l 1,18,-1
+ 212 313 l 1,19,-1
+ 376 390 l 1,20,-1
+ 402 334 l 1,21,-1
+ 212 246 l 1,22,-1
+ 212 78 l 1,23,-1
+ 280 78 l 2,24,25
+ 352 78 352 78 396 105.5 c 128,-1,26
+ 440 133 440 133 472 201 c 1,27,-1
+ 540 173 l 1,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" uni20BA.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" uni20BA.tf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni20BA.tf uni20BA.osf
+EndChar

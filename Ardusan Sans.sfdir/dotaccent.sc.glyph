@@ -1,0 +1,20 @@
+StartChar: dotaccent.sc
+Encoding: 66495 -1 2612
+Width: 189
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHB_1
+ 30
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-20" 97 810 basemark 0
+LayerCount: 2
+Fore
+Refer: 2475 775 N 1 0 0 1 189 30 2
+Validated: 1
+EndChar

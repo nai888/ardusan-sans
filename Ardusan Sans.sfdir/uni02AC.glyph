@@ -1,0 +1,21 @@
+StartChar: uni02AC
+Encoding: 684 684 384
+Width: 467
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -400
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1092 695 N 1 0 0 1 0 0 0
+Refer: 1092 695 N 1 0 0 1 0 -400 2
+Validated: 1
+EndChar

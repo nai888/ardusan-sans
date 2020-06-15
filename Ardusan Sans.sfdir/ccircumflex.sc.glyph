@@ -1,0 +1,16 @@
+StartChar: ccircumflex.sc
+Encoding: 65628 -1 811
+Width: 502
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 310 822 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 310 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 806 -1 N 1 0 0 1 0 0 0
+Refer: 2597 -1 N 1 0 0 1 112 0 0
+Validated: 1
+EndChar

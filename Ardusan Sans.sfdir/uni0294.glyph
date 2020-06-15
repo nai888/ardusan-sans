@@ -1,0 +1,100 @@
+StartChar: uni0294
+Encoding: 660 660 471
+Width: 441
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 22
+ 11
+ 10
+ 0
+ 4
+ 2
+ 0
+ 1
+ 74
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 16
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 1
+ 98
+ 75
+ 0
+ 2
+ 2
+ 97
+ 2
+ 76
+ELSE
+NPUSHB
+ 14
+ 0
+ 1
+ 0
+ 0
+ 2
+ 1
+ 0
+ 103
+ 0
+ 2
+ 2
+ 97
+ 2
+ 76
+EIF
+PUSHB_6
+ 24
+ 37
+ 38
+ 3
+ 11
+ 23
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 191 739 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 178 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+132 348 m 1,0,-1
+ 193 366 l 2,1,2
+ 254 384 254 384 286 419.5 c 128,-1,3
+ 318 455 318 455 318 525 c 0,4,5
+ 318 596 318 596 285.5 636 c 128,-1,6
+ 253 676 253 676 187 676 c 0,7,8
+ 146 676 146 676 111 660.5 c 128,-1,9
+ 76 645 76 645 40 613 c 1,10,-1
+ -10 665 l 1,11,12
+ 35 709 35 709 83 729.5 c 128,-1,13
+ 131 750 131 750 191 750 c 0,14,15
+ 260 750 260 750 311 721.5 c 128,-1,16
+ 362 693 362 693 389 642.5 c 128,-1,17
+ 416 592 416 592 416 527 c 0,18,19
+ 416 428 416 428 366 378 c 128,-1,20
+ 316 328 316 328 238 306 c 2,21,-1
+ 224 302 l 1,22,-1
+ 224 0 l 1,23,-1
+ 132 0 l 1,24,-1
+ 132 348 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni0294.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0294.sc
+EndChar

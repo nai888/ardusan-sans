@@ -1,0 +1,19 @@
+StartChar: Ohungarumlaut
+Encoding: 336 336 209
+Width: 492
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 549 689 basechar 0
+AnchorPoint: "Anchor-16" 346 689 basechar 0
+AnchorPoint: "Anchor-15" 445 0 basechar 0
+AnchorPoint: "Anchor-14" 346 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 182 79 N 1 0 0 1 0 0 0
+Refer: 2534 -1 N 1 0 0 1 569 0 0
+Validated: 65537
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" ohungarumlaut.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ohungarumlaut.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

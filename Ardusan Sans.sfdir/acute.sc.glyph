@@ -1,0 +1,22 @@
+StartChar: acute.sc
+Encoding: 66489 -1 2606
+Width: 300
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHB_1
+ 30
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-20" 152 831 basemark 0
+LayerCount: 2
+Fore
+Refer: 2477 769 N 1 0 0 1 300 30 2
+Validated: 1
+Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" acute.sc.loclPLK
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" acute.sc.loclPLK
+EndChar

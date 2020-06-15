@@ -1,0 +1,28 @@
+StartChar: uni037D
+Encoding: 893 893 1716
+Width: 511
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -454
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 190 266 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 193 326 basechar 0
+AnchorPoint: "Anchor-9" 256 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1714 891 N 1 0 0 1 0 0 0
+Refer: 2475 775 N 1 0 0 1 285 -454 2
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni037D.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni037D.sc
+EndChar

@@ -1,0 +1,15 @@
+StartChar: dcroat.sc
+Encoding: 65636 -1 819
+Width: 587
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 298 283 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 279 564 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 289 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 816 -1 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar

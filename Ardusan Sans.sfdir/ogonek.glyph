@@ -1,0 +1,12 @@
+StartChar: ogonek
+Encoding: 731 731 2588
+Width: 263
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2508 808 N 1 0 0 1 298 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" ogonek.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" ogonek.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ogonek.sc
+EndChar

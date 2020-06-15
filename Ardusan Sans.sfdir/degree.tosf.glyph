@@ -1,0 +1,12 @@
+StartChar: degree.tosf
+Encoding: 66440 -1 2454
+Width: 560
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2429 176 N 1 0 0 1 20 0 0
+Validated: 1
+Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" degree.osf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" degree.osf
+EndChar

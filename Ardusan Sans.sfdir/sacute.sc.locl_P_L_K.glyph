@@ -1,0 +1,16 @@
+StartChar: sacute.sc.loclPLK
+Encoding: 65814 -1 997
+Width: 489
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 245 564 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 241 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 995 -1 N 1 0 0 1 0 0 0
+Refer: 2591 -1 N 1 0 0 1 162 0 0
+Validated: 1
+EndChar

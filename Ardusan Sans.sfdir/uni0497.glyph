@@ -1,0 +1,108 @@
+StartChar: uni0497
+Encoding: 1175 1175 1301
+Width: 718
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 57
+ 25
+ 14
+ 2
+ 3
+ 8
+ 1
+ 74
+ 10
+ 1
+ 8
+ 5
+ 1
+ 3
+ 0
+ 8
+ 3
+ 101
+ 0
+ 0
+ 0
+ 1
+ 0
+ 1
+ 97
+ 11
+ 9
+ 2
+ 7
+ 7
+ 60
+ 75
+ 6
+ 4
+ 2
+ 2
+ 2
+ 59
+ 2
+ 76
+ 24
+ 23
+ 22
+ 21
+ 20
+ 19
+ 17
+ 18
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 16
+ 12
+ 9
+ 29
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+AnchorPoint: "Anchor-6" 0 0 basechar 0
+AnchorPoint: "Anchor-5" 359 527 basechar 0
+AnchorPoint: "Anchor-4" 360 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+659 74 m 1,0,-1
+ 725 74 l 1,1,-1
+ 725 -150 l 1,2,-1
+ 650 -150 l 1,3,-1
+ 635 0 l 1,4,-1
+ 598 0 l 1,5,-1
+ 473 239 l 1,6,-1
+ 403 239 l 1,7,-1
+ 403 0 l 1,8,-1
+ 315 0 l 1,9,-1
+ 315 239 l 1,10,-1
+ 246 239 l 1,11,-1
+ 120 0 l 1,12,-1
+ 20 0 l 1,13,-1
+ 171 280 l 1,14,-1
+ 39 527 l 1,15,-1
+ 135 527 l 1,16,-1
+ 245 311 l 1,17,-1
+ 315 311 l 1,18,-1
+ 315 527 l 1,19,-1
+ 403 527 l 1,20,-1
+ 403 311 l 1,21,-1
+ 474 311 l 1,22,-1
+ 585 527 l 1,23,-1
+ 680 527 l 1,24,-1
+ 548 280 l 1,25,-1
+ 659 74 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 1242 20 "'kern' Horizontal Kerning lookup 2 per glyph data 1"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni0497.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0497.sc
+EndChar

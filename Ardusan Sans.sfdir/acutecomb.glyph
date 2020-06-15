@@ -1,0 +1,36 @@
+StartChar: acutecomb
+Encoding: 769 769 2477
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_4
+ 2
+ 0
+ 1
+ 48
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-23" -150 527 mark 0
+AnchorPoint: "Anchor-20" -148 801 basemark 0
+AnchorPoint: "Anchor-20" -150 527 mark 0
+AnchorPoint: "Anchor-16" -150 527 mark 0
+AnchorPoint: "Anchor-10" -150 527 mark 0
+AnchorPoint: "Anchor-5" -150 527 mark 0
+AnchorPoint: "Anchor-1" -150 527 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-71 801 m 5,0,-1
+ -30 724 l 5,1,-1
+ -242 638 l 5,2,-1
+ -270 687 l 5,3,-1
+ -71 801 l 5,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" acutecomb.case
+Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" acutecomb.case
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" acutecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" acutecomb.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" acutecomb.sc acutecomb.case
+EndChar

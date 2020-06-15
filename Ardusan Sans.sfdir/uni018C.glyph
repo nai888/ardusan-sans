@@ -1,0 +1,203 @@
+StartChar: uni018C
+Encoding: 396 396 412
+Width: 598
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 14
+ 1
+ 5
+ 2
+ 22
+ 21
+ 2
+ 3
+ 6
+ 5
+ 2
+ 74
+MPPEM
+PUSHB_1
+ 20
+LT
+IF
+NPUSHB
+ 33
+ 0
+ 3
+ 3
+ 4
+ 93
+ 0
+ 4
+ 4
+ 98
+ 75
+ 0
+ 5
+ 5
+ 2
+ 95
+ 0
+ 2
+ 2
+ 107
+ 75
+ 7
+ 1
+ 6
+ 6
+ 0
+ 95
+ 1
+ 1
+ 0
+ 0
+ 97
+ 0
+ 76
+ELSE
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 37
+ 0
+ 3
+ 3
+ 4
+ 93
+ 0
+ 4
+ 4
+ 98
+ 75
+ 0
+ 5
+ 5
+ 2
+ 95
+ 0
+ 2
+ 2
+ 107
+ 75
+ 0
+ 0
+ 0
+ 97
+ 75
+ 7
+ 1
+ 6
+ 6
+ 1
+ 95
+ 0
+ 1
+ 1
+ 105
+ 1
+ 76
+ELSE
+NPUSHB
+ 35
+ 0
+ 4
+ 0
+ 3
+ 2
+ 4
+ 3
+ 101
+ 0
+ 5
+ 5
+ 2
+ 95
+ 0
+ 2
+ 2
+ 107
+ 75
+ 0
+ 0
+ 0
+ 97
+ 75
+ 7
+ 1
+ 6
+ 6
+ 1
+ 95
+ 0
+ 1
+ 1
+ 105
+ 1
+ 76
+EIF
+EIF
+NPUSHB
+ 15
+ 19
+ 19
+ 19
+ 31
+ 19
+ 30
+ 38
+ 17
+ 18
+ 37
+ 35
+ 16
+ 8
+ 11
+ 26
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 299 739 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 299 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+503 0 m 1,0,-1
+ 422 0 l 1,1,-1
+ 413 73 l 1,2,3
+ 387 33 387 33 348 10.5 c 128,-1,4
+ 309 -12 309 -12 261 -12 c 0,5,6
+ 167 -12 167 -12 114.5 62 c 128,-1,7
+ 62 136 62 136 62 261 c 0,8,9
+ 62 342 62 342 87 405 c 128,-1,10
+ 112 468 112 468 159 503.5 c 128,-1,11
+ 206 539 206 539 269 539 c 0,12,13
+ 350 539 350 539 411 474 c 1,14,-1
+ 411 669 l 1,15,-1
+ 193 669 l 1,16,-1
+ 193 739 l 1,17,-1
+ 503 739 l 1,18,-1
+ 503 0 l 1,0,-1
+353 80.5 m 128,-1,20
+ 383 100 383 100 411 139 c 1,21,-1
+ 411 397 l 1,22,23
+ 385 431 385 431 355.5 448.5 c 128,-1,24
+ 326 466 326 466 289 466 c 0,25,26
+ 228 466 228 466 194.5 415 c 128,-1,27
+ 161 364 161 364 161 263 c 0,28,29
+ 161 161 161 161 192 111 c 128,-1,30
+ 223 61 223 61 281 61 c 0,31,19
+ 323 61 323 61 353 80.5 c 128,-1,20
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni018C.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni018C.sc
+EndChar

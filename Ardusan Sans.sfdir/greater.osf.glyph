@@ -1,0 +1,13 @@
+StartChar: greater.osf
+Encoding: 66367 -1 2345
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2321 62 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" greater.tosf
+Substitution2: "'lnum' Lining Figures lookup 22 subtable" greater
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" greater greater.tosf
+EndChar

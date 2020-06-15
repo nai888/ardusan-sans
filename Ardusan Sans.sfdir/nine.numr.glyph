@@ -1,0 +1,11 @@
+StartChar: nine.numr
+Encoding: 66276 -1 2120
+Width: 400
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2110 -1 N 1 0 0 1 0 272 2
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" nine.dnom
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" nine.dnom
+EndChar

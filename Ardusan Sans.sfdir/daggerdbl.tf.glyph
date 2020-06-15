@@ -1,0 +1,129 @@
+StartChar: daggerdbl.tf
+Encoding: 66438 -1 2452
+Width: 560
+GlyphClass: 2
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 33
+LT
+IF
+NPUSHB
+ 33
+ 5
+ 1
+ 1
+ 4
+ 1
+ 2
+ 3
+ 1
+ 2
+ 101
+ 0
+ 8
+ 8
+ 58
+ 75
+ 6
+ 1
+ 0
+ 0
+ 7
+ 93
+ 9
+ 1
+ 7
+ 7
+ 60
+ 75
+ 0
+ 3
+ 3
+ 59
+ 3
+ 76
+ELSE
+NPUSHB
+ 31
+ 9
+ 1
+ 7
+ 6
+ 1
+ 0
+ 1
+ 7
+ 0
+ 101
+ 5
+ 1
+ 1
+ 4
+ 1
+ 2
+ 3
+ 1
+ 2
+ 101
+ 0
+ 8
+ 8
+ 58
+ 75
+ 0
+ 3
+ 3
+ 59
+ 3
+ 76
+EIF
+NPUSHB
+ 14
+ 19
+ 18
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 16
+ 10
+ 9
+ 29
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+503 465 m 1,0,-1
+ 324 465 l 1,1,-1
+ 324 269 l 1,2,-1
+ 503 269 l 1,3,-1
+ 503 192 l 1,4,-1
+ 324 192 l 1,5,-1
+ 324 0 l 1,6,-1
+ 236 0 l 1,7,-1
+ 236 192 l 1,8,-1
+ 57 192 l 1,9,-1
+ 57 269 l 1,10,-1
+ 236 269 l 1,11,-1
+ 236 465 l 1,12,-1
+ 57 465 l 1,13,-1
+ 57 542 l 1,14,-1
+ 236 542 l 1,15,-1
+ 236 689 l 1,16,-1
+ 324 689 l 1,17,-1
+ 324 542 l 1,18,-1
+ 503 542 l 1,19,-1
+ 503 465 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" daggerdbl.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" daggerdbl
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" daggerdbl daggerdbl.tosf
+EndChar

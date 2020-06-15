@@ -1,0 +1,31 @@
+StartChar: d
+Encoding: 100 100 398
+Width: 386
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 238 527 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 141 -202 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+376 533 m 1,1,-1
+ 359 443 l 1,2,3
+ 335 449 335 449 313 449 c 0,4,5
+ 264 449 264 449 234 413 c 128,-1,6
+ 204 377 204 377 187 301 c 1,7,-1
+ 187 -202 l 1,8,-1
+ 95 -213 l 1,9,-1
+ 95 527 l 1,10,-1
+ 174 527 l 1,11,-1
+ 183 420 l 1,12,13
+ 204 479 204 479 240 509 c 128,-1,14
+ 276 539 276 539 324 539 c 0,15,0
+ 352 539 352 539 376 533 c 1,1,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" d.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" d.sc
+EndChar

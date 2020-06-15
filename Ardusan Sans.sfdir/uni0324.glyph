@@ -1,0 +1,27 @@
+StartChar: uni0324
+Encoding: 804 804 2504
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 2
+PUSHW_1
+ -846
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-22" -192 0 mark 0
+AnchorPoint: "Anchor-19" -190 -192 basemark 0
+AnchorPoint: "Anchor-19" -192 0 mark 0
+AnchorPoint: "Anchor-14" -192 0 mark 0
+AnchorPoint: "Anchor-9" -192 0 mark 0
+AnchorPoint: "Anchor-4" -192 0 mark 0
+AnchorPoint: "Anchor-0" -192 0 mark 0
+LayerCount: 2
+Fore
+Refer: 2474 776 N 1 0 0 1 0 -846 2
+Validated: 1
+EndChar

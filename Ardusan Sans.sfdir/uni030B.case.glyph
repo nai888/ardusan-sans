@@ -1,0 +1,37 @@
+StartChar: uni030B.case
+Encoding: 66447 -1 2534
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_6
+ 6
+ 4
+ 2
+ 0
+ 2
+ 48
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-23" -223 689 mark 0
+AnchorPoint: "Anchor-20" -223 689 mark 0
+AnchorPoint: "Anchor-16" -223 689 mark 0
+AnchorPoint: "Anchor-10" -223 689 mark 0
+AnchorPoint: "Anchor-5" -223 689 mark 0
+AnchorPoint: "Anchor-1" -223 689 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-260 958 m 1,0,-1
+ -182 917 l 1,1,-1
+ -278 765 l 1,2,-1
+ -336 790 l 1,3,-1
+ -260 958 l 1,0,-1
+-108 958 m 1,4,-1
+ -30 917 l 1,5,-1
+ -136 760 l 1,6,-1
+ -194 785 l 1,7,-1
+ -108 958 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar

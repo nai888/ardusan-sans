@@ -1,0 +1,18 @@
+StartChar: zdotaccent
+Encoding: 380 380 731
+Width: 554
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 221 780 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 215 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 726 122 N 1 0 0 1 0 0 0
+Refer: 2475 775 N 1 0 0 1 378 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" zdotaccent.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" zdotaccent.sc
+EndChar

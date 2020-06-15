@@ -1,0 +1,18 @@
+StartChar: upsilondieresis
+Encoding: 971 971 1704
+Width: 571
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 291 768 basechar 0
+AnchorPoint: "Anchor-9" 286 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1695 965 N 1 0 0 1 0 0 0
+Refer: 2474 776 N 1 0 0 1 481 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" upsilondieresis.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" upsilondieresis.sc
+EndChar

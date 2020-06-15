@@ -1,0 +1,12 @@
+StartChar: ellipsis
+Encoding: 8230 8230 2157
+Width: 738
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2162 46 N 1 0 0 1 249 0 0
+Refer: 2162 46 N 1 0 0 1 498 0 0
+Refer: 2162 46 N 1 0 0 1 0 0 0
+Validated: 65537
+Kerns2: 1878 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1677 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1547 -50 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 454 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
+EndChar

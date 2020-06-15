@@ -1,0 +1,15 @@
+StartChar: caron
+Encoding: 711 711 2566
+Width: 392
+Flags: W
+AnchorPoint: "Anchor-20" 198 785 basemark 0
+LayerCount: 2
+Fore
+Refer: 2480 780 N 1 0 0 1 392 0 0
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" caron.case
+Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" caron.case
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" caron.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" caron.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" caron.sc caron.case
+EndChar

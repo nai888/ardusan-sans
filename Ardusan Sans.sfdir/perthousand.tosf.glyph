@@ -1,0 +1,12 @@
+StartChar: perthousand.tosf
+Encoding: 66426 -1 2408
+Width: 1200
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2362 8240 N 1 0 0 1 6 0 0
+Validated: 1
+Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" perthousand.osf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" perthousand.osf
+EndChar

@@ -1,0 +1,61 @@
+StartChar: quotesinglbase
+Encoding: 8218 8218 2220
+Width: 228
+Flags: W
+TtInstrs:
+NPUSHB
+ 34
+ 8
+ 1
+ 0
+ 1
+ 1
+ 74
+ 2
+ 1
+ 1
+ 0
+ 0
+ 1
+ 87
+ 2
+ 1
+ 1
+ 1
+ 0
+ 93
+ 0
+ 0
+ 1
+ 0
+ 77
+ 0
+ 0
+ 0
+ 13
+ 0
+ 12
+ 22
+ 3
+ 11
+ 21
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+165 88.5 m 128,-1,1
+ 184 70 184 70 184 44 c 0,2,3
+ 184 32 184 32 180.5 19.5 c 128,-1,4
+ 177 7 177 7 167 -14 c 2,5,-1
+ 100 -156 l 1,6,-1
+ 40 -156 l 1,7,-1
+ 80 -6 l 1,8,9
+ 54 14 54 14 54 44 c 0,10,11
+ 54 70 54 70 73.5 88.5 c 128,-1,12
+ 93 107 93 107 119 107 c 0,13,0
+ 146 107 146 107 165 88.5 c 128,-1,1
+EndSplineSet
+Validated: 1
+Kerns2: 1878 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1677 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1547 -50 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 454 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
+EndChar

@@ -1,0 +1,99 @@
+StartChar: phi.sc
+Encoding: 66059 -1 1878
+Width: 720
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 50
+ 5
+ 1
+ 3
+ 8
+ 1
+ 7
+ 6
+ 3
+ 7
+ 104
+ 10
+ 9
+ 2
+ 6
+ 2
+ 1
+ 0
+ 1
+ 6
+ 0
+ 103
+ 0
+ 4
+ 4
+ 32
+ 75
+ 0
+ 1
+ 1
+ 33
+ 1
+ 76
+ 25
+ 25
+ 25
+ 31
+ 25
+ 31
+ 23
+ 17
+ 20
+ 17
+ 17
+ 20
+ 17
+ 17
+ 17
+ 11
+ 7
+ 29
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 360 564 basechar 0
+AnchorPoint: "Anchor-9" 360 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+610.5 119.5 m 128,-1,1
+ 536 61 536 61 405 57 c 1,2,-1
+ 405 0 l 1,3,-1
+ 315 0 l 1,4,-1
+ 315 57 l 1,5,6
+ 180 63 180 63 107.5 122 c 128,-1,7
+ 35 181 35 181 35 283 c 0,8,9
+ 35 387 35 387 110 445 c 128,-1,10
+ 185 503 185 503 315 507 c 1,11,-1
+ 315 564 l 1,12,-1
+ 405 564 l 1,13,-1
+ 405 507 l 1,14,15
+ 539 502 539 502 612 443 c 128,-1,16
+ 685 384 685 384 685 285 c 0,17,0
+ 685 178 685 178 610.5 119.5 c 128,-1,1
+176.5 166 m 128,-1,19
+ 224 125 224 125 318 121 c 1,20,-1
+ 318 444 l 1,21,22
+ 223 439 223 439 176 399 c 128,-1,23
+ 129 359 129 359 129 283 c 256,24,18
+ 129 207 129 207 176.5 166 c 128,-1,19
+544 166 m 128,-1,26
+ 591 207 591 207 591 285 c 0,27,28
+ 591 359 591 359 543.5 399.5 c 128,-1,29
+ 496 440 496 440 402 443 c 1,30,-1
+ 402 120 l 1,31,25
+ 497 125 497 125 544 166 c 128,-1,26
+EndSplineSet
+Validated: 1
+Kerns2: 2472 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 2220 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 2215 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 2173 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 2172 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 2162 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 2157 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 2155 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
+EndChar

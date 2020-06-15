@@ -1,0 +1,13 @@
+StartChar: currency.tf
+Encoding: 66323 -1 2268
+Width: 560
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2235 164 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" currency.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" currency
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" currency currency.tosf
+EndChar

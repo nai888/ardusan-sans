@@ -1,0 +1,18 @@
+StartChar: uni03F4
+Encoding: 1012 1012 1572
+Width: 692
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 346 689 basechar 0
+AnchorPoint: "Anchor-9" 346 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1534 920 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" theta.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" theta.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

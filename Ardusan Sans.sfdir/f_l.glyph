@@ -1,0 +1,14 @@
+StartChar: f_l
+Encoding: 65563 -1 744
+Width: 592
+GlyphClass: 3
+Flags: W
+LayerCount: 2
+Fore
+Refer: 747 64258 N 1 0 0 1 0 0 0
+Validated: 1
+Kerns2: 454 0 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
+Ligature2: "'dlig' Discretionary Ligatures lookup 29 subtable" f l
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" f_l.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" f_l.sc
+EndChar

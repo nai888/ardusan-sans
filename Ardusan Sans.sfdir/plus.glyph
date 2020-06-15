@@ -1,0 +1,73 @@
+StartChar: plus
+Encoding: 43 43 2315
+Width: 499
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 36
+ 4
+ 1
+ 0
+ 3
+ 1
+ 1
+ 2
+ 0
+ 1
+ 101
+ 0
+ 2
+ 2
+ 5
+ 93
+ 6
+ 1
+ 5
+ 5
+ 99
+ 2
+ 76
+ 0
+ 0
+ 0
+ 11
+ 0
+ 11
+ 17
+ 17
+ 17
+ 17
+ 17
+ 7
+ 11
+ 25
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+291 519 m 1,0,-1
+ 291 369 l 1,1,-1
+ 437 369 l 1,2,-1
+ 437 293 l 1,3,-1
+ 291 293 l 1,4,-1
+ 291 144 l 1,5,-1
+ 207 144 l 1,6,-1
+ 207 293 l 1,7,-1
+ 62 293 l 1,8,-1
+ 62 369 l 1,9,-1
+ 207 369 l 1,10,-1
+ 207 519 l 1,11,-1
+ 291 519 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 735 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 328 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" plus.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" plus.tf
+Substitution2: "'dnom' Denominators lookup 16 subtable" plus.dnom
+Substitution2: "'numr' Numerators lookup 15 subtable" plus.numr
+Substitution2: "'sups' Superscript lookup 14 subtable" uni207A
+Substitution2: "'subs' Subscript lookup 13 subtable" uni208A
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni208A uni207A plus.numr plus.dnom plus.tf plus.osf
+EndChar

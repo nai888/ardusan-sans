@@ -1,0 +1,16 @@
+StartChar: yacute.sc
+Encoding: 65877 -1 1060
+Width: 488
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 248 831 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 244 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1059 -1 N 1 0 0 1 0 0 0
+Refer: 2595 -1 N 1 0 0 1 96 0 0
+Validated: 1
+EndChar

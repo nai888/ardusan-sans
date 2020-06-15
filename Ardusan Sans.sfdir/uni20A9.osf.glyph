@@ -1,0 +1,13 @@
+StartChar: uni20A9.osf
+Encoding: 66318 -1 2259
+Width: 813
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2299 8361 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" uni20A9.tosf
+Substitution2: "'lnum' Lining Figures lookup 22 subtable" uni20A9
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni20A9 uni20A9.tosf
+EndChar

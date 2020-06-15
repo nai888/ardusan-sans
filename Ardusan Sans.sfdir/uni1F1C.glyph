@@ -1,0 +1,20 @@
+StartChar: uni1F1C
+Encoding: 7964 7964 1604
+Width: 790
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 706 0 basechar 0
+AnchorPoint: "Anchor-10" 186 693 basechar 0
+AnchorPoint: "Anchor-9" 546 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1531 917 N 1 0 0 1 255 0 0
+Refer: 2625 -1 N 1 0 0 1 24 0 0
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" Epsilon
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni1F14.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni1F14.sc Epsilon
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

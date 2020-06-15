@@ -1,0 +1,36 @@
+StartChar: equal
+Encoding: 61 61 2319
+Width: 500
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHB_1
+ 95
+PUSHB_1
+ 51
+CALL
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -98
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 2316 8722 N 1 0 0 1 0 95 2
+Refer: 2316 8722 N 1 0 0 1 0 -98 2
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" equal.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" equal.tf
+Substitution2: "'dnom' Denominators lookup 16 subtable" equal.dnom
+Substitution2: "'numr' Numerators lookup 15 subtable" equal.numr
+Substitution2: "'sups' Superscript lookup 14 subtable" uni207C
+Substitution2: "'subs' Subscript lookup 13 subtable" uni208C
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni208C uni207C equal.numr equal.dnom equal.tf equal.osf
+EndChar

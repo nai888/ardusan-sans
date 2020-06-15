@@ -1,0 +1,20 @@
+StartChar: Omicrontonos
+Encoding: 908 908 1555
+Width: 761
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 618 689 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 514 0 basechar 0
+AnchorPoint: "Anchor-10" 415 689 basechar 0
+AnchorPoint: "Anchor-9" 415 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 182 79 N 1 0 0 1 69 0 0
+Refer: 2632 -1 N 1 0 0 1 14 0 0
+Validated: 65541
+Substitution2: "Single Substitution lookup 45 subtable" Omicron
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" omicrontonos.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" omicrontonos.sc Omicron
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

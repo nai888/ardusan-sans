@@ -1,0 +1,41 @@
+StartChar: chi
+Encoding: 967 967 1697
+Width: 466
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 9
+ 1
+ 1
+ 48
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 233 527 basechar 0
+AnchorPoint: "Anchor-9" 233 -202 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+459 -199 m 1,0,-1
+ 366 -211 l 1,1,-1
+ 232 107 l 1,2,-1
+ 90 -210 l 1,3,-1
+ -1 -199 l 1,4,-1
+ 184 187 l 1,5,6
+ 124 319 124 319 84.5 385 c 128,-1,7
+ 45 451 45 451 -5 505 c 1,8,-1
+ 84 538 l 1,9,10
+ 125 491 125 491 159 429 c 128,-1,11
+ 193 367 193 367 235 257 c 1,12,-1
+ 348 538 l 1,13,-1
+ 443 527 l 1,14,-1
+ 283 186 l 1,15,-1
+ 459 -199 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" chi.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" chi.sc
+EndChar

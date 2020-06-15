@@ -1,0 +1,15 @@
+StartChar: uni0461.sc
+Encoding: 65945 -1 1433
+Width: 788
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+AnchorPoint: "Anchor-6" 0 0 basechar 0
+AnchorPoint: "Anchor-5" 394 564 basechar 0
+AnchorPoint: "Anchor-4" 394 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 759 -1 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar

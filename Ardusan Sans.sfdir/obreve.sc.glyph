@@ -1,0 +1,16 @@
+StartChar: obreve.sc
+Encoding: 65758 -1 941
+Width: 619
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 501 564 basechar 0
+AnchorPoint: "Anchor-16" 312 819 basechar 0
+AnchorPoint: "Anchor-15" 398 0 basechar 0
+AnchorPoint: "Anchor-14" 310 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 937 -1 N 1 0 0 1 0 0 0
+Refer: 2599 -1 N 1 0 0 1 128 0 0
+Validated: 1
+EndChar

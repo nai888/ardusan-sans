@@ -1,0 +1,76 @@
+StartChar: hookabovecomb.case
+Encoding: 66454 -1 2541
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+NPUSHB
+ 39
+ 9
+ 1
+ 0
+ 1
+ 16
+ 8
+ 0
+ 3
+ 2
+ 0
+ 2
+ 74
+ 0
+ 2
+ 0
+ 2
+ 132
+ 0
+ 1
+ 0
+ 0
+ 1
+ 87
+ 0
+ 1
+ 1
+ 0
+ 95
+ 0
+ 0
+ 1
+ 0
+ 79
+ 21
+ 35
+ 37
+ 3
+ 9
+ 23
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-23" -145 689 mark 0
+AnchorPoint: "Anchor-20" -129 987 basemark 0
+AnchorPoint: "Anchor-20" -145 689 mark 0
+AnchorPoint: "Anchor-16" -145 689 mark 0
+AnchorPoint: "Anchor-10" -145 689 mark 0
+AnchorPoint: "Anchor-5" -145 689 mark 0
+AnchorPoint: "Anchor-1" -145 689 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-180 847 m 1,0,1
+ -141 852 -141 852 -125 860.5 c 128,-1,2
+ -109 869 -109 869 -109 890 c 0,3,4
+ -109 908 -109 908 -121 917 c 128,-1,5
+ -133 926 -133 926 -153 926 c 0,6,7
+ -181 926 -181 926 -210 913 c 1,8,-1
+ -232 964 l 1,9,10
+ -191 988 -191 988 -138 988 c 0,11,12
+ -87 988 -87 988 -58.5 963 c 128,-1,13
+ -30 938 -30 938 -30 895 c 0,14,15
+ -30 824 -30 824 -111 811 c 1,16,-1
+ -111 763 l 1,17,-1
+ -180 763 l 1,18,-1
+ -180 847 l 1,0,1
+EndSplineSet
+Validated: 1
+EndChar

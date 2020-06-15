@@ -1,0 +1,12 @@
+StartChar: percent.tosf
+Encoding: 66425 -1 2407
+Width: 900
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2361 37 N 1 0 0 1 37 0 0
+Validated: 1
+Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" percent.osf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" percent.osf
+EndChar

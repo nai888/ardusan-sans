@@ -1,0 +1,17 @@
+StartChar: s
+Encoding: 115 115 637
+Width: 500
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 225 527 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 237 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1247 1079 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" s.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" s.sc
+EndChar

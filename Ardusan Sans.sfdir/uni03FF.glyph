@@ -1,0 +1,29 @@
+StartChar: uni03FF
+Encoding: 1023 1023 1578
+Width: 590
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -374
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 229 346 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 232 406 basechar 0
+AnchorPoint: "Anchor-9" 295 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1576 1021 N 1 0 0 1 0 0 0
+Refer: 2475 775 N 1 0 0 1 324 -374 2
+Validated: 1
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni037D.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni037D.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

@@ -1,0 +1,12 @@
+StartChar: guillemotleft
+Encoding: 171 171 2211
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2213 8249 N 1 0 0 1 0 0 0
+Refer: 2213 8249 N 1 0 0 1 235 0 0
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" guillemotleft.case
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" guillemotleft.case
+EndChar

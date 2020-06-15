@@ -1,0 +1,18 @@
+StartChar: ydieresis
+Encoding: 255 255 717
+Width: 492
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 248 768 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 249 -202 basechar 0
+LayerCount: 2
+Fore
+Refer: 714 121 N 1 0 0 1 0 0 0
+Refer: 2474 776 N 1 0 0 1 438 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" ydieresis.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ydieresis.sc
+EndChar

@@ -1,0 +1,69 @@
+StartChar: uni03DA
+Encoding: 986 986 1564
+Width: 542
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 30
+ 1
+ 1
+ 71
+ 0
+ 1
+ 1
+ 0
+ 93
+ 0
+ 0
+ 0
+ 76
+ 1
+ 76
+ 33
+ 45
+ 2
+ 10
+ 22
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 271 689 basechar 0
+AnchorPoint: "Anchor-9" 0 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+291 -153 m 1,0,1
+ 339 -132 339 -132 363.5 -109 c 128,-1,2
+ 388 -86 388 -86 388 -51 c 0,3,4
+ 388 -29 388 -29 376.5 -13 c 128,-1,5
+ 365 3 365 3 337 19.5 c 128,-1,6
+ 309 36 309 36 255 58 c 0,7,8
+ 155 99 155 99 105 170.5 c 128,-1,9
+ 55 242 55 242 55 364 c 0,10,11
+ 55 454 55 454 90 527 c 128,-1,12
+ 125 600 125 600 201.5 644.5 c 128,-1,13
+ 278 689 278 689 395 689 c 2,14,-1
+ 522 689 l 1,15,-1
+ 508 607 l 1,16,-1
+ 389 607 l 2,17,18
+ 274 607 274 607 216.5 543 c 128,-1,19
+ 159 479 159 479 159 368 c 0,20,21
+ 159 298 159 298 175.5 253 c 128,-1,22
+ 192 208 192 208 227 178.5 c 128,-1,23
+ 262 149 262 149 321 125 c 0,24,25
+ 405 91 405 91 446 51.5 c 128,-1,26
+ 487 12 487 12 487 -46 c 0,27,28
+ 487 -100 487 -100 449.5 -139.5 c 128,-1,29
+ 412 -179 412 -179 329 -215 c 1,30,-1
+ 291 -153 l 1,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 2333 -40 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1591 -40 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1590 -40 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1589 -40 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1567 -40 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1537 -40 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1530 -40 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1527 -40 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni03DB.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni03DB.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

@@ -1,0 +1,18 @@
+StartChar: ntilde
+Encoding: 241 241 565
+Width: 594
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 298 730 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 293 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 549 110 N 1 0 0 1 0 0 0
+Refer: 2483 771 N 1 0 0 1 495 0 0
+Validated: 5
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" ntilde.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ntilde.sc
+EndChar

@@ -1,0 +1,20 @@
+StartChar: uni1FEA
+Encoding: 8170 8170 1652
+Width: 737
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 462 689 basechar 0
+AnchorPoint: "Anchor-9" 462 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 309 89 N 1 0 0 1 187 0 0
+Refer: 2629 -1 N 1 0 0 1 24 0 0
+Validated: 65537
+Substitution2: "Single Substitution lookup 45 subtable" Upsilon
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni1F7A.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni1F7A.sc Upsilon
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

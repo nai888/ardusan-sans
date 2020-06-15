@@ -1,0 +1,13 @@
+StartChar: daggerdbl.osf
+Encoding: 66433 -1 2447
+Width: 510
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2434 8225 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" daggerdbl.tosf
+Substitution2: "'lnum' Lining Figures lookup 22 subtable" daggerdbl
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" daggerdbl daggerdbl.tosf
+EndChar

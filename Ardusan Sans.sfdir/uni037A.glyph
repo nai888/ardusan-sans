@@ -1,0 +1,15 @@
+StartChar: uni037A
+Encoding: 890 890 2041
+Width: 295
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 145 -190 basechar 0
+LayerCount: 2
+Fore
+Refer: 2620 837 N 1 0 0 1 271 0 0
+Validated: 1
+EndChar

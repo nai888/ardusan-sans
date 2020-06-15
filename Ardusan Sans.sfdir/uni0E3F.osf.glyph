@@ -1,0 +1,13 @@
+StartChar: uni0E3F.osf
+Encoding: 66303 -1 2244
+Width: 594
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2232 3647 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" uni0E3F.tosf
+Substitution2: "'lnum' Lining Figures lookup 22 subtable" uni0E3F
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni0E3F uni0E3F.tosf
+EndChar

@@ -1,0 +1,19 @@
+StartChar: Scommaaccent
+Encoding: 536 536 249
+Width: 500
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 276 689 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 267 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 242 83 N 1 0 0 1 0 0 0
+Refer: 2544 -1 N 1 0 0 1 357 0 0
+Validated: 65537
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" scommaaccent.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" scommaaccent.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

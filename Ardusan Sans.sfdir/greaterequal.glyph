@@ -1,0 +1,32 @@
+StartChar: greaterequal
+Encoding: 8805 8805 2323
+Width: 500
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHB_1
+ 30
+PUSHB_1
+ 51
+CALL
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -294
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 2321 62 N 1 0 0 1 0 30 2
+Refer: 2316 8722 N 1 0 0 1 0 -294 2
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" greaterequal.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" greaterequal.tf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" greaterequal.tf greaterequal.osf
+EndChar

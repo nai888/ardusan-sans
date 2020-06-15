@@ -1,0 +1,16 @@
+StartChar: umacron.sc
+Encoding: 65860 -1 1043
+Width: 605
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 525 564 basechar 0
+AnchorPoint: "Anchor-16" 305 766 basechar 0
+AnchorPoint: "Anchor-15" 393 0 basechar 0
+AnchorPoint: "Anchor-14" 302 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1020 -1 N 1 0 0 1 0 0 0
+Refer: 2602 -1 N 1 0 0 1 136 0 0
+Validated: 1
+EndChar

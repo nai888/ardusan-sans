@@ -1,0 +1,90 @@
+StartChar: pi
+Encoding: 960 960 1690
+Width: 595
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 47
+ 17
+ 1
+ 0
+ 3
+ 16
+ 4
+ 2
+ 1
+ 0
+ 2
+ 74
+ 5
+ 1
+ 1
+ 71
+ 5
+ 4
+ 2
+ 3
+ 0
+ 0
+ 3
+ 93
+ 0
+ 3
+ 3
+ 79
+ 75
+ 0
+ 1
+ 1
+ 77
+ 1
+ 76
+ 0
+ 0
+ 0
+ 22
+ 0
+ 22
+ 37
+ 17
+ 17
+ 25
+ 6
+ 10
+ 24
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 298 527 basechar 0
+AnchorPoint: "Anchor-9" 298 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+486 452 m 1,0,-1
+ 486 140 l 2,1,2
+ 486 102 486 102 496 85.5 c 128,-1,3
+ 506 69 506 69 532 57 c 1,4,-1
+ 503 -12 l 1,5,6
+ 442 3 442 3 418 34.5 c 128,-1,7
+ 394 66 394 66 394 129 c 2,8,-1
+ 394 452 l 1,9,-1
+ 212 451 l 1,10,-1
+ 212 0 l 1,11,-1
+ 120 0 l 1,12,-1
+ 120 451 l 1,13,14
+ 88 451 88 451 72 449 c 128,-1,15
+ 56 447 56 447 31 440 c 1,16,-1
+ 15 512 l 1,17,18
+ 41 521 41 521 62.5 524 c 128,-1,19
+ 84 527 84 527 122 527 c 2,20,-1
+ 565 527 l 1,21,-1
+ 565 452 l 1,22,-1
+ 486 452 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" pi.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" pi.sc
+EndChar

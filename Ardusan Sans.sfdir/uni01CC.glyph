@@ -1,0 +1,19 @@
+StartChar: uni01CC
+Encoding: 460 460 563
+Width: 866
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 728 780 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 725 -202 basechar 0
+LayerCount: 2
+Fore
+Refer: 549 110 N 1 0 0 1 0 0 0
+Refer: 512 567 N 1 0 0 1 586 0 0
+Refer: 2475 775 N 1 0 0 1 820 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni01CC.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni01CC.sc
+EndChar

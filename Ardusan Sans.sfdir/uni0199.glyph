@@ -1,0 +1,123 @@
+StartChar: uni0199
+Encoding: 409 409 523
+Width: 512
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 11
+ 1
+ 2
+ 1
+ 12
+ 1
+ 4
+ 2
+ 18
+ 1
+ 0
+ 4
+ 3
+ 74
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 23
+ 5
+ 1
+ 2
+ 2
+ 1
+ 95
+ 0
+ 1
+ 1
+ 98
+ 75
+ 0
+ 4
+ 4
+ 99
+ 75
+ 3
+ 1
+ 0
+ 0
+ 97
+ 0
+ 76
+ELSE
+NPUSHB
+ 21
+ 0
+ 1
+ 5
+ 1
+ 2
+ 4
+ 1
+ 2
+ 103
+ 0
+ 4
+ 4
+ 99
+ 75
+ 3
+ 1
+ 0
+ 0
+ 97
+ 0
+ 76
+EIF
+NPUSHB
+ 15
+ 0
+ 0
+ 20
+ 19
+ 17
+ 16
+ 0
+ 14
+ 0
+ 13
+ 35
+ 19
+ 6
+ 11
+ 22
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+205 657.5 m 128,-1,1
+ 187 639 187 639 187 600 c 2,2,-1
+ 187 0 l 1,3,-1
+ 95 0 l 1,4,-1
+ 95 599 l 2,5,6
+ 95 667 95 667 138.5 708.5 c 128,-1,7
+ 182 750 182 750 260 750 c 0,8,9
+ 296 750 296 750 324.5 743.5 c 128,-1,10
+ 353 737 353 737 386 723 c 1,11,-1
+ 357 656 l 1,12,13
+ 312 676 312 676 265 676 c 0,14,0
+ 223 676 223 676 205 657.5 c 128,-1,1
+296 294 m 1,15,-1
+ 512 0 l 1,16,-1
+ 402 0 l 1,17,-1
+ 193 288 l 1,18,-1
+ 387 527 l 1,19,-1
+ 490 527 l 1,20,-1
+ 296 294 l 1,15,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni0199.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0199.sc
+EndChar

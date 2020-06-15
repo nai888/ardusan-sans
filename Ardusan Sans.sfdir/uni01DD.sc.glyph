@@ -1,0 +1,15 @@
+StartChar: uni01DD.sc
+Encoding: 65670 -1 853
+Width: 580
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 281 564 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 290 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 854 -1 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar

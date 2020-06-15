@@ -1,0 +1,14 @@
+StartChar: O
+Encoding: 79 79 182
+Width: 492
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 566 111 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" ordmasculine
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" o.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ordmasculine o.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

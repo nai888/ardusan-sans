@@ -1,0 +1,20 @@
+StartChar: equal.numr
+Encoding: 66360 -1 2314
+Width: 400
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 2
+PUSHW_1
+ 277
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 2306 -1 N 1 0 0 1 0 277 2
+Validated: 1
+EndChar

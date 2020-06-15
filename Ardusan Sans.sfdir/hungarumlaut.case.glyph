@@ -1,0 +1,19 @@
+StartChar: hungarumlaut.case
+Encoding: 66468 -1 2575
+Width: 366
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 2
+PUSHB_1
+ 126
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 2478 779 N 1 0 0 1 366 126 2
+Validated: 1
+EndChar

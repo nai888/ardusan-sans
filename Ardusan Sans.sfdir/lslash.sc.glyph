@@ -1,0 +1,71 @@
+StartChar: lslash.sc
+Encoding: 65733 -1 916
+Width: 461
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 35
+ 13
+ 12
+ 11
+ 10
+ 7
+ 6
+ 5
+ 4
+ 8
+ 0
+ 2
+ 1
+ 74
+ 0
+ 2
+ 2
+ 32
+ 75
+ 0
+ 0
+ 0
+ 1
+ 94
+ 0
+ 1
+ 1
+ 33
+ 1
+ 76
+ 21
+ 17
+ 16
+ 3
+ 7
+ 23
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 371 316 basechar 0
+AnchorPoint: "Anchor-17" 218 564 basechar 0
+AnchorPoint: "Anchor-16" 151 564 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 268 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+197 78 m 1,0,-1
+ 441 78 l 1,1,-1
+ 430 0 l 1,2,-1
+ 105 0 l 1,3,-1
+ 105 192 l 1,4,-1
+ 57 162 l 1,5,-1
+ 22 218 l 1,6,-1
+ 105 270 l 1,7,-1
+ 105 564 l 1,8,-1
+ 197 564 l 1,9,-1
+ 197 326 l 1,10,-1
+ 339 414 l 1,11,-1
+ 374 358 l 1,12,-1
+ 197 249 l 1,13,-1
+ 197 78 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

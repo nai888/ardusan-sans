@@ -1,0 +1,116 @@
+StartChar: summation
+Encoding: 8721 8721 2335
+Width: 503
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 10
+ 4
+ 3
+ 3
+ 1
+ 0
+ 1
+ 74
+ 11
+ 1
+ 0
+ 9
+ 1
+ 1
+ 2
+ 73
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 22
+ 0
+ 0
+ 0
+ 3
+ 93
+ 4
+ 1
+ 3
+ 3
+ 58
+ 75
+ 0
+ 1
+ 1
+ 2
+ 93
+ 0
+ 2
+ 2
+ 59
+ 2
+ 76
+ELSE
+NPUSHB
+ 20
+ 4
+ 1
+ 3
+ 0
+ 0
+ 1
+ 3
+ 0
+ 101
+ 0
+ 1
+ 1
+ 2
+ 93
+ 0
+ 2
+ 2
+ 59
+ 2
+ 76
+EIF
+NPUSHB
+ 12
+ 0
+ 0
+ 0
+ 12
+ 0
+ 12
+ 17
+ 19
+ 17
+ 5
+ 9
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+453 669 m 1,0,-1
+ 453 591 l 1,1,-1
+ 157 591 l 1,2,-1
+ 341 357 l 1,3,-1
+ 341 315 l 1,4,-1
+ 157 78 l 1,5,-1
+ 453 78 l 1,6,-1
+ 453 0 l 1,7,-1
+ 50 0 l 1,8,-1
+ 50 78 l 1,9,-1
+ 254 334 l 1,10,-1
+ 50 591 l 1,11,-1
+ 50 669 l 1,12,-1
+ 453 669 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" summation.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" summation.tf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" summation.tf summation.osf
+EndChar

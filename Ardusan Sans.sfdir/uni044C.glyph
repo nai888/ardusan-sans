@@ -1,0 +1,86 @@
+StartChar: uni044C
+Encoding: 1100 1100 1271
+Width: 516
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 45
+ 5
+ 1
+ 2
+ 0
+ 3
+ 4
+ 2
+ 3
+ 103
+ 0
+ 1
+ 1
+ 60
+ 75
+ 6
+ 1
+ 4
+ 4
+ 0
+ 94
+ 0
+ 0
+ 0
+ 59
+ 0
+ 76
+ 11
+ 11
+ 0
+ 0
+ 11
+ 19
+ 11
+ 18
+ 17
+ 15
+ 0
+ 10
+ 0
+ 9
+ 17
+ 36
+ 7
+ 9
+ 22
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+AnchorPoint: "Anchor-6" 0 0 basechar 0
+AnchorPoint: "Anchor-5" 258 527 basechar 0
+AnchorPoint: "Anchor-4" 258 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+428 311 m 128,-1,1
+ 481 265 481 265 481 180 c 0,2,3
+ 481 91 481 91 421.5 45.5 c 128,-1,4
+ 362 0 362 0 274 0 c 2,5,-1
+ 95 0 l 1,6,-1
+ 95 527 l 1,7,-1
+ 187 527 l 1,8,-1
+ 187 357 l 1,9,-1
+ 257 357 l 2,10,0
+ 375 357 375 357 428 311 c 128,-1,1
+352.5 97 m 128,-1,12
+ 383 122 383 122 383 180 c 0,13,14
+ 383 235 383 235 354.5 261 c 128,-1,15
+ 326 287 326 287 256 287 c 2,16,-1
+ 187 287 l 1,17,-1
+ 187 72 l 1,18,-1
+ 266 72 l 2,19,11
+ 322 72 322 72 352.5 97 c 128,-1,12
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni044C.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni044C.sc
+EndChar

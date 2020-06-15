@@ -1,0 +1,31 @@
+StartChar: arrowdown
+Encoding: 8595 8595 2411
+Width: 900
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 11
+ 5
+ 1
+ 48
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+495 94 m 1,0,1
+ 519 134 519 134 557 168 c 2,2,-1
+ 708 307 l 1,3,-1
+ 763 246 l 1,4,-1
+ 450 -35 l 1,5,-1
+ 137 246 l 1,6,-1
+ 192 307 l 1,7,-1
+ 343 168 l 2,8,9
+ 381 134 381 134 405 94 c 1,10,-1
+ 405 635 l 1,11,-1
+ 495 635 l 1,12,-1
+ 495 94 l 1,0,1
+EndSplineSet
+Validated: 1
+EndChar

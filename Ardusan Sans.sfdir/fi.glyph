@@ -1,0 +1,138 @@
+StartChar: fi
+Encoding: 64257 64257 746
+Width: 575
+GlyphClass: 3
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 1
+ 0
+ 7
+ 3
+ 1
+ 1
+ 0
+ 2
+ 74
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 30
+ 0
+ 0
+ 0
+ 7
+ 95
+ 8
+ 1
+ 7
+ 7
+ 98
+ 75
+ 5
+ 1
+ 3
+ 3
+ 1
+ 93
+ 6
+ 1
+ 1
+ 1
+ 99
+ 75
+ 4
+ 1
+ 2
+ 2
+ 97
+ 2
+ 76
+ELSE
+NPUSHB
+ 28
+ 8
+ 1
+ 7
+ 0
+ 0
+ 1
+ 7
+ 0
+ 103
+ 5
+ 1
+ 3
+ 3
+ 1
+ 93
+ 6
+ 1
+ 1
+ 1
+ 99
+ 75
+ 4
+ 1
+ 2
+ 2
+ 97
+ 2
+ 76
+EIF
+NPUSHB
+ 16
+ 0
+ 0
+ 0
+ 24
+ 0
+ 23
+ 17
+ 17
+ 17
+ 17
+ 17
+ 19
+ 36
+ 9
+ 11
+ 27
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+352.5 741 m 128,-1,1
+ 387 732 387 732 422 714 c 1,2,-1
+ 390 650 l 1,3,4
+ 338 675 338 675 279 675 c 0,5,6
+ 226 675 226 675 206 656 c 128,-1,7
+ 186 637 186 637 186 597 c 2,8,-1
+ 186 527 l 1,9,-1
+ 480 527 l 1,10,-1
+ 480 0 l 1,11,-1
+ 388 0 l 1,12,-1
+ 388 456 l 1,13,-1
+ 186 456 l 1,14,-1
+ 186 0 l 1,15,-1
+ 94 0 l 1,16,-1
+ 94 456 l 1,17,-1
+ 10 456 l 1,18,-1
+ 10 527 l 1,19,-1
+ 94 527 l 1,20,-1
+ 94 596 l 2,21,22
+ 94 666 94 666 139 708 c 128,-1,23
+ 184 750 184 750 276 750 c 0,24,0
+ 318 750 318 750 352.5 741 c 128,-1,1
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" f i
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" fi.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" fi.sc
+EndChar

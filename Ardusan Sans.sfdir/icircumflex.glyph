@@ -1,0 +1,18 @@
+StartChar: icircumflex
+Encoding: 238 238 496
+Width: 282
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 143 792 basechar 0
+AnchorPoint: "Anchor-15" 197 0 basechar 0
+AnchorPoint: "Anchor-14" 141 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 492 305 N 1 0 0 1 0 0 0
+Refer: 2479 770 N 1 0 0 1 337 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" icircumflex.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" icircumflex.sc
+EndChar

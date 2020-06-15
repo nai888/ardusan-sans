@@ -1,0 +1,30 @@
+StartChar: less
+Encoding: 60 60 2322
+Width: 500
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 4
+ 0
+ 1
+ 48
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+417 551 m 1,0,-1
+ 450 475 l 1,1,-1
+ 123 333 l 1,2,-1
+ 450 189 l 1,3,-1
+ 417 115 l 1,4,-1
+ 50 286 l 1,5,-1
+ 50 380 l 1,6,-1
+ 417 551 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" less.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" less.tf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" less.tf less.osf
+EndChar

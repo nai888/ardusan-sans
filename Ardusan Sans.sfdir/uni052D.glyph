@@ -1,0 +1,135 @@
+StartChar: uni052D
+Encoding: 1325 1325 1373
+Width: 634
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 77
+ 20
+ 1
+ 7
+ 8
+ 11
+ 1
+ 9
+ 7
+ 2
+ 74
+ 0
+ 7
+ 0
+ 9
+ 3
+ 7
+ 9
+ 101
+ 2
+ 1
+ 0
+ 3
+ 0
+ 82
+ 0
+ 8
+ 8
+ 4
+ 93
+ 5
+ 1
+ 4
+ 4
+ 60
+ 75
+ 12
+ 10
+ 11
+ 6
+ 4
+ 3
+ 3
+ 1
+ 94
+ 0
+ 1
+ 1
+ 59
+ 1
+ 76
+ 30
+ 30
+ 0
+ 0
+ 30
+ 35
+ 30
+ 35
+ 32
+ 31
+ 29
+ 28
+ 27
+ 26
+ 0
+ 23
+ 0
+ 23
+ 21
+ 23
+ 17
+ 17
+ 17
+ 17
+ 13
+ 9
+ 26
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+AnchorPoint: "Anchor-6" 0 0 basechar 0
+AnchorPoint: "Anchor-5" 313 527 basechar 0
+AnchorPoint: "Anchor-4" 313 -202 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+594 74 m 1,0,-1
+ 594 -150 l 1,1,-1
+ 519 -150 l 1,2,-1
+ 504 0 l 1,3,-1
+ 145 0 l 1,4,-1
+ 130 -150 l 1,5,-1
+ 55 -150 l 1,6,-1
+ 55 74 l 1,7,-1
+ 93 74 l 1,8,9
+ 131 99 131 99 160 137.5 c 128,-1,10
+ 189 176 189 176 205 257 c 1,11,12
+ 136 270 136 270 103 314 c 128,-1,13
+ 70 358 70 358 70 434 c 2,14,-1
+ 70 527 l 1,15,-1
+ 160 527 l 1,16,-1
+ 160 436 l 2,17,18
+ 160 392 160 392 173.5 367.5 c 128,-1,19
+ 187 343 187 343 214 333 c 1,20,-1
+ 228 527 l 1,21,-1
+ 539 527 l 1,22,-1
+ 539 74 l 1,23,-1
+ 594 74 l 1,0,-1
+303 343 m 2,24,25
+ 303 337 303 337 301 325 c 1,26,-1
+ 447 325 l 1,27,-1
+ 447 454 l 1,28,-1
+ 311 454 l 1,29,-1
+ 303 343 l 2,24,25
+447 74 m 1,30,-1
+ 447 252 l 1,31,-1
+ 290 252 l 1,32,33
+ 274 179 274 179 245.5 136 c 128,-1,34
+ 217 93 217 93 185 74 c 1,35,-1
+ 447 74 l 1,30,-1
+EndSplineSet
+Validated: 1
+Kerns2: 1242 9 "'kern' Horizontal Kerning lookup 2 per glyph data 1"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni052D.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni052D.sc
+EndChar

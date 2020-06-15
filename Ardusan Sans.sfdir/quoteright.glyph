@@ -1,0 +1,19 @@
+StartChar: quoteright
+Encoding: 8217 8217 2219
+Width: 228
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHW_1
+ 646
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 2220 8218 N 1 0 0 1 0 646 2
+Validated: 1
+EndChar

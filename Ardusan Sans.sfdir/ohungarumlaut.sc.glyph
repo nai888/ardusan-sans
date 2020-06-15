@@ -1,0 +1,16 @@
+StartChar: ohungarumlaut.sc
+Encoding: 65780 -1 963
+Width: 619
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 501 564 basechar 0
+AnchorPoint: "Anchor-16" 310 564 basechar 0
+AnchorPoint: "Anchor-15" 398 0 basechar 0
+AnchorPoint: "Anchor-14" 310 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 937 -1 N 1 0 0 1 0 0 0
+Refer: 2596 -1 N 1 0 0 1 162 0 0
+Validated: 1
+EndChar

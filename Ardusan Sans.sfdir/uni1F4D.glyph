@@ -1,0 +1,20 @@
+StartChar: uni1F4D
+Encoding: 8013 8013 1644
+Width: 914
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 771 689 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 667 0 basechar 0
+AnchorPoint: "Anchor-10" 180 693 basechar 0
+AnchorPoint: "Anchor-9" 568 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1541 927 N 1 0 0 1 222 0 0
+Refer: 2626 -1 N 1 0 0 1 14 0 0
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" Omicron
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni1F45.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni1F45.sc Omicron
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

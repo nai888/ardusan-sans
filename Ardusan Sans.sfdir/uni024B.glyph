@@ -1,0 +1,193 @@
+StartChar: uni024B
+Encoding: 587 587 619
+Width: 598
+GlyphClass: 2
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 20
+LT
+IF
+NPUSHB
+ 16
+ 18
+ 1
+ 5
+ 2
+ 30
+ 29
+ 6
+ 3
+ 6
+ 5
+ 26
+ 1
+ 4
+ 1
+ 3
+ 74
+ELSE
+NPUSHB
+ 16
+ 18
+ 1
+ 5
+ 3
+ 30
+ 29
+ 6
+ 3
+ 6
+ 5
+ 26
+ 1
+ 4
+ 1
+ 3
+ 74
+EIF
+MPPEM
+PUSHB_1
+ 20
+LT
+IF
+NPUSHB
+ 33
+ 0
+ 5
+ 5
+ 2
+ 95
+ 3
+ 1
+ 2
+ 2
+ 107
+ 75
+ 7
+ 1
+ 6
+ 6
+ 1
+ 95
+ 0
+ 1
+ 1
+ 105
+ 75
+ 0
+ 4
+ 4
+ 0
+ 96
+ 0
+ 0
+ 0
+ 101
+ 0
+ 76
+ELSE
+NPUSHB
+ 37
+ 0
+ 3
+ 3
+ 99
+ 75
+ 0
+ 5
+ 5
+ 2
+ 95
+ 0
+ 2
+ 2
+ 107
+ 75
+ 7
+ 1
+ 6
+ 6
+ 1
+ 95
+ 0
+ 1
+ 1
+ 105
+ 75
+ 0
+ 4
+ 4
+ 0
+ 96
+ 0
+ 0
+ 0
+ 101
+ 0
+ 76
+EIF
+NPUSHB
+ 15
+ 27
+ 27
+ 27
+ 39
+ 27
+ 38
+ 39
+ 35
+ 18
+ 37
+ 37
+ 33
+ 8
+ 11
+ 26
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 302 527 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 302 -202 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+594 -195 m 1,0,1
+ 561 -213 561 -213 521 -213 c 0,2,3
+ 471 -213 471 -213 441 -182.5 c 128,-1,4
+ 411 -152 411 -152 411 -97 c 2,5,-1
+ 411 70 l 1,6,7
+ 385 31 385 31 346.5 9.5 c 128,-1,8
+ 308 -12 308 -12 261 -12 c 0,9,10
+ 167 -12 167 -12 114.5 62 c 128,-1,11
+ 62 136 62 136 62 261 c 0,12,13
+ 62 342 62 342 87 405 c 128,-1,14
+ 112 468 112 468 159 503.5 c 128,-1,15
+ 206 539 206 539 269 539 c 0,16,17
+ 353 539 353 539 417 468 c 1,18,-1
+ 424 527 l 1,19,-1
+ 503 527 l 1,20,-1
+ 503 -97 l 2,21,22
+ 503 -119 503 -119 510.5 -129 c 128,-1,23
+ 518 -139 518 -139 536 -139 c 0,24,25
+ 550 -139 550 -139 570 -133 c 1,26,-1
+ 594 -195 l 1,0,1
+353 80.5 m 128,-1,28
+ 383 100 383 100 411 139 c 1,29,-1
+ 411 397 l 1,30,31
+ 385 431 385 431 355.5 448.5 c 128,-1,32
+ 326 466 326 466 289 466 c 0,33,34
+ 228 466 228 466 194.5 415 c 128,-1,35
+ 161 364 161 364 161 263 c 0,36,37
+ 161 161 161 161 192 111 c 128,-1,38
+ 223 61 223 61 281 61 c 0,39,27
+ 323 61 323 61 353 80.5 c 128,-1,28
+EndSplineSet
+Validated: 1
+Kerns2: 2191 9 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2185 9 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2183 9 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2181 9 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2179 9 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2177 9 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni024B.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni024B.sc
+EndChar

@@ -1,0 +1,20 @@
+StartChar: infinity.case
+Encoding: 66354 -1 2302
+Width: 895
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 3
+PUSHB_1
+ 40
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 2330 8734 N 1 0 0 1 0 40 2
+Validated: 1
+EndChar

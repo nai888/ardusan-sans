@@ -1,0 +1,76 @@
+StartChar: tau
+Encoding: 964 964 1694
+Width: 459
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 36
+ 14
+ 1
+ 0
+ 1
+ 1
+ 74
+ 13
+ 5
+ 4
+ 3
+ 0
+ 71
+ 3
+ 2
+ 2
+ 0
+ 0
+ 1
+ 93
+ 0
+ 1
+ 1
+ 79
+ 0
+ 76
+ 0
+ 0
+ 0
+ 19
+ 0
+ 19
+ 37
+ 41
+ 4
+ 10
+ 22
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 225 527 basechar 0
+AnchorPoint: "Anchor-9" 225 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+271 452 m 1,0,-1
+ 271 141 l 2,1,2
+ 271 103 271 103 281 86 c 128,-1,3
+ 291 69 291 69 317 57 c 1,4,-1
+ 288 -12 l 1,5,6
+ 227 3 227 3 203 34.5 c 128,-1,7
+ 179 66 179 66 179 129 c 2,8,-1
+ 179 452 l 1,9,-1
+ 110 452 l 2,10,11
+ 71 451 71 451 53.5 449 c 128,-1,12
+ 36 447 36 447 11 440 c 1,13,-1
+ -5 512 l 1,14,15
+ 21 521 21 521 42.5 524 c 128,-1,16
+ 64 527 64 527 102 527 c 2,17,-1
+ 455 527 l 1,18,-1
+ 455 452 l 1,19,-1
+ 271 452 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" tau.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" tau.sc
+EndChar

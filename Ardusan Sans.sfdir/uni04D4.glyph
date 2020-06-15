@@ -1,0 +1,12 @@
+StartChar: uni04D4
+Encoding: 1236 1236 1381
+Width: 816
+GlyphClass: 3
+Flags: W
+LayerCount: 2
+Fore
+Refer: 34 198 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni04D5.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni04D5.sc
+EndChar

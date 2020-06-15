@@ -1,0 +1,19 @@
+StartChar: uni2070
+Encoding: 8304 8304 2121
+Width: 400
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 2
+PUSHW_1
+ 322
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 2101 -1 N 1 0 0 1 0 322 2
+Validated: 1
+EndChar

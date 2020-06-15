@@ -1,0 +1,51 @@
+StartChar: six
+Encoding: 54 54 2053
+Width: 778
+Flags: W
+AnchorPoint: "Anchor-9" 387 0 basechar 0
+AnchorPoint: "Anchor-10" 389 527 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+696 389.5 m 132,-1,1
+ 713 321 713 321 713 239 c 4,2,3
+ 713 113 713 113 661 50.5 c 132,-1,4
+ 609 -12 609 -12 527 -12 c 4,5,6
+ 471 -12 471 -12 435 17.5 c 132,-1,7
+ 399 47 399 47 390 105 c 5,8,9
+ 377 44 377 44 341.5 16 c 132,-1,10
+ 306 -12 306 -12 244 -12 c 4,11,12
+ 165 -12 165 -12 115 49.5 c 132,-1,13
+ 65 111 65 111 65 239 c 4,14,15
+ 65 322 65 322 81.5 390.5 c 132,-1,16
+ 98 459 98 459 126 527 c 5,17,-1
+ 217 527 l 5,18,19
+ 185 442 185 442 171.5 376 c 132,-1,20
+ 158 310 158 310 158 238 c 4,21,22
+ 158 147 158 147 183 104.5 c 132,-1,23
+ 208 62 208 62 258 62 c 4,24,25
+ 300 62 300 62 322.5 87 c 132,-1,26
+ 345 112 345 112 345 181 c 6,27,-1
+ 345 355 l 5,28,-1
+ 433 367 l 5,29,-1
+ 433 181 l 6,30,31
+ 433 62 433 62 517 62 c 4,32,33
+ 620 62 620 62 620 240 c 4,34,35
+ 620 309 620 309 605.5 375 c 132,-1,36
+ 591 441 591 441 559 527 c 5,37,-1
+ 651 527 l 5,38,0
+ 679 458 679 458 696 389.5 c 132,-1,1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" six.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" six.tf
+Substitution2: "'frac' Diagonal Fractions lookup 18 subtable" six.numr
+Substitution2: "'dnom' Denominators lookup 16 subtable" six.dnom
+Substitution2: "'numr' Numerators lookup 15 subtable" six.numr
+Substitution2: "'sups' Superscript lookup 14 subtable" uni2076
+Substitution2: "'subs' Subscript lookup 13 subtable" uni2086
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2086 uni2076 six.numr six.dnom six.tf six.osf
+EndChar

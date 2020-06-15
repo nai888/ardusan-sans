@@ -1,0 +1,136 @@
+StartChar: uni0273
+Encoding: 627 627 562
+Width: 586
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 17
+ 12
+ 2
+ 2
+ 1
+ 29
+ 1
+ 5
+ 2
+ 2
+ 74
+MPPEM
+PUSHB_1
+ 20
+LT
+IF
+NPUSHB
+ 27
+ 0
+ 1
+ 1
+ 3
+ 95
+ 4
+ 1
+ 3
+ 3
+ 99
+ 75
+ 0
+ 2
+ 2
+ 97
+ 75
+ 0
+ 5
+ 5
+ 0
+ 95
+ 0
+ 0
+ 0
+ 101
+ 0
+ 76
+ELSE
+NPUSHB
+ 31
+ 0
+ 3
+ 3
+ 99
+ 75
+ 0
+ 1
+ 1
+ 4
+ 95
+ 0
+ 4
+ 4
+ 107
+ 75
+ 0
+ 2
+ 2
+ 97
+ 75
+ 0
+ 5
+ 5
+ 0
+ 95
+ 0
+ 0
+ 0
+ 101
+ 0
+ 76
+EIF
+NPUSHB
+ 9
+ 36
+ 35
+ 17
+ 19
+ 37
+ 33
+ 6
+ 11
+ 26
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 298 527 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 303 -202 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+670 -175 m 1,0,1
+ 620 -213 620 -213 555 -213 c 0,2,3
+ 485 -213 485 -213 444.5 -173 c 128,-1,4
+ 404 -133 404 -133 404 -57 c 2,5,-1
+ 404 365 l 2,6,7
+ 404 421 404 421 383 444 c 128,-1,8
+ 362 467 362 467 321 467 c 0,9,10
+ 279 467 279 467 247 443 c 128,-1,11
+ 215 419 215 419 187 374 c 1,12,-1
+ 187 0 l 1,13,-1
+ 95 0 l 1,14,-1
+ 95 527 l 1,15,-1
+ 174 527 l 1,16,-1
+ 182 449 l 1,17,18
+ 210 491 210 491 251.5 515 c 128,-1,19
+ 293 539 293 539 343 539 c 0,20,21
+ 415 539 415 539 455.5 496 c 128,-1,22
+ 496 453 496 453 496 378 c 2,23,-1
+ 496 -65 l 2,24,25
+ 496 -139 496 -139 560 -139 c 0,26,27
+ 583 -139 583 -139 598.5 -134 c 128,-1,28
+ 614 -129 614 -129 634 -117 c 1,29,-1
+ 670 -175 l 1,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 2191 75 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2185 75 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2183 64 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2181 64 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2179 64 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2177 64 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2173 93 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2172 93 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
+EndChar

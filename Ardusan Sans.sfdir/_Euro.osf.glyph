@@ -1,0 +1,13 @@
+StartChar: Euro.osf
+Encoding: 66310 -1 2251
+Width: 576
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2239 8364 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" Euro.tosf
+Substitution2: "'lnum' Lining Figures lookup 22 subtable" Euro
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Euro Euro.tosf
+EndChar

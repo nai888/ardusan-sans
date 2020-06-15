@@ -1,0 +1,20 @@
+StartChar: uni1F3C
+Encoding: 7996 7996 1631
+Width: 550
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 460 0 basechar 0
+AnchorPoint: "Anchor-10" 186 693 basechar 0
+AnchorPoint: "Anchor-9" 402 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1535 921 N 1 0 0 1 255 0 0
+Refer: 2625 -1 N 1 0 0 1 24 0 0
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" Iota
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni1F34.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni1F34.sc Iota
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

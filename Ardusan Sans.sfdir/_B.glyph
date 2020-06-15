@@ -1,0 +1,13 @@
+StartChar: B
+Encoding: 66 66 37
+Width: 481
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 377 98 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" b.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" b.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni1FE6.sc
+Encoding: 66193 -1 2012
+Width: 488
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 246 564 basechar 0
+AnchorPoint: "Anchor-9" 244 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1059 -1 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar

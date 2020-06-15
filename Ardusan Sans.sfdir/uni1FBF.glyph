@@ -1,0 +1,72 @@
+StartChar: uni1FBF
+Encoding: 8127 8127 2634
+Width: 174
+Flags: W
+TtInstrs:
+PUSHB_2
+ 6
+ 100
+WCVTP
+NPUSHB
+ 34
+ 8
+ 1
+ 0
+ 1
+ 1
+ 74
+ 2
+ 1
+ 1
+ 0
+ 0
+ 1
+ 87
+ 2
+ 1
+ 1
+ 1
+ 0
+ 93
+ 0
+ 0
+ 1
+ 0
+ 77
+ 0
+ 0
+ 0
+ 13
+ 0
+ 12
+ 22
+ 3
+ 10
+ 21
+CALL
+PUSHB_2
+ 6
+ 0
+WCVTP
+EndTTInstrs
+AnchorPoint: "Anchor-23" 89 802 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+130.5 786 m 128,-1,1
+ 147 770 147 770 147 746 c 0,2,3
+ 147 733 147 733 141.5 717 c 128,-1,4
+ 136 701 136 701 121 669 c 2,5,-1
+ 80 583 l 1,6,-1
+ 27 583 l 1,7,-1
+ 56 699 l 1,8,9
+ 32 720 32 720 32 746 c 0,10,11
+ 32 770 32 770 49 786 c 128,-1,12
+ 66 802 66 802 90 802 c 256,13,0
+ 114 802 114 802 130.5 786 c 128,-1,1
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" uni1FBF.case
+Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" uni1FBF.case
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni1FBF.case
+EndChar

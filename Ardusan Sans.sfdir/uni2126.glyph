@@ -1,0 +1,14 @@
+StartChar: uni2126
+Encoding: 8486 8486 2332
+Width: 692
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 0 0 basechar 0
+AnchorPoint: "Anchor-2" 0 0 basechar 0
+AnchorPoint: "Anchor-1" 344 689 basechar 0
+AnchorPoint: "Anchor-0" 346 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1550 937 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar

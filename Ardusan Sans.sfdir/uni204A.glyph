@@ -1,0 +1,55 @@
+StartChar: uni204A
+Encoding: 8266 8266 2170
+Width: 529
+Flags: W
+TtInstrs:
+NPUSHB
+ 32
+ 1
+ 1
+ 0
+ 1
+ 1
+ 74
+ 3
+ 1
+ 0
+ 71
+ 0
+ 0
+ 0
+ 1
+ 93
+ 2
+ 1
+ 1
+ 1
+ 99
+ 0
+ 76
+ 0
+ 0
+ 0
+ 6
+ 0
+ 6
+ 20
+ 3
+ 11
+ 21
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+459 527 m 1,0,-1
+ 459 456 l 1,1,-1
+ 204 -212 l 1,2,-1
+ 120 -184 l 1,3,-1
+ 364 450 l 1,4,-1
+ 50 450 l 1,5,-1
+ 50 527 l 1,6,-1
+ 459 527 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,11 @@
+StartChar: dotmath
+Encoding: 8901 8901 2307
+Width: 240
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 2150 183 N 1 0 0 1 0 0 0
+Validated: 1
+Kerns2: 735 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 328 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
+EndChar

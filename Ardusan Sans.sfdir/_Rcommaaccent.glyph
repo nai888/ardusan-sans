@@ -1,0 +1,19 @@
+StartChar: Rcommaaccent
+Encoding: 342 342 235
+Width: 586
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 299 689 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 309 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 232 82 N 1 0 0 1 0 0 0
+Refer: 2544 -1 N 1 0 0 1 399 0 0
+Validated: 65541
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" rcommaaccent.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" rcommaaccent.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

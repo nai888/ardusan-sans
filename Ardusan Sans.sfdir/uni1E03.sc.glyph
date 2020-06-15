@@ -1,0 +1,16 @@
+StartChar: uni1E03.sc
+Encoding: 65616 -1 799
+Width: 555
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 280 810 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 290 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 798 -1 N 1 0 0 1 0 0 0
+Refer: 2593 -1 N 1 0 0 1 183 0 0
+Validated: 1
+EndChar

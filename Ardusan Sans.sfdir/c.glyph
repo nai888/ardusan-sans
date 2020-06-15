@@ -1,0 +1,45 @@
+StartChar: c
+Encoding: 99 99 387
+Width: 457
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 229 527 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 229 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+369.5 499 m 128,-1,1
+ 419 459 419 459 419 397 c 0,2,3
+ 419 338 419 338 382 303 c 128,-1,4
+ 345 268 345 268 260 245 c 0,5,6
+ 209 231 209 231 182 217.5 c 128,-1,7
+ 155 204 155 204 144.5 187 c 128,-1,8
+ 134 170 134 170 134 143 c 0,9,10
+ 134 105 134 105 162 83.5 c 128,-1,11
+ 190 62 190 62 235 62 c 0,12,13
+ 314 62 314 62 385 112 c 1,14,-1
+ 432 57 l 1,15,16
+ 353 -12 353 -12 233 -12 c 0,17,18
+ 182 -12 182 -12 137 5.5 c 128,-1,19
+ 92 23 92 23 63.5 59 c 128,-1,20
+ 35 95 35 95 35 146 c 0,21,22
+ 35 213 35 213 78 249.5 c 128,-1,23
+ 121 286 121 286 210 308 c 0,24,25
+ 275 324 275 324 298.5 344.5 c 128,-1,26
+ 322 365 322 365 322 400 c 0,27,28
+ 322 430 322 430 298 448 c 128,-1,29
+ 274 466 274 466 230 466 c 0,30,31
+ 192 466 192 466 159 455.5 c 128,-1,32
+ 126 445 126 445 88 422 c 1,33,-1
+ 50 479 l 1,34,35
+ 134 539 134 539 237 539 c 0,36,0
+ 320 539 320 539 369.5 499 c 128,-1,1
+EndSplineSet
+Validated: 1
+Kerns2: 697 -10 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" c.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" c.sc
+EndChar

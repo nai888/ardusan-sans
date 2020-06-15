@@ -1,0 +1,16 @@
+StartChar: uni1E3D.sc
+Encoding: 65728 -1 911
+Width: 456
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 366 316 basechar 0
+AnchorPoint: "Anchor-17" 213 564 basechar 0
+AnchorPoint: "Anchor-16" 146 564 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 265 -206 basechar 0
+LayerCount: 2
+Fore
+Refer: 907 -1 N 1 0 0 1 0 0 0
+Refer: 2513 813 N 1 0 0 1 459 0 0
+Validated: 1
+EndChar

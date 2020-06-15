@@ -1,0 +1,131 @@
+StartChar: daggerdbl
+Encoding: 8225 8225 2434
+Width: 510
+GlyphClass: 2
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 33
+ 5
+ 1
+ 1
+ 4
+ 1
+ 2
+ 3
+ 1
+ 2
+ 101
+ 0
+ 8
+ 8
+ 96
+ 75
+ 6
+ 1
+ 0
+ 0
+ 7
+ 93
+ 9
+ 1
+ 7
+ 7
+ 99
+ 75
+ 0
+ 3
+ 3
+ 97
+ 3
+ 76
+ELSE
+NPUSHB
+ 33
+ 5
+ 1
+ 1
+ 4
+ 1
+ 2
+ 3
+ 1
+ 2
+ 101
+ 6
+ 1
+ 0
+ 0
+ 7
+ 93
+ 9
+ 1
+ 7
+ 7
+ 99
+ 75
+ 0
+ 8
+ 8
+ 3
+ 93
+ 0
+ 3
+ 3
+ 97
+ 3
+ 76
+EIF
+NPUSHB
+ 14
+ 19
+ 18
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 16
+ 10
+ 11
+ 29
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+468 445 m 1,0,-1
+ 299 445 l 1,1,-1
+ 299 236 l 1,2,-1
+ 468 236 l 1,3,-1
+ 468 159 l 1,4,-1
+ 299 159 l 1,5,-1
+ 299 0 l 1,6,-1
+ 211 0 l 1,7,-1
+ 211 159 l 1,8,-1
+ 42 159 l 1,9,-1
+ 42 236 l 1,10,-1
+ 211 236 l 1,11,-1
+ 211 445 l 1,12,-1
+ 42 445 l 1,13,-1
+ 42 522 l 1,14,-1
+ 211 522 l 1,15,-1
+ 211 669 l 1,16,-1
+ 299 669 l 1,17,-1
+ 299 522 l 1,18,-1
+ 468 522 l 1,19,-1
+ 468 445 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" daggerdbl.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" daggerdbl.tf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" daggerdbl.tf daggerdbl.osf
+EndChar

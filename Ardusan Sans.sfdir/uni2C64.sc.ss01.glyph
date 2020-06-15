@@ -1,0 +1,160 @@
+StartChar: uni2C64.sc.ss01
+Encoding: 65579 -1 762
+Width: 381
+GlyphClass: 2
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 23
+LT
+IF
+NPUSHB
+ 17
+ 23
+ 18
+ 11
+ 2
+ 4
+ 4
+ 3
+ 3
+ 1
+ 0
+ 4
+ 2
+ 74
+ 17
+ 1
+ 1
+ 72
+ELSE
+NPUSHB
+ 17
+ 17
+ 1
+ 1
+ 2
+ 23
+ 18
+ 11
+ 2
+ 4
+ 4
+ 3
+ 3
+ 1
+ 0
+ 4
+ 3
+ 74
+EIF
+MPPEM
+PUSHB_1
+ 23
+LT
+IF
+NPUSHB
+ 21
+ 2
+ 1
+ 1
+ 0
+ 3
+ 4
+ 1
+ 3
+ 103
+ 5
+ 1
+ 4
+ 4
+ 0
+ 95
+ 0
+ 0
+ 0
+ 62
+ 0
+ 76
+ELSE
+NPUSHB
+ 28
+ 0
+ 1
+ 2
+ 3
+ 2
+ 1
+ 3
+ 126
+ 0
+ 2
+ 0
+ 3
+ 4
+ 2
+ 3
+ 103
+ 5
+ 1
+ 4
+ 4
+ 0
+ 95
+ 0
+ 0
+ 0
+ 62
+ 0
+ 76
+EIF
+NPUSHB
+ 13
+ 0
+ 0
+ 0
+ 26
+ 0
+ 25
+ 35
+ 36
+ 19
+ 36
+ 6
+ 9
+ 24
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 201 564 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 201 -202 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+294.5 -134 m 128,-1,1
+ 310 -129 310 -129 330 -117 c 1,2,-1
+ 366 -175 l 1,3,4
+ 316 -213 316 -213 251 -213 c 0,5,6
+ 181 -213 181 -213 140.5 -173 c 128,-1,7
+ 100 -133 100 -133 100 -57 c 2,8,-1
+ 100 564 l 1,9,-1
+ 180 564 l 1,10,-1
+ 188 468 l 1,11,-1
+ 188 460 l 1,12,13
+ 209 516 209 516 245 545 c 128,-1,14
+ 281 574 281 574 329 574 c 0,15,16
+ 357 574 357 574 381 568 c 1,17,-1
+ 364 478 l 1,18,19
+ 340 484 340 484 318 484 c 0,20,21
+ 269 484 269 484 239 448 c 128,-1,22
+ 209 412 209 412 192 336 c 1,23,-1
+ 192 -65 l 2,24,25
+ 192 -139 192 -139 256 -139 c 0,26,0
+ 279 -139 279 -139 294.5 -134 c 128,-1,1
+EndSplineSet
+Validated: 1
+Kerns2: 2173 20 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2172 20 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
+EndChar

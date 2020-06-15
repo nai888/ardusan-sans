@@ -1,0 +1,20 @@
+StartChar: Aringacute
+Encoding: 506 506 31
+Width: 405
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 290 1104 basechar 0
+AnchorPoint: "Anchor-15" 537 0 basechar 0
+AnchorPoint: "Anchor-14" 287 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 0
+Refer: 2538 -1 N 1 0 0 1 430 -20 2
+Refer: 2533 -1 N 1 0 0 1 438 193 2
+Validated: 65537
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" aringacute.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" aringacute.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

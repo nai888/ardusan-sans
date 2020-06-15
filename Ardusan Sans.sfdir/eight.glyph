@@ -1,0 +1,51 @@
+StartChar: eight
+Encoding: 56 56 2055
+Width: 586
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 298 527 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 293 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+343 539 m 4,0,1
+ 415 539 415 539 455.5 496 c 132,-1,2
+ 496 453 496 453 496 378 c 6,3,-1
+ 496 328 l 5,4,-1
+ 496 32 l 5,5,-1
+ 496 0 l 5,6,-1
+ 495 -0 l 5,7,8
+ 492 -51 492 -51 478 -85 c 4,9,10
+ 460 -129 460 -129 425.5 -156.5 c 132,-1,11
+ 391 -184 391 -184 329 -212 c 5,12,-1
+ 302 -145 l 5,13,14
+ 341 -127 341 -127 362 -109.5 c 132,-1,15
+ 383 -92 383 -92 393.5 -60.5 c 132,-1,16
+ 404 -29 404 -29 404 26 c 6,17,-1
+ 404 328 l 5,18,-1
+ 404 365 l 6,19,20
+ 404 420 404 420 382 444 c 4,21,22
+ 361 467 361 467 320 467 c 132,-1,23
+ 279 467 279 467 247 443 c 132,-1,24
+ 215 419 215 419 187 374 c 5,25,-1
+ 187 0 l 5,26,-1
+ 95 0 l 5,27,-1
+ 95 527 l 5,28,-1
+ 95 738 l 5,29,-1
+ 187 748 l 5,30,-1
+ 187 456 l 5,31,32
+ 214 493 214 493 252 515 c 4,33,34
+ 292 539 292 539 343 539 c 4,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" eight.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" eight.tf
+Substitution2: "'frac' Diagonal Fractions lookup 18 subtable" eight.numr
+Substitution2: "'dnom' Denominators lookup 16 subtable" eight.dnom
+Substitution2: "'numr' Numerators lookup 15 subtable" eight.numr
+Substitution2: "'sups' Superscript lookup 14 subtable" uni2078
+Substitution2: "'subs' Subscript lookup 13 subtable" uni2088
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2088 uni2078 eight.numr eight.dnom eight.tf eight.osf
+EndChar

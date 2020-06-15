@@ -1,0 +1,13 @@
+StartChar: uni04D5
+Encoding: 1237 1237 1382
+Width: 849
+GlyphClass: 3
+Flags: W
+LayerCount: 2
+Fore
+Refer: 374 230 N 1 0 0 1 0 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni04D5.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni04D5.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni04D5.sc
+EndChar

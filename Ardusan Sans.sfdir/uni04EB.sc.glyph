@@ -1,0 +1,16 @@
+StartChar: uni04EB.sc
+Encoding: 66003 -1 1491
+Width: 619
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+AnchorPoint: "Anchor-6" 0 0 basechar 0
+AnchorPoint: "Anchor-5" 312 798 basechar 0
+AnchorPoint: "Anchor-4" 310 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1490 -1 N 1 0 0 1 0 0 0
+Refer: 2592 -1 N 1 0 0 1 117 0 0
+Validated: 1
+EndChar

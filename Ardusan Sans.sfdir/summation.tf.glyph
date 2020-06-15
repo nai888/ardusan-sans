@@ -1,0 +1,83 @@
+StartChar: summation.tf
+Encoding: 66400 -1 2382
+Width: 560
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 50
+ 10
+ 4
+ 3
+ 3
+ 1
+ 0
+ 1
+ 74
+ 11
+ 1
+ 0
+ 9
+ 1
+ 1
+ 2
+ 73
+ 0
+ 0
+ 0
+ 3
+ 93
+ 4
+ 1
+ 3
+ 3
+ 58
+ 75
+ 0
+ 1
+ 1
+ 2
+ 93
+ 0
+ 2
+ 2
+ 59
+ 2
+ 76
+ 0
+ 0
+ 0
+ 12
+ 0
+ 12
+ 17
+ 19
+ 17
+ 5
+ 9
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+491 689 m 1,0,-1
+ 491 611 l 1,1,-1
+ 175 611 l 1,2,-1
+ 379 367 l 1,3,-1
+ 379 325 l 1,4,-1
+ 175 78 l 1,5,-1
+ 491 78 l 1,6,-1
+ 491 0 l 1,7,-1
+ 68 0 l 1,8,-1
+ 68 78 l 1,9,-1
+ 292 344 l 1,10,-1
+ 68 611 l 1,11,-1
+ 68 689 l 1,12,-1
+ 491 689 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" summation.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" summation
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" summation summation.tosf
+EndChar

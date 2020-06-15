@@ -1,0 +1,16 @@
+StartChar: uni04DB.sc
+Encoding: 65995 -1 1483
+Width: 580
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+AnchorPoint: "Anchor-6" 0 0 basechar 0
+AnchorPoint: "Anchor-5" 283 798 basechar 0
+AnchorPoint: "Anchor-4" 290 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1482 -1 N 1 0 0 1 0 0 0
+Refer: 2592 -1 N 1 0 0 1 88 0 0
+Validated: 1
+EndChar

@@ -1,0 +1,18 @@
+StartChar: wacute
+Encoding: 7811 7811 706
+Width: 468
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 361 801 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 359 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 705 119 N 1 0 0 1 0 0 0
+Refer: 2477 769 N 1 0 0 1 509 0 0
+Validated: 1
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" wacute.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" wacute.sc
+EndChar

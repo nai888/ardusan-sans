@@ -1,0 +1,24 @@
+StartChar: gravecomb.sc
+Encoding: 66477 -1 2594
+Width: 300
+Flags: W
+TtInstrs:
+PUSHB_4
+ 2
+ 0
+ 1
+ 48
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-20" 152 831 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+71 831 m 1,0,-1
+ 270 717 l 1,1,-1
+ 242 668 l 1,2,-1
+ 30 754 l 1,3,-1
+ 71 831 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

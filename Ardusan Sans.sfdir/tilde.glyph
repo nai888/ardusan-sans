@@ -1,0 +1,15 @@
+StartChar: tilde
+Encoding: 732 732 2590
+Width: 394
+Flags: W
+AnchorPoint: "Anchor-20" 197 730 basemark 0
+LayerCount: 2
+Fore
+Refer: 2483 771 N 1 0 0 1 394 0 0
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" tilde.case
+Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" tilde.case
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" tilde.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" tilde.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" tilde.sc tilde.case
+EndChar

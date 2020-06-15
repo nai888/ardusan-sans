@@ -1,0 +1,13 @@
+StartChar: X
+Encoding: 88 88 308
+Width: 584
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 713 120 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" x.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" x.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

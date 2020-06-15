@@ -1,0 +1,26 @@
+StartChar: uni0215.sc
+Encoding: 65843 -1 1026
+Width: 605
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 2
+PUSHB_1
+ 37
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 525 564 basechar 0
+AnchorPoint: "Anchor-16" 265 869 basechar 0
+AnchorPoint: "Anchor-15" 393 0 basechar 0
+AnchorPoint: "Anchor-14" 302 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1020 -1 N 1 0 0 1 0 0 0
+Refer: 2487 783 N 1 0 0 1 446 37 2
+Validated: 1
+EndChar

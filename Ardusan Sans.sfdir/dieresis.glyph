@@ -1,0 +1,15 @@
+StartChar: dieresis
+Encoding: 168 168 2581
+Width: 385
+Flags: W
+AnchorPoint: "Anchor-20" 195 768 basemark 0
+LayerCount: 2
+Fore
+Refer: 2474 776 N 1 0 0 1 385 0 0
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" dieresis.case
+Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" dieresis.case
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" dieresis.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" dieresis.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" dieresis.sc dieresis.case
+EndChar

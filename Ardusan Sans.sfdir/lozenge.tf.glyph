@@ -1,0 +1,63 @@
+StartChar: lozenge.tf
+Encoding: 66428 -1 2420
+Width: 560
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 32
+ 9
+ 8
+ 7
+ 4
+ 1
+ 5
+ 0
+ 1
+ 1
+ 74
+ 2
+ 1
+ 1
+ 1
+ 58
+ 75
+ 0
+ 0
+ 0
+ 59
+ 0
+ 76
+ 0
+ 0
+ 0
+ 5
+ 0
+ 5
+ 18
+ 3
+ 9
+ 21
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+334 689 m 1,0,-1
+ 521 347 l 1,1,-1
+ 334 0 l 1,2,-1
+ 227 0 l 1,3,-1
+ 40 346 l 1,4,-1
+ 227 689 l 1,5,-1
+ 334 689 l 1,0,-1
+280 622 m 1,6,-1
+ 135 347 l 1,7,-1
+ 280 68 l 1,8,-1
+ 425 346 l 1,9,-1
+ 280 622 l 1,6,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" lozenge.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" lozenge
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" lozenge lozenge.tosf
+EndChar

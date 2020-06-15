@@ -1,0 +1,18 @@
+StartChar: Beta
+Encoding: 914 914 1528
+Width: 481
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 301 689 basechar 0
+AnchorPoint: "Anchor-9" 310 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 37 66 N 1 0 0 1 0 0 0
+Validated: 65537
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" beta.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" beta.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

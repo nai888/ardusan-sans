@@ -1,0 +1,19 @@
+StartChar: Upsilondieresis
+Encoding: 939 939 1559
+Width: 492
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 277 894 basechar 0
+AnchorPoint: "Anchor-9" 275 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 309 89 N 1 0 0 1 0 0 0
+Refer: 2530 -1 N 1 0 0 1 467 0 0
+Validated: 65537
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" upsilondieresis.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" upsilondieresis.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

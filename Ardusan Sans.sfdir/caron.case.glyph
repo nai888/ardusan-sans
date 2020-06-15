@@ -1,0 +1,10 @@
+StartChar: caron.case
+Encoding: 66462 -1 2569
+Width: 392
+Flags: W
+AnchorPoint: "Anchor-20" 198 909 basemark 0
+LayerCount: 2
+Fore
+Refer: 2536 -1 N 1 0 0 1 392 0 0
+Validated: 1
+EndChar

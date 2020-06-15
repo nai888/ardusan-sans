@@ -1,0 +1,147 @@
+StartChar: yen
+Encoding: 165 165 2300
+Width: 536
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 21
+ 1
+ 0
+ 9
+ 1
+ 74
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 33
+ 8
+ 1
+ 0
+ 7
+ 1
+ 1
+ 2
+ 0
+ 1
+ 102
+ 6
+ 1
+ 2
+ 5
+ 1
+ 3
+ 4
+ 2
+ 3
+ 101
+ 11
+ 10
+ 2
+ 9
+ 9
+ 96
+ 75
+ 0
+ 4
+ 4
+ 97
+ 4
+ 76
+ELSE
+NPUSHB
+ 33
+ 11
+ 10
+ 2
+ 9
+ 0
+ 9
+ 131
+ 8
+ 1
+ 0
+ 7
+ 1
+ 1
+ 2
+ 0
+ 1
+ 102
+ 6
+ 1
+ 2
+ 5
+ 1
+ 3
+ 4
+ 2
+ 3
+ 101
+ 0
+ 4
+ 4
+ 97
+ 4
+ 76
+EIF
+NPUSHB
+ 20
+ 0
+ 0
+ 0
+ 22
+ 0
+ 22
+ 20
+ 19
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 12
+ 11
+ 29
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+531 669 m 1,0,-1
+ 340 346 l 1,1,-1
+ 453 346 l 1,2,-1
+ 453 284 l 1,3,-1
+ 315 284 l 1,4,-1
+ 315 194 l 1,5,-1
+ 453 194 l 1,6,-1
+ 453 133 l 1,7,-1
+ 315 133 l 1,8,-1
+ 315 0 l 1,9,-1
+ 221 0 l 1,10,-1
+ 221 133 l 1,11,-1
+ 82 133 l 1,12,-1
+ 82 194 l 1,13,-1
+ 221 194 l 1,14,-1
+ 221 284 l 1,15,-1
+ 82 284 l 1,16,-1
+ 82 346 l 1,17,-1
+ 196 346 l 1,18,-1
+ 5 669 l 1,19,-1
+ 107 669 l 1,20,-1
+ 271 374 l 1,21,-1
+ 434 669 l 1,22,-1
+ 531 669 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" yen.osf
+Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" yen.tf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" yen.tf yen.osf
+EndChar

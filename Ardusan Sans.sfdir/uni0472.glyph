@@ -1,0 +1,107 @@
+StartChar: uni0472
+Encoding: 1138 1138 1158
+Width: 692
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 58
+ 0
+ 2
+ 0
+ 4
+ 5
+ 2
+ 4
+ 101
+ 7
+ 1
+ 3
+ 3
+ 1
+ 95
+ 6
+ 1
+ 1
+ 1
+ 65
+ 75
+ 8
+ 1
+ 5
+ 5
+ 0
+ 95
+ 0
+ 0
+ 0
+ 66
+ 0
+ 76
+ 23
+ 23
+ 16
+ 16
+ 0
+ 0
+ 23
+ 29
+ 23
+ 28
+ 26
+ 25
+ 16
+ 22
+ 16
+ 21
+ 19
+ 18
+ 0
+ 15
+ 0
+ 14
+ 38
+ 9
+ 9
+ 21
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+AnchorPoint: "Anchor-6" 0 0 basechar 0
+AnchorPoint: "Anchor-5" 346 689 basechar 0
+AnchorPoint: "Anchor-4" 346 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+498.5 659.5 m 128,-1,1
+ 564 618 564 618 600.5 538 c 128,-1,2
+ 637 458 637 458 637 344 c 0,3,4
+ 637 232 637 232 600.5 152 c 128,-1,5
+ 564 72 564 72 498.5 30 c 128,-1,6
+ 433 -12 433 -12 346 -12 c 256,7,8
+ 259 -12 259 -12 193.5 29 c 128,-1,9
+ 128 70 128 70 91.5 150 c 128,-1,10
+ 55 230 55 230 55 343 c 0,11,12
+ 55 454 55 454 91.5 535 c 128,-1,13
+ 128 616 128 616 194 658.5 c 128,-1,14
+ 260 701 260 701 346 701 c 0,15,0
+ 433 701 433 701 498.5 659.5 c 128,-1,1
+212 565 m 128,-1,17
+ 161 507 161 507 153 386 c 1,18,-1
+ 539 386 l 1,19,20
+ 532 508 532 508 481.5 565.5 c 128,-1,21
+ 431 623 431 623 346 623 c 0,22,16
+ 263 623 263 623 212 565 c 128,-1,17
+483.5 126.5 m 128,-1,24
+ 534 187 534 187 539 316 c 1,25,-1
+ 153 316 l 1,26,27
+ 158 188 158 188 209.5 127 c 128,-1,28
+ 261 66 261 66 346 66 c 0,29,23
+ 433 66 433 66 483.5 126.5 c 128,-1,24
+EndSplineSet
+Validated: 1
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni0473.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0473.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

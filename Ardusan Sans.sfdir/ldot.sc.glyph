@@ -1,0 +1,26 @@
+StartChar: ldot.sc
+Encoding: 65730 -1 913
+Width: 456
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -432
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 366 316 basechar 0
+AnchorPoint: "Anchor-17" 213 564 basechar 0
+AnchorPoint: "Anchor-16" 368 378 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 263 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 907 -1 N 1 0 0 1 0 0 0
+Refer: 2593 -1 N 1 0 0 1 271 -432 2
+Validated: 1
+EndChar

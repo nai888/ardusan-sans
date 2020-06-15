@@ -1,0 +1,94 @@
+StartChar: uni0240
+Encoding: 576 576 736
+Width: 405
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 51
+ 13
+ 1
+ 0
+ 1
+ 22
+ 14
+ 8
+ 7
+ 4
+ 2
+ 0
+ 23
+ 1
+ 3
+ 2
+ 3
+ 74
+ 0
+ 0
+ 0
+ 1
+ 93
+ 0
+ 1
+ 1
+ 99
+ 75
+ 0
+ 2
+ 2
+ 3
+ 95
+ 4
+ 1
+ 3
+ 3
+ 101
+ 3
+ 76
+ 0
+ 0
+ 0
+ 25
+ 0
+ 24
+ 39
+ 17
+ 25
+ 5
+ 11
+ 23
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 203 527 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 203 -202 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+298 -201 m 128,-1,1
+ 273 -189 273 -189 255 -171 c 128,-1,2
+ 237 -153 237 -153 213 -121 c 0,3,4
+ 186 -85 186 -85 164 -63 c 128,-1,5
+ 142 -41 142 -41 107.5 -23 c 128,-1,6
+ 73 -5 73 -5 25 0 c 1,7,-1
+ 25 69 l 1,8,-1
+ 299 449 l 1,9,-1
+ 48 449 l 1,10,-1
+ 48 527 l 1,11,-1
+ 404 527 l 1,12,-1
+ 404 457 l 1,13,-1
+ 114 57 l 1,14,15
+ 168 42 168 42 201 12.5 c 128,-1,16
+ 234 -17 234 -17 268 -65 c 0,17,18
+ 296 -103 296 -103 316.5 -120.5 c 128,-1,19
+ 337 -138 337 -138 366 -138 c 0,20,21
+ 396 -138 396 -138 424 -123 c 1,22,-1
+ 455 -183 l 1,23,24
+ 416 -213 416 -213 358 -213 c 0,25,0
+ 323 -213 323 -213 298 -201 c 128,-1,1
+EndSplineSet
+Validated: 1
+Kerns2: 2191 18 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2185 18 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2183 18 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2181 18 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2179 18 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2177 18 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
+EndChar

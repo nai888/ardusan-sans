@@ -1,0 +1,88 @@
+StartChar: uni018B
+Encoding: 395 395 67
+Width: 579
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 44
+ 0
+ 1
+ 0
+ 4
+ 5
+ 1
+ 4
+ 101
+ 0
+ 2
+ 2
+ 3
+ 93
+ 0
+ 3
+ 3
+ 96
+ 75
+ 6
+ 1
+ 5
+ 5
+ 0
+ 93
+ 0
+ 0
+ 0
+ 97
+ 0
+ 76
+ 13
+ 13
+ 13
+ 21
+ 13
+ 20
+ 34
+ 17
+ 17
+ 36
+ 32
+ 7
+ 11
+ 25
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 290 689 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 290 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+479 0 m 1,0,-1
+ 287 0 l 2,1,2
+ 169 0 169 0 99.5 51 c 128,-1,3
+ 30 102 30 102 30 212 c 0,4,5
+ 30 318 30 318 100 374 c 128,-1,6
+ 170 430 170 430 293 430 c 2,7,-1
+ 384 430 l 1,8,-1
+ 384 611 l 1,9,-1
+ 109 611 l 1,10,-1
+ 109 689 l 1,11,-1
+ 479 689 l 1,12,-1
+ 479 0 l 1,0,-1
+384 76 m 1,13,-1
+ 384 356 l 1,14,-1
+ 292 356 l 2,15,16
+ 213 356 213 356 172 322 c 128,-1,17
+ 131 288 131 288 131 212 c 0,18,19
+ 131 134 131 134 171.5 105 c 128,-1,20
+ 212 76 212 76 289 76 c 2,21,-1
+ 384 76 l 1,13,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni018C.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni018C.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

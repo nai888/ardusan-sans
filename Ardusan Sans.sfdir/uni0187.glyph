@@ -1,0 +1,120 @@
+StartChar: uni0187
+Encoding: 391 391 53
+Width: 560
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 68
+ 1
+ 1
+ 0
+ 5
+ 2
+ 1
+ 4
+ 0
+ 34
+ 8
+ 2
+ 1
+ 4
+ 20
+ 9
+ 2
+ 2
+ 1
+ 21
+ 1
+ 3
+ 2
+ 5
+ 74
+ 6
+ 1
+ 5
+ 0
+ 0
+ 4
+ 5
+ 0
+ 103
+ 0
+ 1
+ 1
+ 4
+ 95
+ 0
+ 4
+ 4
+ 104
+ 75
+ 0
+ 2
+ 2
+ 3
+ 95
+ 0
+ 3
+ 3
+ 105
+ 3
+ 76
+ 0
+ 0
+ 0
+ 37
+ 0
+ 36
+ 38
+ 37
+ 36
+ 36
+ 36
+ 7
+ 11
+ 25
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-18" 0 0 basechar 0
+AnchorPoint: "Anchor-17" 0 0 basechar 0
+AnchorPoint: "Anchor-16" 280 689 basechar 0
+AnchorPoint: "Anchor-15" 0 0 basechar 0
+AnchorPoint: "Anchor-14" 280 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+706 794 m 1,1,-1
+ 670 735 l 1,2,3
+ 650 747 650 747 634.5 752.5 c 128,-1,4
+ 619 758 619 758 596 758 c 0,5,6
+ 532 758 532 758 532 684 c 2,7,-1
+ 532 633 l 1,8,-1
+ 488 581 l 1,9,10
+ 416 623 416 623 347 623 c 0,11,12
+ 261 623 261 623 208.5 557 c 128,-1,13
+ 156 491 156 491 156 345 c 0,14,15
+ 156 203 156 203 208 135.5 c 128,-1,16
+ 260 68 260 68 346 68 c 0,17,18
+ 390 68 390 68 422 83 c 128,-1,19
+ 454 98 454 98 492 126 c 1,20,-1
+ 540 65 l 1,21,22
+ 509 32 509 32 458.5 10 c 128,-1,23
+ 408 -12 408 -12 343 -12 c 0,24,25
+ 259 -12 259 -12 193.5 29.5 c 128,-1,26
+ 128 71 128 71 91.5 151.5 c 128,-1,27
+ 55 232 55 232 55 345 c 256,28,29
+ 55 458 55 458 93 538.5 c 128,-1,30
+ 131 619 131 619 196 660 c 128,-1,31
+ 261 701 261 701 341 701 c 0,32,33
+ 396 701 396 701 440 683 c 1,34,35
+ 441 754 441 754 480.5 793 c 128,-1,36
+ 520 832 520 832 591 832 c 0,37,0
+ 656 832 656 832 706 794 c 1,1,-1
+EndSplineSet
+Validated: 1
+Kerns2: 2202 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2191 117 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2185 117 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2183 117 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2181 112 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2179 117 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2177 112 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni0188.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0188.sc
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

@@ -1,0 +1,20 @@
+StartChar: Omegatonos
+Encoding: 911 911 1557
+Width: 763
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-13" 0 0 basechar 0
+AnchorPoint: "Anchor-12" 0 0 basechar 0
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 415 689 basechar 0
+AnchorPoint: "Anchor-9" 417 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1550 937 N 1 0 0 1 71 0 0
+Refer: 2632 -1 N 1 0 0 1 14 0 0
+Validated: 1
+Substitution2: "Single Substitution lookup 45 subtable" uni03A9
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" omegatonos.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" omegatonos.sc uni03A9
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

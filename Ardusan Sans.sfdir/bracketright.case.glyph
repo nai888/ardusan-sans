@@ -1,0 +1,19 @@
+StartChar: bracketright.case
+Encoding: 66285 -1 2183
+Width: 322
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHW_1
+ -10
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 2179 93 N 1 0 0 1 0 -10 2
+Validated: 1
+EndChar

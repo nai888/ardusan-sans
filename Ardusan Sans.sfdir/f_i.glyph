@@ -1,0 +1,13 @@
+StartChar: f_i
+Encoding: 65561 -1 742
+Width: 575
+GlyphClass: 3
+Flags: W
+LayerCount: 2
+Fore
+Refer: 746 64257 N 1 0 0 1 0 0 0
+Validated: 1
+Ligature2: "'dlig' Discretionary Ligatures lookup 29 subtable" f i
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" f_i.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" f_i.sc
+EndChar
