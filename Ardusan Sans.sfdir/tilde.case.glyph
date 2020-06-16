@@ -1,6 +1,6 @@
 StartChar: tilde.case
-Encoding: 66471 -1 2578
-Width: 394
+Encoding: 436 -1 423
+Width: 488
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -12,9 +12,9 @@ PUSHB_1
  51
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-20" 197 856 basemark 0
+AnchorPoint: "Anchor-20" 245 856 basemark 0
 LayerCount: 2
 Fore
-Refer: 2483 771 N 1 0 0 1 394 126 2
+Refer: 328 771 N 1 0 0 1 442 126 2
 Validated: 1
 EndChar

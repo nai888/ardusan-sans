@@ -1,13 +1,10 @@
 StartChar: logicalnot.osf
-Encoding: 66374 -1 2352
-Width: 500
+Encoding: 339 -1 206
+Width: 516
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2328 172 N 1 0 0 1 0 0 0
+Refer: 183 172 N 1 0 0 1 5 0 0
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" logicalnot.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" logicalnot
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" logicalnot logicalnot.tosf
 EndChar

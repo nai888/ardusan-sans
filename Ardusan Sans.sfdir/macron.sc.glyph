@@ -1,6 +1,6 @@
 StartChar: macron.sc
-Encoding: 66498 -1 2615
-Width: 333
+Encoding: 463 -1 460
+Width: 419
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -12,9 +12,9 @@ PUSHB_1
  51
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-20" 169 766 basemark 0
+AnchorPoint: "Anchor-20" 212 766 basemark 0
 LayerCount: 2
 Fore
-Refer: 2484 772 N 1 0 0 1 333 30 2
+Refer: 329 772 N 1 0 0 1 376 30 2
 Validated: 1
 EndChar

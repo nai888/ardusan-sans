@@ -1,6 +1,6 @@
 StartChar: braceright.case
-Encoding: 66283 -1 2181
-Width: 322
+Encoding: 309 -1 117
+Width: 346
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -14,6 +14,6 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2177 125 N 1 0 0 1 0 -10 2
+Refer: 113 125 N 1 0 0 1 1 -10 2
 Validated: 1
 EndChar

@@ -1,6 +1,6 @@
 StartChar: degree.tf
-Encoding: 66436 -1 2450
-Width: 560
+Encoding: 401 -1 300
+Width: 445
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -15,9 +15,6 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2429 176 N 1 0 0 1 20 20 2
+Refer: 281 176 N 1 0 0 1 3 20 2
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" degree.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" degree
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" degree degree.tosf
 EndChar

@@ -1,6 +1,6 @@
 StartChar: braceleft.case
-Encoding: 66282 -1 2180
-Width: 322
+Encoding: 308 -1 116
+Width: 344
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -14,7 +14,6 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2176 123 N 1 0 0 1 0 -10 2
+Refer: 112 123 N 1 0 0 1 22 -10 2
 Validated: 1
-Kerns2: 1734 9 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1525 66 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1499 13 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1376 66 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1374 4 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1213 9 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 2240 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 934 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 933 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 896 23 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 648 4 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 454 14 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 178 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 177 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 137 28 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 100 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
 EndChar

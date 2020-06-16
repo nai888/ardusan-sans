@@ -1,13 +1,10 @@
 StartChar: notequal.tf
-Encoding: 66388 -1 2370
-Width: 560
+Encoding: 353 -1 222
+Width: 507
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2320 8800 N 1 0 0 1 30 0 0
+Refer: 175 8800 N 1 0 0 1 3 0 0
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" notequal.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" notequal
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" notequal notequal.tosf
 EndChar

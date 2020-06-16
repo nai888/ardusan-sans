@@ -1,12 +1,11 @@
 StartChar: guillemotright
-Encoding: 187 187 2212
-Width: 566
+Encoding: 118 187 142
+Width: 575
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2214 8250 N 1 0 0 1 0 0 0
-Refer: 2214 8250 N 1 0 0 1 226 0 0
+Refer: 144 8250 N 1 0 0 1 2 0 0
+Refer: 144 8250 N 1 0 0 1 228 0 0
 Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" guillemotright.case
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" guillemotright.case
 EndChar

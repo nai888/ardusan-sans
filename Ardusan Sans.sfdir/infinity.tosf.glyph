@@ -1,12 +1,10 @@
 StartChar: infinity.tosf
-Encoding: 66419 -1 2401
-Width: 900
+Encoding: 384 -1 253
+Width: 915
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2379 -1 N 1 0 0 1 0 0 0
+Refer: 231 -1 N 1 0 0 1 8 0 0
 Validated: 1
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" infinity.osf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" infinity.osf
 EndChar

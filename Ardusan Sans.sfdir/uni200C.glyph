@@ -1,5 +1,5 @@
 StartChar: uni200C
-Encoding: 8204 8204 2230
+Encoding: 238 8204 158
 Width: 0
 Flags: W
 TtInstrs:
@@ -53,11 +53,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-8 750 m 1,0,-1
- 8 -150 l 1,1,-1
- -8 -150 l 1,2,-1
- -8 750 l 1,3,-1
- 8 750 l 1,0,-1
+90 750 m 1,0,-1
+ 90 -150 l 1,1,-1
+ 74 -150 l 1,2,-1
+ 74 750 l 1,3,-1
+ 90 750 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

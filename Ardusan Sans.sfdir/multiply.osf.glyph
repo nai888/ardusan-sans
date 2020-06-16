@@ -1,13 +1,10 @@
 StartChar: multiply.osf
-Encoding: 66363 -1 2341
-Width: 500
+Encoding: 328 -1 195
+Width: 462
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2317 215 N 1 0 0 1 0 0 0
+Refer: 172 215 N 1 0 0 1 -21 0 0
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" multiply.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" multiply
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" multiply multiply.tosf
 EndChar

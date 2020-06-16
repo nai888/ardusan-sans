@@ -1,6 +1,6 @@
 StartChar: endash
-Encoding: 8211 8211 2199
-Width: 520
+Encoding: 243 8211 129
+Width: 597
 Flags: W
 TtInstrs:
 NPUSHB
@@ -37,14 +37,12 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-32 274 m 1,0,-1
- 32 352 l 1,1,-1
- 488 352 l 1,2,-1
- 488 274 l 1,3,-1
- 32 274 l 1,0,-1
+70 274 m 1,0,-1
+ 70 352 l 1,1,-1
+ 526 352 l 1,2,-1
+ 526 274 l 1,3,-1
+ 70 274 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 735 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 328 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" endash.case
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" endash.case
 EndChar

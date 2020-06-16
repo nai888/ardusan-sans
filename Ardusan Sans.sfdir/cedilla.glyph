@@ -1,15 +1,11 @@
 StartChar: cedilla
-Encoding: 184 184 2579
-Width: 275
+Encoding: 117 184 424
+Width: 335
 Flags: W
-AnchorPoint: "Anchor-19" 140 -241 basemark 0
+AnchorPoint: "Anchor-19" 169 -241 basemark 0
 LayerCount: 2
 Fore
-Refer: 2507 807 N 1 0 0 1 275 0 0
+Refer: 352 807 N 1 0 0 1 304 0 0
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" cedilla.case
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" cedilla.case
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" cedilla.sc
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" cedilla.sc
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" cedilla.sc cedilla.case
 EndChar

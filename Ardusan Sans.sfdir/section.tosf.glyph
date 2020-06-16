@@ -1,12 +1,10 @@
 StartChar: section.tosf
-Encoding: 66439 -1 2453
-Width: 560
+Encoding: 404 -1 303
+Width: 503
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2425 167 N 1 0 0 1 14 0 0
+Refer: 277 167 N 1 0 0 1 -15 0 0
 Validated: 1
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" section.osf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" section.osf
 EndChar

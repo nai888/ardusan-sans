@@ -1,6 +1,6 @@
 StartChar: fraction
-Encoding: 8260 8260 2131
-Width: 132
+Encoding: 261 8260 85
+Width: 550
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -13,11 +13,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-240 750 m 1,0,-1
- 299 721 l 1,1,-1
- -107 -78 l 1,2,-1
- -167 -49 l 1,3,-1
- 240 750 l 1,0,-1
+448 750 m 1,0,-1
+ 507 721 l 1,1,-1
+ 101 -78 l 1,2,-1
+ 41 -49 l 1,3,-1
+ 448 750 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

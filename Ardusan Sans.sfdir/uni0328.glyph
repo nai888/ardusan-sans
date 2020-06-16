@@ -1,6 +1,6 @@
 StartChar: uni0328
-Encoding: 808 808 2508
-Width: 0
+Encoding: 207 808 353
+Width: 328
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -42,27 +42,24 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-15" -20 0 mark 0
-AnchorPoint: "Anchor-11" -20 0 mark 0
-AnchorPoint: "Anchor-7" -20 0 mark 0
+AnchorPoint: "Anchor-15" 274 0 mark 0
+AnchorPoint: "Anchor-11" 274 0 mark 0
+AnchorPoint: "Anchor-7" 274 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--30 0 m 1,0,1
- -101 -31 -101 -31 -127 -57.5 c 128,-1,2
- -153 -84 -153 -84 -153 -114 c 0,3,4
- -153 -162 -153 -162 -97 -162 c 0,5,6
- -70 -162 -70 -162 -36 -155 c 1,7,-1
- -45 -225 l 1,8,9
- -80 -232 -80 -232 -108 -232 c 0,10,11
- -165 -232 -165 -232 -199 -203.5 c 128,-1,12
- -233 -175 -233 -175 -233 -131 c 0,13,14
- -233 -76 -233 -76 -187 -36 c 128,-1,15
- -141 4 -141 4 -44 33 c 1,16,-1
- -30 0 l 1,0,1
+264 0 m 1,0,1
+ 193 -31 193 -31 167 -57.5 c 128,-1,2
+ 141 -84 141 -84 141 -114 c 0,3,4
+ 141 -162 141 -162 197 -162 c 0,5,6
+ 224 -162 224 -162 258 -155 c 1,7,-1
+ 249 -225 l 1,8,9
+ 214 -232 214 -232 186 -232 c 0,10,11
+ 129 -232 129 -232 95 -203.5 c 128,-1,12
+ 61 -175 61 -175 61 -131 c 0,13,14
+ 61 -76 61 -76 107 -36 c 128,-1,15
+ 153 4 153 4 250 33 c 1,16,-1
+ 264 0 l 1,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni0328.sc
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni0328.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0328.sc
 EndChar

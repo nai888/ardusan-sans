@@ -1,6 +1,6 @@
 StartChar: uni031D
-Encoding: 797 797 2498
-Width: 0
+Encoding: 197 797 343
+Width: 446
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -13,15 +13,15 @@ PUSHB_1
  51
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-22" -180 0 mark 0
-AnchorPoint: "Anchor-19" -178 -310 basemark 0
-AnchorPoint: "Anchor-19" -180 0 mark 0
-AnchorPoint: "Anchor-14" -180 0 mark 0
-AnchorPoint: "Anchor-9" -180 0 mark 0
-AnchorPoint: "Anchor-4" -180 0 mark 0
-AnchorPoint: "Anchor-0" -180 0 mark 0
+AnchorPoint: "Anchor-22" 223 0 mark 0
+AnchorPoint: "Anchor-19" 225 -310 basemark 0
+AnchorPoint: "Anchor-19" 223 0 mark 0
+AnchorPoint: "Anchor-14" 223 0 mark 0
+AnchorPoint: "Anchor-9" 223 0 mark 0
+AnchorPoint: "Anchor-4" 223 0 mark 0
+AnchorPoint: "Anchor-0" 223 0 mark 0
 LayerCount: 2
 Fore
-Refer: 2469 724 N 1 0 0 1 -392 -500 2
+Refer: 318 724 N 1 0 0 1 11 -500 2
 Validated: 1
 EndChar

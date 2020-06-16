@@ -1,6 +1,6 @@
 StartChar: uni0312
-Encoding: 786 786 2489
-Width: 0
+Encoding: 188 786 334
+Width: 248
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -49,26 +49,26 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-23" -94 527 mark 0
-AnchorPoint: "Anchor-20" -94 527 mark 0
-AnchorPoint: "Anchor-16" -94 527 mark 0
-AnchorPoint: "Anchor-10" -94 527 mark 0
-AnchorPoint: "Anchor-5" -94 527 mark 0
-AnchorPoint: "Anchor-1" -94 527 mark 0
+AnchorPoint: "Anchor-23" 119 527 mark 0
+AnchorPoint: "Anchor-20" 119 527 mark 0
+AnchorPoint: "Anchor-16" 119 527 mark 0
+AnchorPoint: "Anchor-10" 119 527 mark 0
+AnchorPoint: "Anchor-5" 119 527 mark 0
+AnchorPoint: "Anchor-1" 119 527 mark 0
 LayerCount: 2
 Fore
 SplineSet
--133.5 599 m 128,-1,1
- -150 615 -150 615 -150 639 c 0,2,3
- -150 652 -150 652 -144.5 668 c 128,-1,4
- -139 684 -139 684 -124 716 c 2,5,-1
- -83 802 l 1,6,-1
- -30 802 l 1,7,-1
- -59 686 l 1,8,9
- -35 665 -35 665 -35 639 c 0,10,11
- -35 615 -35 615 -52 599 c 128,-1,12
- -69 583 -69 583 -93 583 c 256,13,0
- -117 583 -117 583 -133.5 599 c 128,-1,1
+79.5 599 m 128,-1,1
+ 63 615 63 615 63 639 c 0,2,3
+ 63 652 63 652 68.5 668 c 128,-1,4
+ 74 684 74 684 89 716 c 2,5,-1
+ 130 802 l 1,6,-1
+ 183 802 l 1,7,-1
+ 154 686 l 1,8,9
+ 178 665 178 665 178 639 c 0,10,11
+ 178 615 178 615 161 599 c 128,-1,12
+ 144 583 144 583 120 583 c 256,13,0
+ 96 583 96 583 79.5 599 c 128,-1,1
 EndSplineSet
 Validated: 1
 EndChar

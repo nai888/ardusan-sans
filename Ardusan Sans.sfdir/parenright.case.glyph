@@ -1,6 +1,6 @@
 StartChar: parenright.case
-Encoding: 66287 -1 2185
-Width: 324
+Encoding: 313 -1 121
+Width: 343
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -14,6 +14,6 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2191 41 N 1 0 0 1 0 -10 2
+Refer: 123 41 N 1 0 0 1 3 -10 2
 Validated: 1
 EndChar

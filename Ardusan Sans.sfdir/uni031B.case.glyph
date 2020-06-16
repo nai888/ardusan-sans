@@ -1,6 +1,6 @@
 StartChar: uni031B.case
-Encoding: 66456 -1 2543
-Width: 0
+Encoding: 421 -1 388
+Width: 260
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -21,24 +21,24 @@ NPUSHB
  21
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-21" -92 689 basemark 0
-AnchorPoint: "Anchor-21" -144 689 mark 0
-AnchorPoint: "Anchor-17" -144 689 mark 0
-AnchorPoint: "Anchor-13" -144 689 mark 0
-AnchorPoint: "Anchor-8" -144 689 mark 0
-AnchorPoint: "Anchor-3" -144 689 mark 0
+AnchorPoint: "Anchor-21" 133 689 basemark 0
+AnchorPoint: "Anchor-21" 81 689 mark 0
+AnchorPoint: "Anchor-17" 81 689 mark 0
+AnchorPoint: "Anchor-13" 81 689 mark 0
+AnchorPoint: "Anchor-8" 81 689 mark 0
+AnchorPoint: "Anchor-3" 81 689 mark 0
 LayerCount: 2
 Fore
 SplineSet
--164 635 m 1,0,1
- -107 641 -107 641 -107 686 c 0,2,3
- -107 709 -107 709 -110.5 724.5 c 128,-1,4
- -114 740 -114 740 -121 758 c 1,5,-1
- -49 773 l 1,6,7
- -30 740 -30 740 -30 691 c 0,8,9
- -30 640 -30 640 -61.5 612.5 c 128,-1,10
- -93 585 -93 585 -154 583 c 1,11,-1
- -164 635 l 1,0,1
+61 635 m 1,0,1
+ 118 641 118 641 118 686 c 0,2,3
+ 118 709 118 709 114.5 724.5 c 128,-1,4
+ 111 740 111 740 104 758 c 1,5,-1
+ 176 773 l 1,6,7
+ 195 740 195 740 195 691 c 0,8,9
+ 195 640 195 640 163.5 612.5 c 128,-1,10
+ 132 585 132 585 71 583 c 1,11,-1
+ 61 635 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar

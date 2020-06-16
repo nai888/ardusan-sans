@@ -1,13 +1,10 @@
 StartChar: lozenge.osf
-Encoding: 66427 -1 2419
-Width: 531
+Encoding: 392 -1 271
+Width: 575
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2417 9674 N 1 0 0 1 0 0 0
+Refer: 269 9674 N 1 0 0 1 22 0 0
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" lozenge.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" lozenge
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" lozenge lozenge.tosf
 EndChar

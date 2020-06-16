@@ -1,0 +1,45 @@
+StartChar: j_t
+Encoding: 493 -1 493
+Width: 793
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+741 527 m 1,0,-1
+ 741 457 l 1,1,-1
+ 504 -123 l 1,2,3
+ 462 -168 462 -168 411 -190.5 c 128,-1,4
+ 360 -213 360 -213 290 -213 c 0,5,6
+ 221 -213 221 -213 167 -186.5 c 128,-1,7
+ 113 -160 113 -160 83 -113 c 128,-1,8
+ 53 -66 53 -66 53 -6 c 0,9,10
+ 53 94 53 94 115 150 c 128,-1,11
+ 177 206 177 206 288 206 c 2,12,-1
+ 291 206 l 1,13,-1
+ 77 457 l 1,14,-1
+ 77 527 l 1,15,-1
+ 385 527 l 1,16,-1
+ 473 527 l 1,17,-1
+ 741 527 l 1,0,-1
+418 -101 m 1,18,-1
+ 658 449 l 1,19,-1
+ 385 449 l 1,20,-1
+ 385 451 l 1,21,-1
+ 184 451 l 1,22,-1
+ 387 205 l 1,23,-1
+ 387 138 l 1,24,-1
+ 308 138 l 2,25,26
+ 226 138 226 138 189 103.5 c 128,-1,27
+ 152 69 152 69 152 -4 c 0,28,29
+ 152 -67 152 -67 188.5 -102.5 c 128,-1,30
+ 225 -138 225 -138 292 -138 c 0,31,32
+ 340 -138 340 -138 378 -123 c 0,33,34
+ 398 -115 398 -115 418 -101 c 1,18,-1
+EndSplineSet
+Validated: 1
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" J T
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" j t
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" J t
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" j T
+EndChar

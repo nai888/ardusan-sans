@@ -1,29 +1,29 @@
 StartChar: uni0339
-Encoding: 825 825 2521
-Width: 0
+Encoding: 220 825 366
+Width: 265
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-22" -87 0 mark 0
-AnchorPoint: "Anchor-19" -87 -306 basemark 0
-AnchorPoint: "Anchor-19" -87 0 mark 0
-AnchorPoint: "Anchor-14" -87 0 mark 0
-AnchorPoint: "Anchor-9" -87 0 mark 0
-AnchorPoint: "Anchor-4" -87 0 mark 0
-AnchorPoint: "Anchor-0" -87 0 mark 0
+AnchorPoint: "Anchor-22" 132 0 mark 0
+AnchorPoint: "Anchor-19" 132 -306 basemark 0
+AnchorPoint: "Anchor-19" 132 0 mark 0
+AnchorPoint: "Anchor-14" 132 0 mark 0
+AnchorPoint: "Anchor-9" 132 0 mark 0
+AnchorPoint: "Anchor-4" 132 0 mark 0
+AnchorPoint: "Anchor-0" 132 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--61 -244.5 m 128,-1,1
- -93 -275 -93 -275 -143 -275 c 1,2,-1
- -143 -225 l 1,3,4
- -118 -225 -118 -225 -104 -210 c 128,-1,5
- -90 -195 -90 -195 -90 -169 c 256,6,7
- -90 -143 -90 -143 -104 -128 c 128,-1,8
- -118 -113 -118 -113 -143 -113 c 1,9,-1
- -143 -63 l 1,10,11
- -93 -63 -93 -63 -61 -93.5 c 128,-1,12
- -29 -124 -29 -124 -29 -169 c 256,13,0
- -29 -214 -29 -214 -61 -244.5 c 128,-1,1
+158 -244.5 m 128,-1,1
+ 126 -275 126 -275 76 -275 c 1,2,-1
+ 76 -225 l 1,3,4
+ 101 -225 101 -225 115 -210 c 128,-1,5
+ 129 -195 129 -195 129 -169 c 256,6,7
+ 129 -143 129 -143 115 -128 c 128,-1,8
+ 101 -113 101 -113 76 -113 c 1,9,-1
+ 76 -63 l 1,10,11
+ 126 -63 126 -63 158 -93.5 c 128,-1,12
+ 190 -124 190 -124 190 -169 c 256,13,0
+ 190 -214 190 -214 158 -244.5 c 128,-1,1
 EndSplineSet
 Validated: 1
 EndChar

@@ -1,6 +1,6 @@
 StartChar: uni02E7
-Encoding: 743 743 2468
-Width: 344
+Encoding: 169 743 317
+Width: 410
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -50,15 +50,15 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-240 689 m 1,0,-1
- 314 689 l 1,1,-1
- 314 0 l 1,2,-1
- 240 0 l 1,3,-1
- 240 311 l 1,4,-1
- 30 311 l 1,5,-1
- 30 378 l 1,6,-1
- 240 378 l 1,7,-1
- 240 689 l 1,0,-1
+263 689 m 1,0,-1
+ 337 689 l 1,1,-1
+ 337 0 l 1,2,-1
+ 263 0 l 1,3,-1
+ 263 311 l 1,4,-1
+ 53 311 l 1,5,-1
+ 53 378 l 1,6,-1
+ 263 378 l 1,7,-1
+ 263 689 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

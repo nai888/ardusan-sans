@@ -1,10 +1,10 @@
 StartChar: breve.case
-Encoding: 66461 -1 2568
-Width: 363
+Encoding: 426 -1 413
+Width: 450
 Flags: W
-AnchorPoint: "Anchor-20" 184 894 basemark 0
+AnchorPoint: "Anchor-20" 228 894 basemark 0
 LayerCount: 2
 Fore
-Refer: 2537 -1 N 1 0 0 1 363 0 0
+Refer: 382 -1 N 1 0 0 1 407 0 0
 Validated: 1
 EndChar

@@ -1,0 +1,47 @@
+StartChar: a_scaron
+Encoding: 491 -1 491
+Width: 855
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+382 387 m 1,0,-1
+ 143 57 l 1,1,2
+ 197 42 197 42 230 12 c 0,3,4
+ 259 -13 259 -13 297 -65 c 0,5,6
+ 319 -96 319 -96 346 -120 c 0,7,8
+ 365 -137 365 -137 392 -138 c 1,9,10
+ 433 -129 433 -129 459 -115 c 0,11,12
+ 490 -98 490 -98 508.5 -71.5 c 128,-1,13
+ 527 -45 527 -45 543 0 c 1,14,-1
+ 512 0 l 1,15,-1
+ 382 387 l 1,0,-1
+327 -201 m 128,-1,17
+ 302 -189 302 -189 284 -171 c 128,-1,18
+ 266 -153 266 -153 242 -121 c 0,19,20
+ 215 -85 215 -85 193 -63 c 128,-1,21
+ 171 -41 171 -41 136.5 -23 c 128,-1,22
+ 102 -5 102 -5 54 0 c 1,23,-1
+ 54 69 l 1,24,-1
+ 328 449 l 1,25,-1
+ 77 449 l 1,26,-1
+ 77 527 l 1,27,-1
+ 335 527 l 1,28,-1
+ 433 527 l 1,29,-1
+ 574 67 l 1,30,-1
+ 712 527 l 1,31,-1
+ 807 527 l 1,32,-1
+ 631 -3 l 2,33,34
+ 602 -90 602 -90 544 -148 c 0,35,36
+ 511 -181 511 -181 461 -197 c 1,37,38
+ 429 -213 429 -213 387 -213 c 2,39,-1
+ 386 -213 l 2,40,16
+ 352 -213 352 -213 327 -201 c 128,-1,17
+EndSplineSet
+Validated: 1
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" a Scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" A Scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" A scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" a scaron
+EndChar

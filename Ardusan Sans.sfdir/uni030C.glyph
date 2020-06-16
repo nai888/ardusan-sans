@@ -1,6 +1,6 @@
 StartChar: uni030C
-Encoding: 780 780 2480
-Width: 0
+Encoding: 184 780 325
+Width: 453
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -31,29 +31,25 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-23" -196 527 mark 0
-AnchorPoint: "Anchor-20" -194 785 basemark 0
-AnchorPoint: "Anchor-20" -196 527 mark 0
-AnchorPoint: "Anchor-16" -196 527 mark 0
-AnchorPoint: "Anchor-10" -196 527 mark 0
-AnchorPoint: "Anchor-5" -196 527 mark 0
-AnchorPoint: "Anchor-1" -196 527 mark 0
+AnchorPoint: "Anchor-23" 227 527 mark 0
+AnchorPoint: "Anchor-20" 229 785 basemark 0
+AnchorPoint: "Anchor-20" 227 527 mark 0
+AnchorPoint: "Anchor-16" 227 527 mark 0
+AnchorPoint: "Anchor-10" 227 527 mark 0
+AnchorPoint: "Anchor-5" 227 527 mark 0
+AnchorPoint: "Anchor-1" 227 527 mark 0
 LayerCount: 2
 Fore
 SplineSet
--69 785 m 1,0,-1
- -30 740 l 1,1,-1
- -165 627 l 1,2,-1
- -226 627 l 1,3,-1
- -362 740 l 1,4,-1
- -322 785 l 1,5,-1
- -196 701 l 1,6,-1
- -69 785 l 1,0,-1
+354 785 m 1,0,-1
+ 393 740 l 1,1,-1
+ 258 627 l 1,2,-1
+ 197 627 l 1,3,-1
+ 61 740 l 1,4,-1
+ 101 785 l 1,5,-1
+ 227 701 l 1,6,-1
+ 354 785 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" uni030C.case
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" uni030C.case
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni030C.sc
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni030C.sc
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni030C.sc uni030C.case
 EndChar

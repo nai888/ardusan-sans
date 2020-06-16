@@ -1,6 +1,6 @@
 StartChar: uni02D6
-Encoding: 726 726 2460
-Width: 461
+Encoding: 158 726 310
+Width: 465
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -61,20 +61,19 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-268 467 m 1,0,-1
- 268 332 l 1,1,-1
- 399 332 l 1,2,-1
- 399 264 l 1,3,-1
- 268 264 l 1,4,-1
- 268 130 l 1,5,-1
- 192 130 l 1,6,-1
- 192 264 l 1,7,-1
- 62 264 l 1,8,-1
- 62 332 l 1,9,-1
- 192 332 l 1,10,-1
- 192 467 l 1,11,-1
- 268 467 l 1,0,-1
+269 467 m 1,0,-1
+ 269 332 l 1,1,-1
+ 400 332 l 1,2,-1
+ 400 264 l 1,3,-1
+ 269 264 l 1,4,-1
+ 269 130 l 1,5,-1
+ 193 130 l 1,6,-1
+ 193 264 l 1,7,-1
+ 63 264 l 1,8,-1
+ 63 332 l 1,9,-1
+ 193 332 l 1,10,-1
+ 193 467 l 1,11,-1
+ 269 467 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 735 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 328 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
 EndChar

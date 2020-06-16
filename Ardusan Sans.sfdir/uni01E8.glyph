@@ -1,19 +1,11 @@
 StartChar: uni01E8
-Encoding: 488 488 146
-Width: 305
+Encoding: 139 488 18
+Width: 568
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-18" 0 0 basechar 0
-AnchorPoint: "Anchor-17" 0 0 basechar 0
-AnchorPoint: "Anchor-16" 330 909 basechar 0
-AnchorPoint: "Anchor-15" 0 0 basechar 0
-AnchorPoint: "Anchor-14" 315 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 145 75 N 1 0 0 1 0 0 0
-Refer: 2536 -1 N 1 0 0 1 524 0 0
-Validated: 65537
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" uni01E9.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni01E9.sc
+Refer: 54 489 N 1 0 0 1 0 0 2
+Validated: 1
 Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar

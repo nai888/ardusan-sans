@@ -1,13 +1,10 @@
 StartChar: greater.tf
-Encoding: 66389 -1 2371
-Width: 560
+Encoding: 354 -1 223
+Width: 525
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2321 62 N 1 0 0 1 30 0 0
+Refer: 176 62 N 1 0 0 1 10 0 0
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" greater.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" greater
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" greater greater.tosf
 EndChar

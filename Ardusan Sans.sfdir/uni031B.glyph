@@ -1,6 +1,6 @@
 StartChar: uni031B
-Encoding: 795 795 2496
-Width: 0
+Encoding: 195 795 341
+Width: 261
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -29,28 +29,26 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-21" -92 527 basemark 0
-AnchorPoint: "Anchor-21" -144 527 mark 0
-AnchorPoint: "Anchor-17" -144 527 mark 0
-AnchorPoint: "Anchor-13" -144 527 mark 0
-AnchorPoint: "Anchor-8" -144 527 mark 0
-AnchorPoint: "Anchor-3" -144 527 mark 0
+AnchorPoint: "Anchor-21" 134 527 basemark 0
+AnchorPoint: "Anchor-21" 82 527 mark 0
+AnchorPoint: "Anchor-17" 82 527 mark 0
+AnchorPoint: "Anchor-13" 82 527 mark 0
+AnchorPoint: "Anchor-8" 82 527 mark 0
+AnchorPoint: "Anchor-3" 82 527 mark 0
 LayerCount: 2
 Fore
 SplineSet
--164 472 m 1,0,1
- -135 475 -135 475 -121 486.5 c 128,-1,2
- -107 498 -107 498 -107 520 c 0,3,4
- -107 543 -107 543 -110.5 558.5 c 128,-1,5
- -114 574 -114 574 -121 592 c 1,6,-1
- -49 607 l 1,7,8
- -30 574 -30 574 -30 525 c 0,9,10
- -30 474 -30 474 -61.5 446.5 c 128,-1,11
- -93 419 -93 419 -154 417 c 1,12,-1
- -164 472 l 1,0,1
+62 472 m 1,0,1
+ 91 475 91 475 105 486.5 c 128,-1,2
+ 119 498 119 498 119 520 c 0,3,4
+ 119 543 119 543 115.5 558.5 c 128,-1,5
+ 112 574 112 574 105 592 c 1,6,-1
+ 177 607 l 1,7,8
+ 196 574 196 574 196 525 c 0,9,10
+ 196 474 196 474 164.5 446.5 c 128,-1,11
+ 133 419 133 419 72 417 c 1,12,-1
+ 62 472 l 1,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" uni031B.case
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" uni031B.case
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni031B.case
 EndChar

@@ -1,6 +1,6 @@
 StartChar: acute.loclPLK
-Encoding: 66472 -1 2585
-Width: 236
+Encoding: 437 -1 430
+Width: 294
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -13,13 +13,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-134 777 m 1,0,-1
- 206 730 l 1,1,-1
- 75 577 l 1,2,-1
- 30 605 l 1,3,-1
- 134 777 l 1,0,-1
+164 777 m 1,0,-1
+ 236 730 l 1,1,-1
+ 105 577 l 1,2,-1
+ 60 605 l 1,3,-1
+ 164 777 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" acute.case.loclPLK
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" acute.case.loclPLK
 EndChar

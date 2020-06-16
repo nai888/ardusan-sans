@@ -1,13 +1,10 @@
 StartChar: summation.osf
-Encoding: 66378 -1 2356
-Width: 503
+Encoding: 343 -1 210
+Width: 514
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2335 8721 N 1 0 0 1 0 0 0
+Refer: 189 8721 N 1 0 0 1 6 0 0
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" summation.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" summation
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" summation summation.tosf
 EndChar

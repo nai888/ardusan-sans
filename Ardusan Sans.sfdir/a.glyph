@@ -1,42 +1,37 @@
 StartChar: a
-Encoding: 97 97 340
-Width: 405
+Encoding: 66 97 39
+Width: 432
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-18" 0 0 basechar 0
-AnchorPoint: "Anchor-17" 0 0 basechar 0
-AnchorPoint: "Anchor-16" 203 527 basechar 0
-AnchorPoint: "Anchor-15" 0 0 basechar 0
-AnchorPoint: "Anchor-14" 203 -202 basechar 0
+AnchorPoint: "Anchor-18" 27 0 basechar 0
+AnchorPoint: "Anchor-17" 27 0 basechar 0
+AnchorPoint: "Anchor-16" 230 527 basechar 0
+AnchorPoint: "Anchor-15" 27 0 basechar 0
+AnchorPoint: "Anchor-14" 230 -202 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-298 -201 m 128,-1,1
- 273 -189 273 -189 255 -171 c 128,-1,2
- 237 -153 237 -153 213 -121 c 0,3,4
- 186 -85 186 -85 164 -63 c 128,-1,5
- 142 -41 142 -41 107.5 -23 c 128,-1,6
- 73 -5 73 -5 25 0 c 1,7,-1
- 25 69 l 1,8,-1
- 299 449 l 1,9,-1
- 48 449 l 1,10,-1
- 48 527 l 1,11,-1
- 404 527 l 1,12,-1
- 404 457 l 1,13,-1
- 114 57 l 1,14,15
- 168 42 168 42 201 12.5 c 128,-1,16
- 234 -17 234 -17 268 -65 c 0,17,18
- 296 -103 296 -103 316.5 -120.5 c 128,-1,19
- 337 -138 337 -138 366 -138 c 0,20,21
- 396 -138 396 -138 424 -123 c 1,22,-1
- 455 -183 l 1,23,24
- 416 -213 416 -213 358 -213 c 0,25,0
- 323 -213 323 -213 298 -201 c 128,-1,1
+325 -201 m 132,-1,1
+ 300 -189 300 -189 282 -171 c 132,-1,2
+ 264 -153 264 -153 240 -121 c 4,3,4
+ 213 -85 213 -85 191 -63 c 132,-1,5
+ 169 -41 169 -41 134.5 -23 c 132,-1,6
+ 100 -5 100 -5 52 0 c 5,7,-1
+ 52 69 l 5,8,-1
+ 326 449 l 5,9,-1
+ 75 449 l 5,10,-1
+ 75 527 l 5,11,-1
+ 431 527 l 5,12,-1
+ 431 457 l 5,13,-1
+ 141 57 l 5,14,15
+ 195 42 195 42 228 12.5 c 132,-1,16
+ 261 -17 261 -17 295 -65 c 4,17,18
+ 323 -103 323 -103 343.5 -120.5 c 132,-1,19
+ 364 -138 364 -138 393 -138 c 4,20,21
+ 423 -138 423 -138 451 -123 c 5,22,-1
+ 482 -183 l 5,23,24
+ 443 -213 443 -213 385 -213 c 4,25,0
+ 350 -213 350 -213 325 -201 c 132,-1,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" ordfeminine
-Substitution2: "'ss04' Style Set 4 lookup 36 subtable" a.ss04
-Substitution2: "'salt' Stylistic Alternatives lookup 32 subtable" a.ss04
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" a.sc
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ordfeminine a.sc a.ss04
 EndChar

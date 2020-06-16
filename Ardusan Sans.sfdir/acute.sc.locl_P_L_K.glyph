@@ -1,6 +1,6 @@
 StartChar: acute.sc.loclPLK
-Encoding: 66474 -1 2591
-Width: 236
+Encoding: 439 -1 436
+Width: 297
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -13,11 +13,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-134 819 m 1,0,-1
- 206 772 l 1,1,-1
- 75 619 l 1,2,-1
- 30 647 l 1,3,-1
- 134 819 l 1,0,-1
+166 819 m 1,0,-1
+ 238 772 l 1,1,-1
+ 107 619 l 1,2,-1
+ 62 647 l 1,3,-1
+ 166 819 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

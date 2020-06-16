@@ -1,6 +1,6 @@
 StartChar: braceright
-Encoding: 125 125 2177
-Width: 322
+Encoding: 94 125 113
+Width: 345
 Flags: W
 TtInstrs:
 NPUSHB
@@ -90,5 +90,4 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" braceright.case
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" braceright.case
 EndChar

@@ -1,6 +1,6 @@
 StartChar: ring.case
-Encoding: 66470 -1 2577
-Width: 288
+Encoding: 435 -1 422
+Width: 380
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -12,9 +12,9 @@ PUSHB_1
  51
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-20" 146 962 basemark 0
+AnchorPoint: "Anchor-20" 193 962 basemark 0
 LayerCount: 2
 Fore
-Refer: 2482 778 N 1 0 0 1 288 126 2
+Refer: 327 778 N 1 0 0 1 335 126 2
 Validated: 1
 EndChar

@@ -1,6 +1,6 @@
 StartChar: gravecomb.sc
-Encoding: 66477 -1 2594
-Width: 300
+Encoding: 442 -1 439
+Width: 364
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -10,15 +10,15 @@ PUSHB_4
  48
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-20" 152 831 basemark 0
+AnchorPoint: "Anchor-20" 183 831 basemark 0
 LayerCount: 2
 Fore
 SplineSet
-71 831 m 1,0,-1
- 270 717 l 1,1,-1
- 242 668 l 1,2,-1
- 30 754 l 1,3,-1
- 71 831 l 1,0,-1
+102 831 m 1,0,-1
+ 301 717 l 1,1,-1
+ 273 668 l 1,2,-1
+ 61 754 l 1,3,-1
+ 102 831 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

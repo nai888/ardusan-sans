@@ -1,13 +1,10 @@
 StartChar: notequal.osf
-Encoding: 66366 -1 2344
-Width: 500
+Encoding: 331 -1 198
+Width: 507
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2320 8800 N 1 0 0 1 0 0 0
+Refer: 175 8800 N 1 0 0 1 3 0 0
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" notequal.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" notequal
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" notequal notequal.tosf
 EndChar

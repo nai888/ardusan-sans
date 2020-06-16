@@ -1,5 +1,5 @@
 StartChar: six
-Encoding: 54 54 2053
+Encoding: 23 54 81
 Width: 778
 Flags: W
 AnchorPoint: "Anchor-9" 387 0 basechar 0
@@ -40,12 +40,4 @@ SplineSet
  679 458 679 458 696 389.5 c 132,-1,1
 EndSplineSet
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" six.osf
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" six.tf
-Substitution2: "'frac' Diagonal Fractions lookup 18 subtable" six.numr
-Substitution2: "'dnom' Denominators lookup 16 subtable" six.dnom
-Substitution2: "'numr' Numerators lookup 15 subtable" six.numr
-Substitution2: "'sups' Superscript lookup 14 subtable" uni2076
-Substitution2: "'subs' Subscript lookup 13 subtable" uni2086
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2086 uni2076 six.numr six.dnom six.tf six.osf
 EndChar

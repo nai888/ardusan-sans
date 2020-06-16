@@ -1,26 +1,24 @@
 StartChar: y
-Encoding: 121 121 714
-Width: 492
+Encoding: 90 121 72
+Width: 567
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-18" 0 0 basechar 0
-AnchorPoint: "Anchor-17" 0 0 basechar 0
-AnchorPoint: "Anchor-16" 246 527 basechar 0
-AnchorPoint: "Anchor-15" 0 0 basechar 0
-AnchorPoint: "Anchor-14" 246 0 basechar 0
+AnchorPoint: "Anchor-18" 36 0 basechar 0
+AnchorPoint: "Anchor-17" 36 0 basechar 0
+AnchorPoint: "Anchor-16" 282 527 basechar 0
+AnchorPoint: "Anchor-15" 36 0 basechar 0
+AnchorPoint: "Anchor-14" 282 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-10 0 m 1,0,-1
- 189 527 l 1,1,-1
- 300 527 l 1,2,-1
- 482 0 l 1,3,-1
- 382 0 l 1,4,-1
- 244 445 l 1,5,-1
- 107 0 l 1,6,-1
- 10 0 l 1,0,-1
+46 0 m 1,0,-1
+ 225 527 l 1,1,-1
+ 336 527 l 1,2,-1
+ 518 0 l 1,3,-1
+ 418 0 l 1,4,-1
+ 280 445 l 1,5,-1
+ 143 0 l 1,6,-1
+ 46 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" y.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" y.sc
 EndChar

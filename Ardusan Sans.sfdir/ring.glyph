@@ -1,15 +1,11 @@
 StartChar: ring
-Encoding: 730 730 2589
-Width: 288
+Encoding: 162 730 434
+Width: 358
 Flags: W
-AnchorPoint: "Anchor-20" 146 836 basemark 0
+AnchorPoint: "Anchor-20" 181 836 basemark 0
 LayerCount: 2
 Fore
-Refer: 2482 778 N 1 0 0 1 288 0 0
+Refer: 327 778 N 1 0 0 1 323 0 0
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" ring.case
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" ring.case
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" ring.sc
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" ring.sc
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ring.sc ring.case
 EndChar

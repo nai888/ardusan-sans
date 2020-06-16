@@ -1,6 +1,6 @@
 StartChar: quotedblright
-Encoding: 8221 8221 2217
-Width: 406
+Encoding: 251 8221 147
+Width: 438
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -22,7 +22,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2220 8218 N 1 0 0 1 0 646 2
-Refer: 2220 8218 N 1 0 0 1 178 646 2
+Refer: 150 8218 N 1 0 0 1 20 646 2
+Refer: 150 8218 N 1 0 0 1 198 646 2
 Validated: 1
 EndChar

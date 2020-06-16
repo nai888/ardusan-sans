@@ -1,10 +1,10 @@
 StartChar: uni02CB
-Encoding: 715 715 2555
-Width: 300
+Encoding: 151 715 400
+Width: 364
 Flags: W
-AnchorPoint: "Anchor-20" 152 801 basemark 0
+AnchorPoint: "Anchor-20" 183 801 basemark 0
 LayerCount: 2
 Fore
-Refer: 2476 768 N 1 0 0 1 300 0 0
+Refer: 321 768 N 1 0 0 1 331 0 0
 Validated: 1
 EndChar

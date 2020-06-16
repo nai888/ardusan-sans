@@ -1,13 +1,10 @@
 StartChar: asciitilde.tf
-Encoding: 66395 -1 2377
-Width: 560
+Encoding: 360 -1 229
+Width: 547
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2327 126 N 1 0 0 1 36 0 0
+Refer: 182 126 N 1 0 0 1 29 0 0
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" asciitilde.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" asciitilde
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" asciitilde asciitilde.tosf
 EndChar

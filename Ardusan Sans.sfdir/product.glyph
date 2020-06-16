@@ -1,6 +1,6 @@
 StartChar: product
-Encoding: 8719 8719 2334
-Width: 598
+Encoding: 277 8719 188
+Width: 578
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -67,22 +67,19 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-541 593 m 1,0,-1
- 474 593 l 1,1,-1
- 474 -202 l 1,2,-1
- 384 -213 l 1,3,-1
- 384 593 l 1,4,-1
- 219 593 l 1,5,-1
- 219 -202 l 1,6,-1
- 129 -213 l 1,7,-1
- 129 593 l 1,8,-1
- 57 593 l 1,9,-1
- 57 669 l 1,10,-1
- 541 669 l 1,11,-1
- 541 593 l 1,0,-1
+531 593 m 1,0,-1
+ 464 593 l 1,1,-1
+ 464 -202 l 1,2,-1
+ 374 -213 l 1,3,-1
+ 374 593 l 1,4,-1
+ 209 593 l 1,5,-1
+ 209 -202 l 1,6,-1
+ 119 -213 l 1,7,-1
+ 119 593 l 1,8,-1
+ 47 593 l 1,9,-1
+ 47 669 l 1,10,-1
+ 531 669 l 1,11,-1
+ 531 593 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" product.osf
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" product.tf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" product.tf product.osf
 EndChar

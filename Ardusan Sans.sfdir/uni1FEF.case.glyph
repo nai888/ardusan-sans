@@ -1,6 +1,6 @@
 StartChar: uni1FEF.case
-Encoding: 66510 -1 2629
-Width: 193
+Encoding: 475 -1 474
+Width: 238
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -13,11 +13,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-126 707 m 1,0,-1
- 163 501 l 1,1,-1
- 98 490 l 1,2,-1
- 30 689 l 1,3,-1
- 126 707 l 1,0,-1
+142 707 m 1,0,-1
+ 179 501 l 1,1,-1
+ 114 490 l 1,2,-1
+ 46 689 l 1,3,-1
+ 142 707 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

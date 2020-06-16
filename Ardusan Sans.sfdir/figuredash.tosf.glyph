@@ -1,11 +1,9 @@
 StartChar: figuredash.tosf
-Encoding: 66298 -1 2206
-Width: 560
+Encoding: 320 -1 136
+Width: 650
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2200 8210 N 1 0 0 1 0 0 0
+Refer: 130 8210 N 1 0 0 1 44 0 0
 Validated: 1
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" figuredash.osf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" figuredash.osf
 EndChar

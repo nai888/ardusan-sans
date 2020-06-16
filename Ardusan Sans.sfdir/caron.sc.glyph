@@ -1,6 +1,6 @@
 StartChar: caron.sc
-Encoding: 66491 -1 2608
-Width: 392
+Encoding: 456 -1 453
+Width: 453
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -12,9 +12,9 @@ PUSHB_1
  51
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-20" 198 815 basemark 0
+AnchorPoint: "Anchor-20" 229 815 basemark 0
 LayerCount: 2
 Fore
-Refer: 2480 780 N 1 0 0 1 392 30 2
+Refer: 325 780 N 1 0 0 1 423 30 2
 Validated: 1
 EndChar

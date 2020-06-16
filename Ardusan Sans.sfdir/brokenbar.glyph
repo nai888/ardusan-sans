@@ -1,6 +1,6 @@
 StartChar: brokenbar
-Encoding: 166 166 2431
-Width: 403
+Encoding: 102 166 283
+Width: 225
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -56,16 +56,16 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-243 807 m 1,0,-1
- 243 443 l 1,1,-1
- 160 443 l 1,2,-1
- 160 807 l 1,3,-1
- 243 807 l 1,0,-1
-243 262 m 1,4,-1
- 243 -102 l 1,5,-1
- 160 -102 l 1,6,-1
- 160 262 l 1,7,-1
- 243 262 l 1,4,-1
+154 807 m 1,0,-1
+ 154 443 l 1,1,-1
+ 71 443 l 1,2,-1
+ 71 807 l 1,3,-1
+ 154 807 l 1,0,-1
+154 262 m 1,4,-1
+ 154 -102 l 1,5,-1
+ 71 -102 l 1,6,-1
+ 71 262 l 1,7,-1
+ 154 262 l 1,4,-1
 EndSplineSet
 Validated: 1
 EndChar

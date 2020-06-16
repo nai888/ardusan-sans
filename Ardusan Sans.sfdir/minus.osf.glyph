@@ -1,14 +1,10 @@
 StartChar: minus.osf
-Encoding: 66362 -1 2340
-Width: 500
+Encoding: 327 -1 194
+Width: 516
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2316 8722 N 1 0 0 1 0 0 0
+Refer: 171 8722 N 1 0 0 1 7 0 0
 Validated: 1
-Kerns2: 735 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 328 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" minus.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" minus
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" minus minus.tosf
 EndChar

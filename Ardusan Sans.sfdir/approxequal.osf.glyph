@@ -1,6 +1,6 @@
 StartChar: approxequal.osf
-Encoding: 66372 -1 2350
-Width: 488
+Encoding: 337 -1 204
+Width: 541
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -23,10 +23,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2327 126 N 1 0 0 1 0 -89 2
-Refer: 2327 126 N 1 0 0 1 0 100 2
+Refer: 182 126 N 1 0 0 1 27 -89 2
+Refer: 182 126 N 1 0 0 1 27 100 2
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" approxequal.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" approxequal
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" approxequal approxequal.tosf
 EndChar

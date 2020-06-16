@@ -1,6 +1,6 @@
 StartChar: uni25AF
-Encoding: 9647 9647 2418
-Width: 589
+Encoding: 295 9647 270
+Width: 542
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -16,16 +16,16 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-493 689 m 1,0,-1
- 493 0 l 1,1,-1
- 96 0 l 1,2,-1
- 96 689 l 1,3,-1
- 493 689 l 1,0,-1
-401 597 m 1,4,-1
- 188 597 l 1,5,-1
- 188 92 l 1,6,-1
- 401 92 l 1,7,-1
- 401 597 l 1,4,-1
+469 689 m 1,0,-1
+ 469 0 l 1,1,-1
+ 72 0 l 1,2,-1
+ 72 689 l 1,3,-1
+ 469 689 l 1,0,-1
+377 597 m 1,4,-1
+ 164 597 l 1,5,-1
+ 164 92 l 1,6,-1
+ 377 92 l 1,7,-1
+ 377 597 l 1,4,-1
 EndSplineSet
 Validated: 1
 EndChar

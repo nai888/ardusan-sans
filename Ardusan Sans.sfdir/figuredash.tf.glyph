@@ -1,12 +1,9 @@
 StartChar: figuredash.tf
-Encoding: 66297 -1 2205
-Width: 560
+Encoding: 319 -1 135
+Width: 650
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2200 8210 N 1 0 0 1 0 0 0
+Refer: 130 8210 N 1 0 0 1 44 0 0
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" figuredash.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" figuredash
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" figuredash figuredash.tosf
 EndChar

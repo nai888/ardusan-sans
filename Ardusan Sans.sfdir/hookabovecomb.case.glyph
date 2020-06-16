@@ -1,6 +1,6 @@
 StartChar: hookabovecomb.case
-Encoding: 66454 -1 2541
-Width: 0
+Encoding: 419 -1 386
+Width: 348
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -47,30 +47,30 @@ NPUSHB
  23
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-23" -145 689 mark 0
-AnchorPoint: "Anchor-20" -129 987 basemark 0
-AnchorPoint: "Anchor-20" -145 689 mark 0
-AnchorPoint: "Anchor-16" -145 689 mark 0
-AnchorPoint: "Anchor-10" -145 689 mark 0
-AnchorPoint: "Anchor-5" -145 689 mark 0
-AnchorPoint: "Anchor-1" -145 689 mark 0
+AnchorPoint: "Anchor-23" 160 689 mark 0
+AnchorPoint: "Anchor-20" 176 987 basemark 0
+AnchorPoint: "Anchor-20" 160 689 mark 0
+AnchorPoint: "Anchor-16" 160 689 mark 0
+AnchorPoint: "Anchor-10" 160 689 mark 0
+AnchorPoint: "Anchor-5" 160 689 mark 0
+AnchorPoint: "Anchor-1" 160 689 mark 0
 LayerCount: 2
 Fore
 SplineSet
--180 847 m 1,0,1
- -141 852 -141 852 -125 860.5 c 128,-1,2
- -109 869 -109 869 -109 890 c 0,3,4
- -109 908 -109 908 -121 917 c 128,-1,5
- -133 926 -133 926 -153 926 c 0,6,7
- -181 926 -181 926 -210 913 c 1,8,-1
- -232 964 l 1,9,10
- -191 988 -191 988 -138 988 c 0,11,12
- -87 988 -87 988 -58.5 963 c 128,-1,13
- -30 938 -30 938 -30 895 c 0,14,15
- -30 824 -30 824 -111 811 c 1,16,-1
- -111 763 l 1,17,-1
- -180 763 l 1,18,-1
- -180 847 l 1,0,1
+125 847 m 1,0,1
+ 164 852 164 852 180 860.5 c 128,-1,2
+ 196 869 196 869 196 890 c 0,3,4
+ 196 908 196 908 184 917 c 128,-1,5
+ 172 926 172 926 152 926 c 0,6,7
+ 124 926 124 926 95 913 c 1,8,-1
+ 73 964 l 1,9,10
+ 114 988 114 988 167 988 c 0,11,12
+ 218 988 218 988 246.5 963 c 128,-1,13
+ 275 938 275 938 275 895 c 0,14,15
+ 275 824 275 824 194 811 c 1,16,-1
+ 194 763 l 1,17,-1
+ 125 763 l 1,18,-1
+ 125 847 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar

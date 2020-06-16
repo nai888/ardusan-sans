@@ -1,14 +1,10 @@
 StartChar: hungarumlaut
-Encoding: 733 733 2584
-Width: 366
+Encoding: 165 733 429
+Width: 428
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2478 779 N 1 0 0 1 366 0 0
+Refer: 323 779 N 1 0 0 1 399 0 0
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" hungarumlaut.case
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" hungarumlaut.case
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" hungarumlaut.sc
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" hungarumlaut.sc
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" hungarumlaut.sc hungarumlaut.case
 EndChar

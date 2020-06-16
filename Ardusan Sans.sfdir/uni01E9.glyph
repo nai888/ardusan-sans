@@ -1,39 +1,37 @@
 StartChar: uni01E9
-Encoding: 489 489 520
-Width: 594
+Encoding: 140 489 54
+Width: 568
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-18" 0 0 basechar 0
-AnchorPoint: "Anchor-17" 0 0 basechar 0
-AnchorPoint: "Anchor-16" 297 527 basechar 0
-AnchorPoint: "Anchor-15" 0 0 basechar 0
-AnchorPoint: "Anchor-14" 297 -202 basechar 0
+AnchorPoint: "Anchor-18" -25 0 basechar 0
+AnchorPoint: "Anchor-17" -25 0 basechar 0
+AnchorPoint: "Anchor-16" 272 527 basechar 0
+AnchorPoint: "Anchor-15" -25 0 basechar 0
+AnchorPoint: "Anchor-14" 272 -202 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-485 467 m 128,-1,1
- 532 395 532 395 532 264 c 0,2,3
- 532 140 532 140 478 64 c 128,-1,4
- 424 -12 424 -12 325 -12 c 0,5,6
- 237 -12 237 -12 187 48 c 1,7,-1
- 187 -202 l 1,8,-1
- 95 -213 l 1,9,-1
- 95 527 l 1,10,-1
- 174 527 l 1,11,-1
- 181 456 l 1,12,13
- 210 496 210 496 251 517.5 c 128,-1,14
- 292 539 292 539 337 539 c 0,15,0
- 438 539 438 539 485 467 c 128,-1,1
-433 264 m 0,17,18
- 433 466 433 466 314 466 c 0,19,20
- 275 466 275 466 243 443 c 128,-1,21
- 211 420 211 420 187 384 c 1,22,-1
- 187 127 l 1,23,24
- 207 96 207 96 237 79.5 c 128,-1,25
- 267 63 267 63 303 63 c 0,26,16
- 433 63 433 63 433 264 c 0,17,18
+460 467 m 128,-1,1
+ 507 395 507 395 507 264 c 0,2,3
+ 507 140 507 140 453 64 c 128,-1,4
+ 399 -12 399 -12 300 -12 c 0,5,6
+ 212 -12 212 -12 162 48 c 1,7,-1
+ 162 -202 l 1,8,-1
+ 70 -213 l 1,9,-1
+ 70 527 l 1,10,-1
+ 149 527 l 1,11,-1
+ 156 456 l 1,12,13
+ 185 496 185 496 226 517.5 c 128,-1,14
+ 267 539 267 539 312 539 c 0,15,0
+ 413 539 413 539 460 467 c 128,-1,1
+408 264 m 0,17,18
+ 408 466 408 466 289 466 c 0,19,20
+ 250 466 250 466 218 443 c 128,-1,21
+ 186 420 186 420 162 384 c 1,22,-1
+ 162 127 l 1,23,24
+ 182 96 182 96 212 79.5 c 128,-1,25
+ 242 63 242 63 278 63 c 0,26,16
+ 408 63 408 63 408 264 c 0,17,18
 EndSplineSet
 Validated: 1
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" uni01E9.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni01E9.sc
 EndChar

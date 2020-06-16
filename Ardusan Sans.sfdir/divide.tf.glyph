@@ -1,6 +1,6 @@
 StartChar: divide.tf
-Encoding: 66386 -1 2368
-Width: 560
+Encoding: 351 -1 220
+Width: 494
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -23,11 +23,8 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2162 46 N 1 0 0 1 161 47 2
-Refer: 2162 46 N 1 0 0 1 161 504 2
-Refer: 2316 8722 N 1 0 0 1 30 0 0
+Refer: 101 46 N 1 0 0 1 123 47 2
+Refer: 101 46 N 1 0 0 1 123 504 2
+Refer: 171 8722 N 1 0 0 1 -8 0 0
 Validated: 65541
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" divide.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" divide
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" divide divide.tosf
 EndChar

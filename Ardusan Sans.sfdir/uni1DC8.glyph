@@ -1,6 +1,6 @@
 StartChar: uni1DC8
-Encoding: 7624 7624 2546
-Width: 0
+Encoding: 233 7624 391
+Width: 577
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -11,25 +11,25 @@ PUSHB_4
  48
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-23" -235 527 mark 0
-AnchorPoint: "Anchor-20" -233 795 basemark 0
-AnchorPoint: "Anchor-20" -235 527 mark 0
-AnchorPoint: "Anchor-16" -235 527 mark 0
-AnchorPoint: "Anchor-10" -235 527 mark 0
-AnchorPoint: "Anchor-5" -235 527 mark 0
-AnchorPoint: "Anchor-1" -235 527 mark 0
+AnchorPoint: "Anchor-23" 313 527 mark 0
+AnchorPoint: "Anchor-20" 315 795 basemark 0
+AnchorPoint: "Anchor-20" 313 527 mark 0
+AnchorPoint: "Anchor-16" 313 527 mark 0
+AnchorPoint: "Anchor-10" 313 527 mark 0
+AnchorPoint: "Anchor-5" 313 527 mark 0
+AnchorPoint: "Anchor-1" 313 527 mark 0
 LayerCount: 2
 Fore
 SplineSet
--283 653 m 1,0,-1
- -441 738 l 1,1,-1
- -400 795 l 1,2,-1
- -283 717 l 1,3,-1
- -165 795 l 1,4,-1
- -30 698 l 1,5,-1
- -58 653 l 1,6,-1
- -166 715 l 1,7,-1
- -283 653 l 1,0,-1
+265 653 m 1,0,-1
+ 107 738 l 1,1,-1
+ 148 795 l 1,2,-1
+ 265 717 l 1,3,-1
+ 383 795 l 1,4,-1
+ 518 698 l 1,5,-1
+ 490 653 l 1,6,-1
+ 382 715 l 1,7,-1
+ 265 653 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

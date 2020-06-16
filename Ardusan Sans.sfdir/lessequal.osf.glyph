@@ -1,6 +1,6 @@
 StartChar: lessequal.osf
-Encoding: 66370 -1 2348
-Width: 500
+Encoding: 335 -1 202
+Width: 523
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -23,10 +23,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2322 60 N 1 0 0 1 0 30 2
-Refer: 2316 8722 N 1 0 0 1 0 -294 2
+Refer: 177 60 N 1 0 0 1 14 30 2
+Refer: 171 8722 N 1 0 0 1 14 -294 2
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" lessequal.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" lessequal
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" lessequal lessequal.tosf
 EndChar

@@ -12,6 +12,8 @@ Ascent: 800
 Descent: 200
 InvalidEm: 0
 sfntRevision: 0x00010000
+woffMajor: 1
+woffMinor: 0
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +24,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1476947922
-ModificationTime: 1592178503
+ModificationTime: 1592267267
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,52 +59,9 @@ OS2XHeight: 527
 OS2Vendor: 'CTDB'
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: 600002ff.00000001.00000000.00000000
-Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 2" { "'locl' Localized Forms in Latin lookup 2 subtable"  } ['locl' ('latn' <'TAT ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 3" { "'locl' Localized Forms in Latin lookup 3 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 4" { "'locl' Localized Forms in Latin lookup 4 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 5" { "'locl' Localized Forms in Latin lookup 5 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 6" { "'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'KAZ ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7" { "'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'PLK ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 8" { "'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'AZE ' > ) ]
-Lookup: 6 0 0 "'locl' Localized Forms in Latin lookup 9" { "'locl' Localized Forms in Latin lookup 9 contextual 0"  "'locl' Localized Forms in Latin lookup 9 contextual 1"  } ['locl' ('latn' <'CAT ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 10" { "'locl' Localized Forms in Latin lookup 10 subtable"  } ['locl' ('latn' <'CRT ' > ) ]
-Lookup: 4 0 0 "'locl' Localized Forms in Latin lookup 11" { "'locl' Localized Forms in Latin lookup 11 subtable"  } ['locl' ('latn' <'AFK ' > ) ]
-Lookup: 1 0 0 "'mgrk' Mathematical Greek lookup 12" { "'mgrk' Mathematical Greek lookup 12 subtable"  } ['mgrk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'subs' Subscript lookup 13" { "'subs' Subscript lookup 13 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript lookup 14" { "'sups' Superscript lookup 14 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'numr' Numerators lookup 15" { "'numr' Numerators lookup 15 subtable"  } ['numr' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'dnom' Denominators lookup 16" { "'dnom' Denominators lookup 16 subtable"  } ['dnom' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'frac' Diagonal Fractions lookup 17" { "'frac' Diagonal Fractions lookup 17 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'frac' Diagonal Fractions lookup 18" { "'frac' Diagonal Fractions lookup 18 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'frac' Diagonal Fractions lookup 19" { "'frac' Diagonal Fractions lookup 19 contextual 0"  "'frac' Diagonal Fractions lookup 19 contextual 1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'ordn' Ordinals lookup 20" { "'ordn' Ordinals lookup 20 contextual 0"  "'ordn' Ordinals lookup 20 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "'ordn' Ordinals lookup 21" { "'ordn' Ordinals lookup 21 subtable"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'lnum' Lining Figures lookup 22" { "'lnum' Lining Figures lookup 22 subtable"  } ['lnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 23" { "'pnum' Proportional Numbers lookup 23 subtable"  } ['pnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 24" { "'tnum' Tabular Numbers lookup 24 subtable"  } ['tnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 25" { "'onum' Oldstyle Figures lookup 25 subtable" ("oldstyle") } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals lookup 26" { "'c2sc' Capitals to Small Capitals lookup 26 subtable"  } ['c2sc' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals lookup 27" { "'smcp' Lowercase to Small Capitals lookup 27 subtable"  } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 28" { "'case' Case-Sensitive Forms lookup 28 subtable"  } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures lookup 29" { "'dlig' Discretionary Ligatures lookup 29 subtable"  } ['dlig' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 30" { "'liga' Standard Ligatures lookup 30 subtable"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'zero' Slashed Zero lookup 31" { "'zero' Slashed Zero lookup 31 subtable"  } ['zero' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives lookup 32" { "'salt' Stylistic Alternatives lookup 32 subtable"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' Style Set 1 lookup 33" { "'ss01' Style Set 1 lookup 33 subtable"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss02' Style Set 2 lookup 34" { "'ss02' Style Set 2 lookup 34 subtable"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss03' Style Set 3 lookup 35" { "'ss03' Style Set 3 lookup 35 subtable"  } ['ss03' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss04' Style Set 4 lookup 36" { "'ss04' Style Set 4 lookup 36 subtable"  } ['ss04' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "'calt' Contextual Alternates lookup 37" { "'calt' Contextual Alternates lookup 37 subtable"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'calt' Contextual Alternates lookup 38" { "'calt' Contextual Alternates lookup 38 contextual 0"  "'calt' Contextual Alternates lookup 38 contextual 1"  "'calt' Contextual Alternates lookup 38 contextual 2"  "'calt' Contextual Alternates lookup 38 contextual 3"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'calt' Contextual Alternates lookup 39" { "'calt' Contextual Alternates lookup 39 contextual 0"  "'calt' Contextual Alternates lookup 39 contextual 1"  "'calt' Contextual Alternates lookup 39 contextual 2"  "'calt' Contextual Alternates lookup 39 contextual 3"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'calt' Contextual Alternates lookup 40" { "'calt' Contextual Alternates lookup 40 contextual 0"  "'calt' Contextual Alternates lookup 40 contextual 1"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 41" { "'ccmp' Glyph Composition/Decomposition lookup 41 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 41 contextual 1"  "'ccmp' Glyph Composition/Decomposition lookup 41 contextual 2"  "'ccmp' Glyph Composition/Decomposition lookup 41 contextual 3"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 42" { "'ccmp' Glyph Composition/Decomposition lookup 42 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 42 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 2 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 43" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 43 subtable"  } ['ccmp' ('latn' <'dflt' > ) ]
-Lookup: 4 0 0 "Ligature Substitution lookup 44" { "Ligature Substitution lookup 44 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 45" { "Single Substitution lookup 45 subtable"  } []
 Lookup: 257 0 0 "'cpsp' Capital Spacing lookup 0" { "'cpsp' Capital Spacing lookup 0 subtable"  } ['cpsp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1" { "'kern' Horizontal Kerning lookup 1 kerning class 0"  "'kern' Horizontal Kerning lookup 1 kerning class 1"  "'kern' Horizontal Kerning lookup 1 kerning class 2"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 2" { "'kern' Horizontal Kerning lookup 2 per glyph data 0"  "'kern' Horizontal Kerning lookup 2 per glyph data 1"  "'kern' Horizontal Kerning lookup 2 per glyph data 2"  "'kern' Horizontal Kerning lookup 2 kerning class 3"  "'kern' Horizontal Kerning lookup 2 kerning class 4"  "'kern' Horizontal Kerning lookup 2 kerning class 5"  "'kern' Horizontal Kerning lookup 2 kerning class 6"  "'kern' Horizontal Kerning lookup 2 kerning class 7"  "'kern' Horizontal Kerning lookup 2 kerning class 8"  "'kern' Horizontal Kerning lookup 2 kerning class 9"  "'kern' Horizontal Kerning lookup 2 kerning class 10"  "'kern' Horizontal Kerning lookup 2 kerning class 11"  "'kern' Horizontal Kerning lookup 2 kerning class 12"  "'kern' Horizontal Kerning lookup 2 kerning class 13"  "'kern' Horizontal Kerning lookup 2 kerning class 14"  "'kern' Horizontal Kerning lookup 2 kerning class 15"  "'kern' Horizontal Kerning lookup 2 kerning class 16"  "'kern' Horizontal Kerning lookup 2 kerning class 17"  "'kern' Horizontal Kerning lookup 2 kerning class 18"  "'kern' Horizontal Kerning lookup 2 kerning class 19"  "'kern' Horizontal Kerning lookup 2 kerning class 20"  "'kern' Horizontal Kerning lookup 2 kerning class 21"  "'kern' Horizontal Kerning lookup 2 kerning class 22"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
@@ -2110,165 +2069,6 @@ KernClass2: 16+ 19 "'kern' Horizontal Kerning lookup 2 kerning class 22"
  18 uni03D6 uni03D6.sc
  5 theta
  0 {} -10 {} -14 {} -9 {} -7 {} -4 {} -40 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -4 {} -20 {} 0 {} 0 {} -30 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -9 {} -14 {} -15 {} -10 {} -20 {} -30 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -20 {} -9 {} -20 {} -15 {} 0 {} -53 {} -20 {} -14 {} 15 {} 15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -10 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} -10 {} -60 {} -10 {} -38 {} 0 {} -25 {} -90 {} -20 {} -40 {} -15 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} 0 {} -60 {} 0 {} -15 {} 0 {} -10 {} -60 {} 0 {} -20 {} -10 {} 0 {} -10 {} 0 {} 0 {} 0 {} -15 {} 0 {} -10 {} 0 {} -10 {} -29 {} -30 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} -10 {} 0 {} -10 {} -26 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} -20 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 4 {} 4 {} 0 {} 20 {} 0 {} 9 {} 4 {} 9 {} -40 {} 4 {} 0 {} 20 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 9 {} 4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -60 {} 4 {} -63 {} -20 {} 9 {} -60 {} -50 {} -80 {} 0 {} 0 {} 0 {} -39 {} 0 {} -20 {} 0 {} 0 {} -20 {}
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 42 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 318 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030F uni031B uni0326 uni0327 acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ring tilde tonos uni1FBF uni1FFE uni1FCD uni1FDD uni1FCE uni1FDE uni1FCF uni1FDF uni1FEF uni1FFD
-  BCoverage: 513 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case uni0304.case hookabovecomb.case uni030F.case uni031B.case uni0326.case uni0327.case acute.case breve.case caron.case cedilla.case circumflex.case dieresis.case dotaccent.case grave.case hungarumlaut.case macron.case ring.case tilde.case uni1FBF.case uni1FFE.case uni1FCD.case uni1FDD.case uni1FCE.case uni1FDE.case uni1FCF.case uni1FDF.case uni1FEF.case uni1FFD.case tonos.case
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 42 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 318 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030F uni031B uni0326 uni0327 acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ring tilde tonos uni1FBF uni1FFE uni1FCD uni1FDD uni1FCE uni1FDE uni1FCF uni1FDF uni1FEF uni1FFD
-  FCoverage: 513 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case uni0304.case hookabovecomb.case uni030F.case uni031B.case uni0326.case uni0327.case acute.case breve.case caron.case cedilla.case circumflex.case dieresis.case dotaccent.case grave.case hungarumlaut.case macron.case ring.case tilde.case uni1FBF.case uni1FFE.case uni1FCD.case uni1FDD.case uni1FCE.case uni1FDE.case uni1FCF.case uni1FDF.case uni1FEF.case uni1FFD.case tonos.case
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 41 contextual 3" 0 0 0 1
- 1 1 0
-  Coverage: 318 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030F uni031B uni0326 uni0327 acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ring tilde tonos uni1FBF uni1FFE uni1FCD uni1FDD uni1FCE uni1FDE uni1FCF uni1FDF uni1FEF uni1FFD
-  BCoverage: 4842 A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA uni0200 Adieresis uni01DE uni0226 uni1EA0 uni01E0 Agrave uni1EA2 uni0202 uni2C6D Amacron Aogonek Aring Aringacute uni023A Atilde AE AEacute uni01E2 B uni1E02 uni1E04 uniA7B4 uni0181 uni0181.ss02 uni0243 uni0182 C Cacute Cacute.loclPLK Ccaron Ccedilla Ccircumflex Cdotaccent uniA7B3 uni0187 uni023B D uni01F1 uni01C4 uni0189 Eth Dcaron uni1E12 Dcroat uni1E0A uni1E0C uni018A uni1E0E uni018B uni01F2 uni01C5 E Eacute Ebreve Ecaron uni0228 Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 uni0204 Edieresis Edotaccent uni1EB8 Egrave uni1EBA uni0206 Emacron Eogonek uni0190 uni018E uni01A9 uni0246 uni1EBC uni01B7 uni01EE uni01B8 F uni1E1E uni0191 G uni01F4 uni0194 Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent uni0193 uni0241 uni01E4 uni021C H Hbar uni021E Hcircumflex uni1E24 uniA7AA uniA78D uniA78D.ss02 uni01F6 I IJ Iacute Ibreve uni01CF Icircumflex uni0208 Idieresis uni1E2E Idotaccent uni1ECA Igrave uni1EC8 uni020A Imacron Iogonek uni0196 uni0197 Itilde J Jcircumflex uniA7B2 uni0248 K uni01E8 Kcommaaccent uni0198 L uni01C7 Lacute uni023D uniA7AD Lcaron uni1E3C Lcommaaccent Ldot uni1E36 uni01C8 Lslash M uni1E3E uni1E40 uni019C N uni01CA Nacute Nacute.loclPLK Ncaron uni1E4A Ncommaaccent uni1E44 uni1E46 uni01F8 Eng Eng.ss01 uni019D uni019D.ss01 uni01CB uni0220 Ntilde O uni0222 Oacute Oacute.loclPLK Obreve uni01D1 uni019F Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 uni020C Odieresis uni022A uni022E uni0230 uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut uni01A2 uni020E Omacron uni1E52 uni1E50 uniA7B6 uni01EA uni01EC uni0186 Oslash Oslashacute Otilde uni1E4C uni022C OE P uni1E54 uni1E56 uni01A4 Thorn Q uni024A R Racute Rcaron Rcommaaccent uni0210 uni1E5A uni0212 uni024C uni2C64 uni2C64.ss01 S Sacute Sacute.loclPLK uniA78B Scaron Scedilla Scircumflex Scommaaccent uni1E60 uni1E62 uni1E9E uni018F T Tbar Tcaron uni0162 uni1E70 uni021A uni023E uni1E6A uni1E6C uni01AC uni1E6E uni01BC uni0184 uni01A7 uni01AE U Uacute uni0244 Ubreve uni01D3 Ucircumflex uni0214 Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut uni0216 Umacron Uogonek uni01B1 Uring Utilde uni1E78 V uni01B2 uni0245 W Wacute Wcircumflex Wdieresis Wgrave uni2C72 uni01F7 X Y Yacute Ycircumflex Ydieresis uni1EF4 Ygrave uni01B3 uni1EF6 uni0232 uni01A6 uni024E uni1EF8 Z Zacute Zacute.loclPLK Zcaron Zdotaccent uni1E92 uni0224 uni01B5 uni052C uni052A uni052E uni0528 uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0400 uni0401 uni0416 uni0417 uni0418 uni0419 uni040D uni048A uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni042F uni0402 uni0460 uni0462 uni0464 uni0466 uni0468 uni046A uni046C uni046E uni0470 uni0472 uni0474 uni0476 uni0478 uni0492 uni0494 uni0496 uni0498 uni049A uni049C uni049E uni04A0 uni04A2 uni04A6 uni0524 uni04A8 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B6 uni04B8 uni04BA uni0526 uni04BC uni04BE uni04C0 uni04C1 uni04C3 uni04C5 uni04C7 uni04C9 uni04CB uni04CD uni04D0 uni04D2 uni04D6 uni04D8 uni04DA uni04DC uni04DE uni04E0 uni04E2 uni04E4 uni04E6 uni04E8 uni04EA uni04EC uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni04FA uni04FC uni04FE uni0500 uni0502 uni0504 uni0506 uni0508 uni050A uni050C uni050E uni0510 uni0512 uni0514 uni0516 uni0518 uni051A uni051C uni051E uni0520 uni0522 uni048C uni048E uni037F Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis uni0370 uni0372 uni0376 uni03D8 uni03DA uni03DC uni03DE uni03E0 uni03CF uni03D2 uni03D3 uni03D4 uni03F4 uni03F7 uni03F9 uni03FA uni03FD uni03FE uni03FF uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 41 contextual 2" 0 0 0 1
- 1 1 0
-  Coverage: 318 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030F uni031B uni0326 uni0327 acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ring tilde tonos uni1FBF uni1FFE uni1FCD uni1FDD uni1FCE uni1FDE uni1FCF uni1FDF uni1FEF uni1FFD
-  BCoverage: 318 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030F uni031B uni0326 uni0327 acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ring tilde tonos uni1FBF uni1FFE uni1FCD uni1FDD uni1FCE uni1FDE uni1FCF uni1FDF uni1FEF uni1FFD
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 41 contextual 1" 0 0 0 1
- 1 0 2
-  Coverage: 3 i j
-  FCoverage: 284 uni0316 uni0317 uni0318 uni0319 uni031B uni031C uni031D uni031E uni031F uni0320 uni0321 dotbelowcomb uni0324 uni0325 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032F uni0330 uni0331 uni0332 uni0334 uni0335 uni0336 uni0339 uni033A uni033B uni033C uni035C uni0361 uni0345
-  FCoverage: 171 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030D uni030F uni0311 uni0312 uni0313 uni031A uni033D uni0342
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 41 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 3 i j
-  FCoverage: 171 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030D uni030F uni0311 uni0312 uni0313 uni031A uni033D uni0342
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 40 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 324 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni031B uni0326 uni0327 acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut acute.loclPLK macron ring tilde tonos uni1FBF uni1FFE uni1FCD uni1FDD uni1FCE uni1FDE uni1FCF uni1FDF uni1FEF uni1FFD
-  BCoverage: 519 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case uni0304.case hookabovecomb.case uni031B.case uni0326.case uni0327.case acute.case breve.case caron.case cedilla.case circumflex.case dieresis.case dotaccent.case grave.case hungarumlaut.case macron.case ring.case tilde.case acute.case.loclPLK uni1FBF.case uni1FFE.case uni1FCD.case uni1FDD.case uni1FCE.case uni1FDE.case uni1FCF.case uni1FDF.case uni1FEF.case uni1FFD.case tonos.case
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 40 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 324 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni031B uni0326 uni0327 acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut acute.loclPLK macron ring tilde tonos uni1FBF uni1FFE uni1FCD uni1FDD uni1FCE uni1FDE uni1FCF uni1FDF uni1FEF uni1FFD
-  BCoverage: 4842 A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA uni0200 Adieresis uni01DE uni0226 uni1EA0 uni01E0 Agrave uni1EA2 uni0202 uni2C6D Amacron Aogonek Aring Aringacute uni023A Atilde AE AEacute uni01E2 B uni1E02 uni1E04 uniA7B4 uni0181 uni0181.ss02 uni0243 uni0182 C Cacute Cacute.loclPLK Ccaron Ccedilla Ccircumflex Cdotaccent uniA7B3 uni0187 uni023B D uni01F1 uni01C4 uni0189 Eth Dcaron uni1E12 Dcroat uni1E0A uni1E0C uni018A uni1E0E uni018B uni01F2 uni01C5 E Eacute Ebreve Ecaron uni0228 Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 uni0204 Edieresis Edotaccent uni1EB8 Egrave uni1EBA uni0206 Emacron Eogonek uni0190 uni018E uni01A9 uni0246 uni1EBC uni01B7 uni01EE uni01B8 F uni1E1E uni0191 G uni01F4 uni0194 Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent uni0193 uni0241 uni01E4 uni021C H Hbar uni021E Hcircumflex uni1E24 uniA7AA uniA78D uniA78D.ss02 uni01F6 I IJ Iacute Ibreve uni01CF Icircumflex uni0208 Idieresis uni1E2E Idotaccent uni1ECA Igrave uni1EC8 uni020A Imacron Iogonek uni0196 uni0197 Itilde J Jcircumflex uniA7B2 uni0248 K uni01E8 Kcommaaccent uni0198 L uni01C7 Lacute uni023D uniA7AD Lcaron uni1E3C Lcommaaccent Ldot uni1E36 uni01C8 Lslash M uni1E3E uni1E40 uni019C N uni01CA Nacute Nacute.loclPLK Ncaron uni1E4A Ncommaaccent uni1E44 uni1E46 uni01F8 Eng Eng.ss01 uni019D uni019D.ss01 uni01CB uni0220 Ntilde O uni0222 Oacute Oacute.loclPLK Obreve uni01D1 uni019F Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 uni020C Odieresis uni022A uni022E uni0230 uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut uni01A2 uni020E Omacron uni1E52 uni1E50 uniA7B6 uni01EA uni01EC uni0186 Oslash Oslashacute Otilde uni1E4C uni022C OE P uni1E54 uni1E56 uni01A4 Thorn Q uni024A R Racute Rcaron Rcommaaccent uni0210 uni1E5A uni0212 uni024C uni2C64 uni2C64.ss01 S Sacute Sacute.loclPLK uniA78B Scaron Scedilla Scircumflex Scommaaccent uni1E60 uni1E62 uni1E9E uni018F T Tbar Tcaron uni0162 uni1E70 uni021A uni023E uni1E6A uni1E6C uni01AC uni1E6E uni01BC uni0184 uni01A7 uni01AE U Uacute uni0244 Ubreve uni01D3 Ucircumflex uni0214 Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut uni0216 Umacron Uogonek uni01B1 Uring Utilde uni1E78 V uni01B2 uni0245 W Wacute Wcircumflex Wdieresis Wgrave uni2C72 uni01F7 X Y Yacute Ycircumflex Ydieresis uni1EF4 Ygrave uni01B3 uni1EF6 uni0232 uni01A6 uni024E uni1EF8 Z Zacute Zacute.loclPLK Zcaron Zdotaccent uni1E92 uni0224 uni01B5 uni052C uni052A uni052E uni0528 uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0400 uni0401 uni0416 uni0417 uni0418 uni0419 uni040D uni048A uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni042F uni0402 uni0460 uni0462 uni0464 uni0466 uni0468 uni046A uni046C uni046E uni0470 uni0472 uni0474 uni0476 uni0478 uni0492 uni0494 uni0496 uni0498 uni049A uni049C uni049E uni04A0 uni04A2 uni04A6 uni0524 uni04A8 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B6 uni04B8 uni04BA uni0526 uni04BC uni04BE uni04C0 uni04C1 uni04C3 uni04C5 uni04C7 uni04C9 uni04CB uni04CD uni04D0 uni04D2 uni04D6 uni04D8 uni04DA uni04DC uni04DE uni04E0 uni04E2 uni04E4 uni04E6 uni04E8 uni04EA uni04EC uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni04FA uni04FC uni04FE uni0500 uni0502 uni0504 uni0506 uni0508 uni050A uni050C uni050E uni0510 uni0512 uni0514 uni0516 uni0518 uni051A uni051C uni051E uni0520 uni0522 uni048C uni048E uni037F Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis uni0370 uni0372 uni0376 uni03D8 uni03DA uni03DC uni03DE uni03E0 uni03CF uni03D2 uni03D3 uni03D4 uni03F4 uni03F7 uni03F9 uni03FA uni03FD uni03FE uni03FF uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 39 contextual 3" 0 0 0 1
- 1 2 0
-  Coverage: 847 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF
-  BCoverage: 5 space
-  BCoverage: 1392 alpha.sc beta.sc gamma.sc delta.sc epsilon.sc zeta.sc eta.sc theta.sc iota.sc kappa.sc lambda.sc uni03BC.sc nu.sc xi.sc omicron.sc pi.sc rho.sc sigma.sc tau.sc upsilon.sc phi.sc chi.sc psi.sc omega.sc iotatonos.sc iotadieresis.sc upsilontonos.sc upsilondieresis.sc omicrontonos.sc omegatonos.sc alphatonos.sc epsilontonos.sc etatonos.sc uni1F00.sc uni1F01.sc uni1F02.sc uni1F03.sc uni1F04.sc uni1F05.sc uni1F06.sc uni1F07.sc uni1F70.sc uni1F71.sc uni1FB0.sc uni1FB1.sc uni1FB3.sc uni1F80.sc uni1F81.sc uni1F82.sc uni1F83.sc uni1F84.sc uni1F85.sc uni1F86.sc uni1F87.sc uni1F10.sc uni1F11.sc uni1F12.sc uni1F13.sc uni1F14.sc uni1F15.sc uni1F72.sc uni1F73.sc uni1F20.sc uni1F21.sc uni1F22.sc uni1F23.sc uni1F24.sc uni1F25.sc uni1F26.sc uni1F27.sc uni1F74.sc uni1F75.sc uni1FC3.sc uni1F90.sc uni1F91.sc uni1F92.sc uni1F93.sc uni1F94.sc uni1F95.sc uni1F96.sc uni1F97.sc uni1F30.sc uni1F31.sc uni1F32.sc uni1F33.sc uni1F34.sc uni1F35.sc uni1F36.sc uni1F37.sc uni1F76.sc uni1F77.sc uni1FD0.sc uni1FD1.sc uni1F40.sc uni1F41.sc uni1F42.sc uni1F43.sc uni1F44.sc uni1F45.sc uni1F78.sc uni1F79.sc uni1FE5.sc uni1F51.sc uni1F53.sc uni1F55.sc uni1F57.sc uni1F7A.sc uni1F7B.sc uni1FE0.sc uni1FE1.sc uni1F60.sc uni1F61.sc uni1F62.sc uni1F63.sc uni1F64.sc uni1F65.sc uni1F66.sc uni1F67.sc uni1F7C.sc uni1F7D.sc uni1FF3.sc uni1FA0.sc uni1FA1.sc uni1FA2.sc uni1FA3.sc uni1FA4.sc uni1FA5.sc uni1FA6.sc uni1FA7.sc
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 39 contextual 2" 0 0 0 1
- 1 0 2
-  Coverage: 847 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF
-  FCoverage: 5 space
-  FCoverage: 1392 alpha.sc beta.sc gamma.sc delta.sc epsilon.sc zeta.sc eta.sc theta.sc iota.sc kappa.sc lambda.sc uni03BC.sc nu.sc xi.sc omicron.sc pi.sc rho.sc sigma.sc tau.sc upsilon.sc phi.sc chi.sc psi.sc omega.sc iotatonos.sc iotadieresis.sc upsilontonos.sc upsilondieresis.sc omicrontonos.sc omegatonos.sc alphatonos.sc epsilontonos.sc etatonos.sc uni1F00.sc uni1F01.sc uni1F02.sc uni1F03.sc uni1F04.sc uni1F05.sc uni1F06.sc uni1F07.sc uni1F70.sc uni1F71.sc uni1FB0.sc uni1FB1.sc uni1FB3.sc uni1F80.sc uni1F81.sc uni1F82.sc uni1F83.sc uni1F84.sc uni1F85.sc uni1F86.sc uni1F87.sc uni1F10.sc uni1F11.sc uni1F12.sc uni1F13.sc uni1F14.sc uni1F15.sc uni1F72.sc uni1F73.sc uni1F20.sc uni1F21.sc uni1F22.sc uni1F23.sc uni1F24.sc uni1F25.sc uni1F26.sc uni1F27.sc uni1F74.sc uni1F75.sc uni1FC3.sc uni1F90.sc uni1F91.sc uni1F92.sc uni1F93.sc uni1F94.sc uni1F95.sc uni1F96.sc uni1F97.sc uni1F30.sc uni1F31.sc uni1F32.sc uni1F33.sc uni1F34.sc uni1F35.sc uni1F36.sc uni1F37.sc uni1F76.sc uni1F77.sc uni1FD0.sc uni1FD1.sc uni1F40.sc uni1F41.sc uni1F42.sc uni1F43.sc uni1F44.sc uni1F45.sc uni1F78.sc uni1F79.sc uni1FE5.sc uni1F51.sc uni1F53.sc uni1F55.sc uni1F57.sc uni1F7A.sc uni1F7B.sc uni1FE0.sc uni1FE1.sc uni1F60.sc uni1F61.sc uni1F62.sc uni1F63.sc uni1F64.sc uni1F65.sc uni1F66.sc uni1F67.sc uni1F7C.sc uni1F7D.sc uni1FF3.sc uni1FA0.sc uni1FA1.sc uni1FA2.sc uni1FA3.sc uni1FA4.sc uni1FA5.sc uni1FA6.sc uni1FA7.sc
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 39 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 847 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF
-  BCoverage: 1392 alpha.sc beta.sc gamma.sc delta.sc epsilon.sc zeta.sc eta.sc theta.sc iota.sc kappa.sc lambda.sc uni03BC.sc nu.sc xi.sc omicron.sc pi.sc rho.sc sigma.sc tau.sc upsilon.sc phi.sc chi.sc psi.sc omega.sc iotatonos.sc iotadieresis.sc upsilontonos.sc upsilondieresis.sc omicrontonos.sc omegatonos.sc alphatonos.sc epsilontonos.sc etatonos.sc uni1F00.sc uni1F01.sc uni1F02.sc uni1F03.sc uni1F04.sc uni1F05.sc uni1F06.sc uni1F07.sc uni1F70.sc uni1F71.sc uni1FB0.sc uni1FB1.sc uni1FB3.sc uni1F80.sc uni1F81.sc uni1F82.sc uni1F83.sc uni1F84.sc uni1F85.sc uni1F86.sc uni1F87.sc uni1F10.sc uni1F11.sc uni1F12.sc uni1F13.sc uni1F14.sc uni1F15.sc uni1F72.sc uni1F73.sc uni1F20.sc uni1F21.sc uni1F22.sc uni1F23.sc uni1F24.sc uni1F25.sc uni1F26.sc uni1F27.sc uni1F74.sc uni1F75.sc uni1FC3.sc uni1F90.sc uni1F91.sc uni1F92.sc uni1F93.sc uni1F94.sc uni1F95.sc uni1F96.sc uni1F97.sc uni1F30.sc uni1F31.sc uni1F32.sc uni1F33.sc uni1F34.sc uni1F35.sc uni1F36.sc uni1F37.sc uni1F76.sc uni1F77.sc uni1FD0.sc uni1FD1.sc uni1F40.sc uni1F41.sc uni1F42.sc uni1F43.sc uni1F44.sc uni1F45.sc uni1F78.sc uni1F79.sc uni1FE5.sc uni1F51.sc uni1F53.sc uni1F55.sc uni1F57.sc uni1F7A.sc uni1F7B.sc uni1FE0.sc uni1FE1.sc uni1F60.sc uni1F61.sc uni1F62.sc uni1F63.sc uni1F64.sc uni1F65.sc uni1F66.sc uni1F67.sc uni1F7C.sc uni1F7D.sc uni1FF3.sc uni1FA0.sc uni1FA1.sc uni1FA2.sc uni1FA3.sc uni1FA4.sc uni1FA5.sc uni1FA6.sc uni1FA7.sc
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 39 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 847 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF
-  FCoverage: 1392 alpha.sc beta.sc gamma.sc delta.sc epsilon.sc zeta.sc eta.sc theta.sc iota.sc kappa.sc lambda.sc uni03BC.sc nu.sc xi.sc omicron.sc pi.sc rho.sc sigma.sc tau.sc upsilon.sc phi.sc chi.sc psi.sc omega.sc iotatonos.sc iotadieresis.sc upsilontonos.sc upsilondieresis.sc omicrontonos.sc omegatonos.sc alphatonos.sc epsilontonos.sc etatonos.sc uni1F00.sc uni1F01.sc uni1F02.sc uni1F03.sc uni1F04.sc uni1F05.sc uni1F06.sc uni1F07.sc uni1F70.sc uni1F71.sc uni1FB0.sc uni1FB1.sc uni1FB3.sc uni1F80.sc uni1F81.sc uni1F82.sc uni1F83.sc uni1F84.sc uni1F85.sc uni1F86.sc uni1F87.sc uni1F10.sc uni1F11.sc uni1F12.sc uni1F13.sc uni1F14.sc uni1F15.sc uni1F72.sc uni1F73.sc uni1F20.sc uni1F21.sc uni1F22.sc uni1F23.sc uni1F24.sc uni1F25.sc uni1F26.sc uni1F27.sc uni1F74.sc uni1F75.sc uni1FC3.sc uni1F90.sc uni1F91.sc uni1F92.sc uni1F93.sc uni1F94.sc uni1F95.sc uni1F96.sc uni1F97.sc uni1F30.sc uni1F31.sc uni1F32.sc uni1F33.sc uni1F34.sc uni1F35.sc uni1F36.sc uni1F37.sc uni1F76.sc uni1F77.sc uni1FD0.sc uni1FD1.sc uni1F40.sc uni1F41.sc uni1F42.sc uni1F43.sc uni1F44.sc uni1F45.sc uni1F78.sc uni1F79.sc uni1FE5.sc uni1F51.sc uni1F53.sc uni1F55.sc uni1F57.sc uni1F7A.sc uni1F7B.sc uni1FE0.sc uni1FE1.sc uni1F60.sc uni1F61.sc uni1F62.sc uni1F63.sc uni1F64.sc uni1F65.sc uni1F66.sc uni1F67.sc uni1F7C.sc uni1F7D.sc uni1FF3.sc uni1FA0.sc uni1FA1.sc uni1FA2.sc uni1FA3.sc uni1FA4.sc uni1FA5.sc uni1FA6.sc uni1FA7.sc
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 38 contextual 3" 0 0 0 1
- 1 1 0
-  Coverage: 10 upsilon.sc
-  BCoverage: 785 Alphatonos Epsilontonos Omicrontonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 omicrontonos.sc alphatonos.sc epsilontonos.sc uni1F00.sc uni1F01.sc uni1F02.sc uni1F03.sc uni1F04.sc uni1F05.sc uni1F06.sc uni1F07.sc uni1F70.sc uni1F71.sc uni1FB0.sc uni1FB1.sc uni1FB3.sc uni1F80.sc uni1F81.sc uni1F82.sc uni1F83.sc uni1F84.sc uni1F85.sc uni1F86.sc uni1F87.sc uni1F10.sc uni1F11.sc uni1F12.sc uni1F13.sc uni1F14.sc uni1F15.sc uni1F72.sc uni1F73.sc uni1F40.sc uni1F41.sc uni1F42.sc uni1F43.sc uni1F44.sc uni1F45.sc uni1F78.sc uni1F79.sc
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 38 contextual 2" 0 0 0 1
- 1 1 0
-  Coverage: 7 iota.sc
-  BCoverage: 966 Alphatonos Epsilontonos Omicrontonos Upsilontonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 upsilontonos.sc omicrontonos.sc alphatonos.sc epsilontonos.sc uni1F00.sc uni1F01.sc uni1F02.sc uni1F03.sc uni1F04.sc uni1F05.sc uni1F06.sc uni1F07.sc uni1F70.sc uni1F71.sc uni1FB0.sc uni1FB1.sc uni1FB3.sc uni1F80.sc uni1F81.sc uni1F82.sc uni1F83.sc uni1F84.sc uni1F85.sc uni1F86.sc uni1F87.sc uni1F10.sc uni1F11.sc uni1F12.sc uni1F13.sc uni1F14.sc uni1F15.sc uni1F72.sc uni1F73.sc uni1F40.sc uni1F41.sc uni1F42.sc uni1F43.sc uni1F44.sc uni1F45.sc uni1F78.sc uni1F79.sc uni1F51.sc uni1F53.sc uni1F55.sc uni1F57.sc uni1F7A.sc uni1F7B.sc uni1FE0.sc uni1FE1.sc
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 38 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 7 Upsilon
-  BCoverage: 785 Alphatonos Epsilontonos Omicrontonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 omicrontonos.sc alphatonos.sc epsilontonos.sc uni1F00.sc uni1F01.sc uni1F02.sc uni1F03.sc uni1F04.sc uni1F05.sc uni1F06.sc uni1F07.sc uni1F70.sc uni1F71.sc uni1FB0.sc uni1FB1.sc uni1FB3.sc uni1F80.sc uni1F81.sc uni1F82.sc uni1F83.sc uni1F84.sc uni1F85.sc uni1F86.sc uni1F87.sc uni1F10.sc uni1F11.sc uni1F12.sc uni1F13.sc uni1F14.sc uni1F15.sc uni1F72.sc uni1F73.sc uni1F40.sc uni1F41.sc uni1F42.sc uni1F43.sc uni1F44.sc uni1F45.sc uni1F78.sc uni1F79.sc
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 38 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 4 Iota
-  BCoverage: 966 Alphatonos Epsilontonos Omicrontonos Upsilontonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 upsilontonos.sc omicrontonos.sc alphatonos.sc epsilontonos.sc uni1F00.sc uni1F01.sc uni1F02.sc uni1F03.sc uni1F04.sc uni1F05.sc uni1F06.sc uni1F07.sc uni1F70.sc uni1F71.sc uni1FB0.sc uni1FB1.sc uni1FB3.sc uni1F80.sc uni1F81.sc uni1F82.sc uni1F83.sc uni1F84.sc uni1F85.sc uni1F86.sc uni1F87.sc uni1F10.sc uni1F11.sc uni1F12.sc uni1F13.sc uni1F14.sc uni1F15.sc uni1F72.sc uni1F73.sc uni1F40.sc uni1F41.sc uni1F42.sc uni1F43.sc uni1F44.sc uni1F45.sc uni1F78.sc uni1F79.sc uni1F51.sc uni1F53.sc uni1F55.sc uni1F57.sc uni1F7A.sc uni1F7B.sc uni1FE0.sc uni1FE1.sc
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'ordn' Ordinals lookup 20 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 3 O o
-  BCoverage: 49 zero one two three four five six seven eight nine
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'ordn' Ordinals lookup 20 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 3 A a
-  BCoverage: 49 zero one two three four five six seven eight nine
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'frac' Diagonal Fractions lookup 19 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 99 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
-  BCoverage: 99 zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'frac' Diagonal Fractions lookup 19 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 99 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
-  BCoverage: 8 fraction
- 1
-  SeqLookup: 0 "Single Substitution lookup 45"
-EndFPST
-ChainSub2: coverage "'locl' Localized Forms in Latin lookup 9 contextual 1" 0 0 0 1
- 2 0 1
-  Coverage: 1 L
-  Coverage: 14 periodcentered
-  FCoverage: 1 L
- 1
-  SeqLookup: 0 "Ligature Substitution lookup 44"
-EndFPST
-ChainSub2: coverage "'locl' Localized Forms in Latin lookup 9 contextual 0" 0 0 0 1
- 2 0 1
-  Coverage: 1 l
-  Coverage: 14 periodcentered
-  FCoverage: 1 l
- 1
-  SeqLookup: 0 "Ligature Substitution lookup 44"
-EndFPST
 TtTable: prep
 SVTCA[y-axis]
 MPPEM
@@ -5968,16 +5768,18 @@ ShortTable: maxp 16
   4
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 4.203" "" "Fira Sans is a trademark of The Mozilla Corporation." "Carrois Corporate GbR & Edenspiekermann AG" "Carrois Corporate & Edenspiekermann AG" "" "http://www.carrois.com" "http://www.carrois.com" "Licensed under the Open Font License, version 1.1 or later" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 1.0" "" "" "" "" "" "" "" "Licensed under the Open Font License, version 1.1 or later" "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: UnicodeBmp
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
+WidthSeparation: 150
 WinInfo: 0 45 15
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 277872 138936 92624 552600 1048576 92624 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 3 subtable" "Anchor-1" "'mark' Mark Positioning lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning lookup 4 subtable" "Anchor-6" "'mark' Mark Positioning lookup 4 subtable" "Anchor-7" "'mark' Mark Positioning lookup 4 subtable" "Anchor-8" "'mark' Mark Positioning lookup 4 subtable" "Anchor-9" "'mark' Mark Positioning lookup 5 subtable" "Anchor-10" "'mark' Mark Positioning lookup 5 subtable" "Anchor-11" "'mark' Mark Positioning lookup 5 subtable" "Anchor-12" "'mark' Mark Positioning lookup 5 subtable" "Anchor-13" "'mark' Mark Positioning lookup 5 subtable" "Anchor-14" "'mark' Mark Positioning lookup 6 subtable" "Anchor-15" "'mark' Mark Positioning lookup 6 subtable" "Anchor-16" "'mark' Mark Positioning lookup 6 subtable" "Anchor-17" "'mark' Mark Positioning lookup 6 subtable" "Anchor-18" "'mark' Mark Positioning lookup 6 subtable" "Anchor-19" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-20" "'mkmk' Mark to Mark lookup 8 subtable" "Anchor-21" "'mkmk' Mark to Mark lookup 9 subtable" "Anchor-22" "'mkmk' Mark to Mark lookup 10 subtable" "Anchor-23" "'mkmk' Mark to Mark lookup 11 subtable"
 EndSplineFont

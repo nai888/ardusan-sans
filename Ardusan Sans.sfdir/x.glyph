@@ -1,6 +1,6 @@
 StartChar: x
-Encoding: 120 120 713
-Width: 584
+Encoding: 89 120 71
+Width: 587
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-18" 0 0 basechar 0
@@ -37,6 +37,4 @@ SplineSet
  156 62 156 62 292 62 c 256,29,30
 EndSplineSet
 Validated: 1
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" x.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" x.sc
 EndChar

@@ -1,13 +1,10 @@
 StartChar: degree.osf
-Encoding: 66431 -1 2445
-Width: 523
+Encoding: 396 -1 295
+Width: 443
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2429 176 N 1 0 0 1 0 0 0
+Refer: 281 176 N 1 0 0 1 2 0 0
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" degree.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" degree
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" degree degree.tosf
 EndChar

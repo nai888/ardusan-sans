@@ -1,13 +1,10 @@
 StartChar: section.osf
-Encoding: 66430 -1 2444
-Width: 533
+Encoding: 395 -1 294
+Width: 503
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2425 167 N 1 0 0 1 0 0 0
+Refer: 277 167 N 1 0 0 1 -15 0 0
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" section.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" section
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" section section.tosf
 EndChar

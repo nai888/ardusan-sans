@@ -1,6 +1,6 @@
 StartChar: breve.sc
-Encoding: 66490 -1 2607
-Width: 363
+Encoding: 455 -1 452
+Width: 434
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -12,9 +12,9 @@ PUSHB_1
  51
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-20" 184 819 basemark 0
+AnchorPoint: "Anchor-20" 220 819 basemark 0
 LayerCount: 2
 Fore
-Refer: 2481 774 N 1 0 0 1 363 30 2
+Refer: 326 774 N 1 0 0 1 399 30 2
 Validated: 1
 EndChar

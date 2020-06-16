@@ -1,12 +1,10 @@
 StartChar: dagger.tosf
-Encoding: 66441 -1 2455
-Width: 560
+Encoding: 406 -1 305
+Width: 529
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2433 8224 N 1 0 0 1 25 0 0
+Refer: 284 8224 N 1 0 0 1 9 0 0
 Validated: 1
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" dagger.osf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" dagger.osf
 EndChar

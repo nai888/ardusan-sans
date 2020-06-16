@@ -1,14 +1,12 @@
 StartChar: Q
-Encoding: 81 81 230
-Width: 587
+Encoding: 50 81 26
+Width: 616
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 617 113 N 1 0 0 1 0 0 2
+Refer: 62 113 N 1 0 0 1 -1 0 2
 Validated: 1
-Kerns2: 2191 4 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2185 4 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2183 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2181 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2179 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 2177 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" q.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" q.sc
+Kerns2: 123 4 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 121 4 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 119 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 117 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 115 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 113 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
 Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar

@@ -1,6 +1,6 @@
 StartChar: daggerdbl.tf
-Encoding: 66438 -1 2452
-Width: 560
+Encoding: 403 -1 302
+Width: 561
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -123,7 +123,4 @@ SplineSet
  503 465 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" daggerdbl.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" daggerdbl
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" daggerdbl daggerdbl.tosf
 EndChar

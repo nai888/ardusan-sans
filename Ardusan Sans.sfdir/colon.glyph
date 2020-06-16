@@ -1,17 +1,17 @@
 StartChar: colon
-Encoding: 58 58 2154
-Width: 500
+Encoding: 27 58 93
+Width: 516
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-438 361 m 1,0,-1
- 438 141 l 1,1,-1
- 355 141 l 1,2,-1
- 355 284 l 1,3,-1
- 62 284 l 1,4,-1
- 62 361 l 1,5,-1
- 438 361 l 1,0,-1
+443 361 m 1,0,-1
+ 443 141 l 1,1,-1
+ 360 141 l 1,2,-1
+ 360 284 l 1,3,-1
+ 67 284 l 1,4,-1
+ 67 361 l 1,5,-1
+ 443 361 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

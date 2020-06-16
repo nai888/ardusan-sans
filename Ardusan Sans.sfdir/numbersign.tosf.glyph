@@ -1,11 +1,9 @@
 StartChar: numbersign.tosf
-Encoding: 66281 -1 2171
-Width: 560
+Encoding: 307 -1 109
+Width: 588
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2169 -1 N 1 0 0 1 0 0 0
+Refer: 108 -1 N 1 0 0 1 14 0 0
 Validated: 1
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" numbersign.osf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" numbersign.osf
 EndChar

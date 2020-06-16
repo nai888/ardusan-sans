@@ -1,13 +1,11 @@
 StartChar: P
-Encoding: 80 80 225
-Width: 456
+Encoding: 49 80 24
+Width: 459
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 610 112 N 1 0 0 1 0 0 2
+Refer: 60 112 N 1 0 0 1 -30 0 2
 Validated: 1
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" p.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" p.sc
 Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar

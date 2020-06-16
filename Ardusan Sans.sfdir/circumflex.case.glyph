@@ -1,11 +1,11 @@
 StartChar: circumflex.case
-Encoding: 66464 -1 2571
-Width: 392
+Encoding: 429 -1 416
+Width: 485
 Flags: W
-AnchorPoint: "Anchor-21" 309 786 basemark 0
-AnchorPoint: "Anchor-20" 197 914 basemark 0
+AnchorPoint: "Anchor-21" 356 786 basemark 0
+AnchorPoint: "Anchor-20" 244 914 basemark 0
 LayerCount: 2
 Fore
-Refer: 2535 -1 N 1 0 0 1 392 0 0
+Refer: 380 -1 N 1 0 0 1 439 0 0
 Validated: 1
 EndChar

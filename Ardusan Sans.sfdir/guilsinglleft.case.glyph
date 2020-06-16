@@ -1,6 +1,6 @@
 StartChar: guilsinglleft.case
-Encoding: 66301 -1 2209
-Width: 340
+Encoding: 323 -1 139
+Width: 347
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -14,6 +14,6 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2213 8249 N 1 0 0 1 0 45 2
+Refer: 143 8249 N 1 0 0 1 6 45 2
 Validated: 1
 EndChar

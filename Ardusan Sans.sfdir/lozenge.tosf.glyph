@@ -1,6 +1,6 @@
 StartChar: lozenge.tosf
-Encoding: 66429 -1 2421
-Width: 560
+Encoding: 394 -1 273
+Width: 575
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -68,20 +68,18 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-334 669 m 1,0,-1
- 516 337 l 1,1,-1
- 334 0 l 1,2,-1
- 227 0 l 1,3,-1
- 45 336 l 1,4,-1
- 227 669 l 1,5,-1
- 334 669 l 1,0,-1
-280 602 m 1,6,-1
- 140 337 l 1,7,-1
- 280 68 l 1,8,-1
- 420 336 l 1,9,-1
- 280 602 l 1,6,-1
+341 669 m 1,0,-1
+ 523 337 l 1,1,-1
+ 341 0 l 1,2,-1
+ 234 0 l 1,3,-1
+ 52 336 l 1,4,-1
+ 234 669 l 1,5,-1
+ 341 669 l 1,0,-1
+287 602 m 1,6,-1
+ 147 337 l 1,7,-1
+ 287 68 l 1,8,-1
+ 427 336 l 1,9,-1
+ 287 602 l 1,6,-1
 EndSplineSet
 Validated: 1
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" lozenge.osf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" lozenge.osf
 EndChar

@@ -1,6 +1,6 @@
 StartChar: braceleft
-Encoding: 123 123 2176
-Width: 322
+Encoding: 92 123 112
+Width: 343
 Flags: W
 TtInstrs:
 NPUSHB
@@ -57,33 +57,31 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-277 765 m 1,0,1
- 226 765 226 765 204 749.5 c 128,-1,2
- 182 734 182 734 182 697 c 2,3,-1
- 182 458 l 2,4,5
- 182 407 182 407 164 384.5 c 128,-1,6
- 146 362 146 362 107 349 c 1,7,8
- 147 335 147 335 164.5 314 c 128,-1,9
- 182 293 182 293 182 242 c 2,10,-1
- 182 3 l 2,11,12
- 182 -34 182 -34 204 -49.5 c 128,-1,13
- 226 -65 226 -65 277 -65 c 1,14,-1
- 277 -136 l 1,15,16
- 177 -136 177 -136 136 -101.5 c 128,-1,17
- 95 -67 95 -67 95 13 c 2,18,-1
- 95 235 l 2,19,20
- 95 277 95 277 79.5 294 c 128,-1,21
- 64 311 64 311 25 311 c 1,22,-1
- 25 387 l 1,23,24
- 64 387 64 387 79.5 405 c 128,-1,25
- 95 423 95 423 95 465 c 2,26,-1
- 95 687 l 2,27,28
- 95 767 95 767 136 801.5 c 128,-1,29
- 177 836 177 836 277 836 c 1,30,-1
- 277 765 l 1,0,1
+299 765 m 1,0,1
+ 248 765 248 765 226 749.5 c 128,-1,2
+ 204 734 204 734 204 697 c 2,3,-1
+ 204 458 l 2,4,5
+ 204 407 204 407 186 384.5 c 128,-1,6
+ 168 362 168 362 129 349 c 1,7,8
+ 169 335 169 335 186.5 314 c 128,-1,9
+ 204 293 204 293 204 242 c 2,10,-1
+ 204 3 l 2,11,12
+ 204 -34 204 -34 226 -49.5 c 128,-1,13
+ 248 -65 248 -65 299 -65 c 1,14,-1
+ 299 -136 l 1,15,16
+ 199 -136 199 -136 158 -101.5 c 128,-1,17
+ 117 -67 117 -67 117 13 c 2,18,-1
+ 117 235 l 2,19,20
+ 117 277 117 277 101.5 294 c 128,-1,21
+ 86 311 86 311 47 311 c 1,22,-1
+ 47 387 l 1,23,24
+ 86 387 86 387 101.5 405 c 128,-1,25
+ 117 423 117 423 117 465 c 2,26,-1
+ 117 687 l 2,27,28
+ 117 767 117 767 158 801.5 c 128,-1,29
+ 199 836 199 836 299 836 c 1,30,-1
+ 299 765 l 1,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 1734 9 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1525 66 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1499 13 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1376 66 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1374 4 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1213 9 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 2240 13 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 934 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 933 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 896 23 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 648 4 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 454 14 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 178 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 177 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 137 28 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 100 66 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" braceleft.case
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" braceleft.case
 EndChar

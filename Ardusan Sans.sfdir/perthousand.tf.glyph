@@ -1,6 +1,6 @@
 StartChar: perthousand.tf
-Encoding: 66404 -1 2386
-Width: 1200
+Encoding: 369 -1 238
+Width: 1202
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -180,7 +180,4 @@ SplineSet
  943 263 943 263 924.5 233.5 c 128,-1,63
 EndSplineSet
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" perthousand.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" perthousand
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" perthousand perthousand.tosf
 EndChar

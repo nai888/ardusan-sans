@@ -1,6 +1,6 @@
 StartChar: parenright
-Encoding: 41 41 2191
-Width: 324
+Encoding: 10 41 123
+Width: 342
 Flags: W
 TtInstrs:
 PUSHB_4
@@ -13,27 +13,22 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-199.5 690.5 m 128,-1,1
- 235 630 235 630 259.5 545.5 c 128,-1,2
- 284 461 284 461 284 350 c 256,3,4
- 284 239 284 239 259.5 154.5 c 128,-1,5
- 235 70 235 70 199.5 9.5 c 128,-1,6
- 164 -51 164 -51 98 -145 c 1,7,-1
- 40 -105 l 1,8,9
- 92 -29 92 -29 122.5 32.5 c 128,-1,10
- 153 94 153 94 170.5 171 c 128,-1,11
- 188 248 188 248 188 350 c 0,12,13
- 188 453 188 453 170.5 530 c 128,-1,14
- 153 607 153 607 122.5 667.5 c 128,-1,15
- 92 728 92 728 40 805 c 1,16,-1
- 98 845 l 1,17,0
- 164 751 164 751 199.5 690.5 c 128,-1,1
+201.5 690.5 m 128,-1,1
+ 237 630 237 630 261.5 545.5 c 128,-1,2
+ 286 461 286 461 286 350 c 256,3,4
+ 286 239 286 239 261.5 154.5 c 128,-1,5
+ 237 70 237 70 201.5 9.5 c 128,-1,6
+ 166 -51 166 -51 100 -145 c 1,7,-1
+ 42 -105 l 1,8,9
+ 94 -29 94 -29 124.5 32.5 c 128,-1,10
+ 155 94 155 94 172.5 171 c 128,-1,11
+ 190 248 190 248 190 350 c 0,12,13
+ 190 453 190 453 172.5 530 c 128,-1,14
+ 155 607 155 607 124.5 667.5 c 128,-1,15
+ 94 728 94 728 42 805 c 1,16,-1
+ 100 845 l 1,17,0
+ 166 751 166 751 201.5 690.5 c 128,-1,1
 EndSplineSet
 Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" parenright.case
-Substitution2: "'dnom' Denominators lookup 16 subtable" parenright.dnom
-Substitution2: "'numr' Numerators lookup 15 subtable" parenright.numr
-Substitution2: "'sups' Superscript lookup 14 subtable" uni207E
-Substitution2: "'subs' Subscript lookup 13 subtable" uni208E
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni208E uni207E parenright.numr parenright.dnom parenright.case
 EndChar

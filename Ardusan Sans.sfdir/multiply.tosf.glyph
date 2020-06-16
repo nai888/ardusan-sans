@@ -1,12 +1,10 @@
 StartChar: multiply.tosf
-Encoding: 66407 -1 2389
-Width: 560
+Encoding: 372 -1 241
+Width: 462
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2317 215 N 1 0 0 1 30 0 0
+Refer: 172 215 N 1 0 0 1 -21 0 0
 Validated: 1
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" multiply.osf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" multiply.osf
 EndChar

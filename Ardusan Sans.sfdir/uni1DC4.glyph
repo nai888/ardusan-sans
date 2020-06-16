@@ -1,6 +1,6 @@
 StartChar: uni1DC4
-Encoding: 7620 7620 2548
-Width: 0
+Encoding: 229 7620 393
+Width: 489
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -44,14 +44,14 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
--30 720 m 1,0,-1
- -179 608 l 1,1,-1
- -180 609 l 1,2,-1
- -381 609 l 1,3,-1
- -381 678 l 1,4,-1
- -198 678 l 1,5,-1
- -85 782 l 1,6,-1
- -30 720 l 1,0,-1
+432 720 m 1,0,-1
+ 283 608 l 1,1,-1
+ 282 609 l 1,2,-1
+ 81 609 l 1,3,-1
+ 81 678 l 1,4,-1
+ 264 678 l 1,5,-1
+ 377 782 l 1,6,-1
+ 432 720 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

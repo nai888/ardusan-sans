@@ -1,11 +1,10 @@
 StartChar: period
-Encoding: 46 46 2162
-Width: 240
+Encoding: 15 46 101
+Width: 269
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2155 44 N 1 0 0 1 0 -253 2
-Refer: 2155 44 N 1 0 0 1 0 115 2
+Refer: 94 44 N 1 0 0 1 16 -253 2
+Refer: 94 44 N 1 0 0 1 16 115 2
 Validated: 1
-Kerns2: 1878 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1677 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1547 -50 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 454 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
 EndChar

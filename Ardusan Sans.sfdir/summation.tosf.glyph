@@ -1,12 +1,10 @@
 StartChar: summation.tosf
-Encoding: 66422 -1 2404
-Width: 560
+Encoding: 387 -1 256
+Width: 514
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2335 8721 N 1 0 0 1 28 0 0
+Refer: 189 8721 N 1 0 0 1 6 0 0
 Validated: 1
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" summation.osf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" summation.osf
 EndChar

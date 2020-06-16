@@ -1,10 +1,10 @@
 StartChar: grave.case
-Encoding: 66467 -1 2574
-Width: 300
+Encoding: 432 -1 419
+Width: 391
 Flags: W
-AnchorPoint: "Anchor-20" 160 911 basemark 0
+AnchorPoint: "Anchor-20" 204 911 basemark 0
 LayerCount: 2
 Fore
-Refer: 2532 -1 N 1 0 0 1 300 0 0
+Refer: 377 -1 N 1 0 0 1 344 0 0
 Validated: 1
 EndChar

@@ -1,20 +1,19 @@
 StartChar: comma
-Encoding: 44 44 2155
-Width: 240
+Encoding: 13 44 94
+Width: 276
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-169 360 m 128,-1,1
- 189 340 189 340 189 311 c 256,2,3
- 189 282 189 282 169 261.5 c 128,-1,4
- 149 241 149 241 119 241 c 0,5,6
- 90 241 90 241 70 261.5 c 128,-1,7
- 50 282 50 282 50 311 c 256,8,9
- 50 340 50 340 70 360 c 128,-1,10
- 90 380 90 380 119 380 c 0,11,0
- 149 380 149 380 169 360 c 128,-1,1
+187 360 m 128,-1,1
+ 207 340 207 340 207 311 c 256,2,3
+ 207 282 207 282 187 261.5 c 128,-1,4
+ 167 241 167 241 137 241 c 0,5,6
+ 108 241 108 241 88 261.5 c 128,-1,7
+ 68 282 68 282 68 311 c 256,8,9
+ 68 340 68 340 88 360 c 128,-1,10
+ 108 380 108 380 137 380 c 0,11,0
+ 167 380 167 380 187 360 c 128,-1,1
 EndSplineSet
 Validated: 1
-Kerns2: 1878 -56 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1677 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1547 -50 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 454 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 561 29 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 444 29 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 443 29 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
 EndChar

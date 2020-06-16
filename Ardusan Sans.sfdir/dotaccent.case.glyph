@@ -1,6 +1,6 @@
 StartChar: dotaccent.case
-Encoding: 66466 -1 2573
-Width: 189
+Encoding: 431 -1 418
+Width: 285
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -12,9 +12,9 @@ PUSHB_1
  51
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-20" 97 906 basemark 0
+AnchorPoint: "Anchor-20" 146 906 basemark 0
 LayerCount: 2
 Fore
-Refer: 2475 775 N 1 0 0 1 189 126 2
+Refer: 320 775 N 1 0 0 1 238 126 2
 Validated: 1
 EndChar

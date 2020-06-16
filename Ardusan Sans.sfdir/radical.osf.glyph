@@ -1,13 +1,10 @@
 StartChar: radical.osf
-Encoding: 66379 -1 2357
-Width: 560
+Encoding: 344 -1 211
+Width: 764
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2336 8730 N 1 0 0 1 0 0 0
+Refer: 190 8730 N 1 0 0 1 4 0 0
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" radical.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" radical
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" radical radical.tosf
 EndChar

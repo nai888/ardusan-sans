@@ -1,6 +1,6 @@
 StartChar: hookabovecomb
-Encoding: 777 777 2485
-Width: 0
+Encoding: 181 777 330
+Width: 323
 GlyphClass: 4
 Flags: W
 TtInstrs:
@@ -55,34 +55,32 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-23" -145 527 mark 0
-AnchorPoint: "Anchor-20" -129 846 basemark 0
-AnchorPoint: "Anchor-20" -145 527 mark 0
-AnchorPoint: "Anchor-16" -145 527 mark 0
-AnchorPoint: "Anchor-10" -145 527 mark 0
-AnchorPoint: "Anchor-5" -145 527 mark 0
-AnchorPoint: "Anchor-1" -145 527 mark 0
+AnchorPoint: "Anchor-23" 146 527 mark 0
+AnchorPoint: "Anchor-20" 162 846 basemark 0
+AnchorPoint: "Anchor-20" 146 527 mark 0
+AnchorPoint: "Anchor-16" 146 527 mark 0
+AnchorPoint: "Anchor-10" 146 527 mark 0
+AnchorPoint: "Anchor-5" 146 527 mark 0
+AnchorPoint: "Anchor-1" 146 527 mark 0
 LayerCount: 2
 Fore
 SplineSet
--180 705 m 1,0,1
- -141 710 -141 710 -125 718.5 c 128,-1,2
- -109 727 -109 727 -109 748 c 0,3,4
- -109 766 -109 766 -121 775 c 128,-1,5
- -133 784 -133 784 -153 784 c 0,6,7
- -181 784 -181 784 -210 771 c 1,8,-1
- -232 822 l 1,9,10
- -191 846 -191 846 -138 846 c 0,11,12
- -87 846 -87 846 -58.5 821.5 c 128,-1,13
- -30 797 -30 797 -30 755 c 0,14,15
- -30 718 -30 718 -51 696.5 c 128,-1,16
- -72 675 -72 675 -111 669 c 1,17,-1
- -111 611 l 1,18,-1
- -180 611 l 1,19,-1
- -180 705 l 1,0,1
+111 705 m 1,0,1
+ 150 710 150 710 166 718.5 c 128,-1,2
+ 182 727 182 727 182 748 c 0,3,4
+ 182 766 182 766 170 775 c 128,-1,5
+ 158 784 158 784 138 784 c 0,6,7
+ 110 784 110 784 81 771 c 1,8,-1
+ 59 822 l 1,9,10
+ 100 846 100 846 153 846 c 0,11,12
+ 204 846 204 846 232.5 821.5 c 128,-1,13
+ 261 797 261 797 261 755 c 0,14,15
+ 261 718 261 718 240 696.5 c 128,-1,16
+ 219 675 219 675 180 669 c 1,17,-1
+ 180 611 l 1,18,-1
+ 111 611 l 1,19,-1
+ 111 705 l 1,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" hookabovecomb.case
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" hookabovecomb.case
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" hookabovecomb.case
 EndChar

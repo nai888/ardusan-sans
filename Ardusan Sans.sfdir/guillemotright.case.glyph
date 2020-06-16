@@ -1,6 +1,6 @@
 StartChar: guillemotright.case
-Encoding: 66300 -1 2208
-Width: 566
+Encoding: 322 -1 138
+Width: 576
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -22,7 +22,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2214 8250 N 1 0 0 1 0 45 2
-Refer: 2214 8250 N 1 0 0 1 226 45 2
+Refer: 144 8250 N 1 0 0 1 2 45 2
+Refer: 144 8250 N 1 0 0 1 228 45 2
 Validated: 1
 EndChar

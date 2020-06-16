@@ -1,6 +1,6 @@
 StartChar: asciitilde
-Encoding: 126 126 2327
-Width: 488
+Encoding: 95 126 182
+Width: 547
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -68,26 +68,22 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-268.5 259.5 m 128,-1,1
- 247 269 247 269 217 288 c 0,2,3
- 199 300 199 300 187 306 c 128,-1,4
- 175 312 175 312 163 312 c 0,5,6
- 124 312 124 312 91 258 c 1,7,-1
- 35 287 l 1,8,9
- 85 384 85 384 172 384 c 0,10,11
- 200 384 200 384 221 375 c 128,-1,12
- 242 366 242 366 270 348 c 0,13,14
- 290 335 290 335 302.5 329 c 128,-1,15
- 315 323 315 323 328 323 c 0,16,17
- 349 323 349 323 367 336.5 c 128,-1,18
- 385 350 385 350 398 371 c 1,19,-1
- 453 341 l 1,20,21
- 406 250 406 250 319 250 c 0,22,0
- 290 250 290 250 268.5 259.5 c 128,-1,1
+297.5 259.5 m 128,-1,1
+ 276 269 276 269 246 288 c 0,2,3
+ 228 300 228 300 216 306 c 128,-1,4
+ 204 312 204 312 192 312 c 0,5,6
+ 153 312 153 312 120 258 c 1,7,-1
+ 64 287 l 1,8,9
+ 114 384 114 384 201 384 c 0,10,11
+ 229 384 229 384 250 375 c 128,-1,12
+ 271 366 271 366 299 348 c 0,13,14
+ 319 335 319 335 331.5 329 c 128,-1,15
+ 344 323 344 323 357 323 c 0,16,17
+ 378 323 378 323 396 336.5 c 128,-1,18
+ 414 350 414 350 427 371 c 1,19,-1
+ 482 341 l 1,20,21
+ 435 250 435 250 348 250 c 0,22,0
+ 319 250 319 250 297.5 259.5 c 128,-1,1
 EndSplineSet
 Validated: 1
-Kerns2: 735 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 328 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" asciitilde.osf
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" asciitilde.tf
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" asciitilde.tf asciitilde.osf
 EndChar

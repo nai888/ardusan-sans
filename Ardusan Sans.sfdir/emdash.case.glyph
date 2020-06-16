@@ -1,6 +1,6 @@
 StartChar: emdash.case
-Encoding: 66292 -1 2194
-Width: 790
+Encoding: 314 -1 124
+Width: 867
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -14,7 +14,6 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2198 8212 N 1 0 0 1 0 45 2
+Refer: 128 8212 N 1 0 0 1 38 45 2
 Validated: 1
-Kerns2: 735 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 328 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
 EndChar

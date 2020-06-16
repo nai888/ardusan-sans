@@ -1,0 +1,18 @@
+StartChar: h_a_scaron
+Encoding: 497 -1 497
+Width: 1105
+Flags: W
+LayerCount: 2
+Fore
+Refer: 491 -1 N 1 0 0 1 239 0 2
+Refer: 495 -1 N 1 0 0 1 7 0 2
+Validated: 65541
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" h a scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" h a Scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" h A scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" h A Scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" H a scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" H a Scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" H A scaron
+Ligature2: "'liga' Standard Ligatures lookup 30 subtable" H A Scaron
+EndChar

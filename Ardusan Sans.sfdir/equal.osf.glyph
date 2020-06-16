@@ -1,6 +1,6 @@
 StartChar: equal.osf
-Encoding: 66365 -1 2343
-Width: 500
+Encoding: 330 -1 197
+Width: 518
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -23,10 +23,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2316 8722 N 1 0 0 1 0 95 2
-Refer: 2316 8722 N 1 0 0 1 0 -98 2
+Refer: 171 8722 N 1 0 0 1 9 95 2
+Refer: 171 8722 N 1 0 0 1 9 -98 2
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 24 subtable" equal.tosf
-Substitution2: "'lnum' Lining Figures lookup 22 subtable" equal
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" equal equal.tosf
 EndChar

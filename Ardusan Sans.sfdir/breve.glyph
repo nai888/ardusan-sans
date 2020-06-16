@@ -1,15 +1,11 @@
 StartChar: breve
-Encoding: 728 728 2565
-Width: 363
+Encoding: 160 728 410
+Width: 428
 Flags: W
-AnchorPoint: "Anchor-20" 184 789 basemark 0
+AnchorPoint: "Anchor-20" 217 789 basemark 0
 LayerCount: 2
 Fore
-Refer: 2481 774 N 1 0 0 1 363 0 0
+Refer: 326 774 N 1 0 0 1 396 0 0
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" breve.case
 Substitution2: "'case' Case-Sensitive Forms lookup 28 subtable" breve.case
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" breve.sc
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" breve.sc
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" breve.sc breve.case
 EndChar

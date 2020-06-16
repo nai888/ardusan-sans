@@ -1,6 +1,6 @@
 StartChar: uni00AD.case
-Encoding: 66295 -1 2197
-Width: 403
+Encoding: 317 -1 127
+Width: 424
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -14,7 +14,6 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 2204 173 N 1 0 0 1 0 45 2
+Refer: 134 173 N 1 0 0 1 10 45 2
 Validated: 1
-Kerns2: 735 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 328 0 "'kern' Horizontal Kerning lookup 2 per glyph data 2"
 EndChar

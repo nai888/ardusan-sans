@@ -1,14 +1,14 @@
 StartChar: uni0334
-Encoding: 820 820 2518
-Width: 0
+Encoding: 217 820 363
+Width: 547
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-18" -239 317 mark 0
-AnchorPoint: "Anchor-12" -239 317 mark 0
-AnchorPoint: "Anchor-6" -239 317 mark 0
-AnchorPoint: "Anchor-2" -239 317 mark 0
+AnchorPoint: "Anchor-18" 273 317 mark 0
+AnchorPoint: "Anchor-12" 273 317 mark 0
+AnchorPoint: "Anchor-6" 273 317 mark 0
+AnchorPoint: "Anchor-2" 273 317 mark 0
 LayerCount: 2
 Fore
-Refer: 2327 126 N 1 0 0 1 -483 0 0
+Refer: 182 126 N 1 0 0 1 29 0 0
 Validated: 1
 EndChar

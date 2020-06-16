@@ -1,6 +1,6 @@
 StartChar: underscore
-Encoding: 95 95 2172
-Width: 520
+Encoding: 64 95 110
+Width: 640
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -45,12 +45,12 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-17 -142 m 1,0,-1
- 17 -63 l 1,1,-1
- 503 -63 l 1,2,-1
- 503 -142 l 1,3,-1
- 17 -142 l 1,0,-1
+77 -142 m 1,0,-1
+ 77 -63 l 1,1,-1
+ 563 -63 l 1,2,-1
+ 563 -142 l 1,3,-1
+ 77 -142 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 1900 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1878 -60 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1692 -80 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1688 -100 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1547 -80 "'kern' Horizontal Kerning lookup 2 per glyph data 2" 1525 96 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1499 60 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 1242 10 "'kern' Horizontal Kerning lookup 2 per glyph data 1" 934 150 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 933 85 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 900 19 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 896 39 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 749 85 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 714 -10 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 507 43 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 454 20 "'kern' Horizontal Kerning lookup 2 per glyph data 0" 137 38 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
+Kerns2: 72 -10 "'kern' Horizontal Kerning lookup 2 per glyph data 0"
 EndChar

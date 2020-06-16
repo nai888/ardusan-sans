@@ -1,13 +1,10 @@
 StartChar: plus.tf
-Encoding: 66383 -1 2365
-Width: 560
+Encoding: 348 -1 217
+Width: 500
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 2315 43 N 1 0 0 1 30 0 0
+Refer: 170 43 N 1 0 0 1 0 0 0
 Validated: 1
-Substitution2: "'onum' Oldstyle Figures lookup 25 subtable" plus.tosf
-Substitution2: "'pnum' Proportional Numbers lookup 23 subtable" plus
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" plus plus.tosf
 EndChar

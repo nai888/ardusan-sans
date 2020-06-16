@@ -1,43 +1,35 @@
 StartChar: i
-Encoding: 105 105 491
-Width: 478
+Encoding: 74 105 51
+Width: 503
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-18" 0 0 basechar 0
-AnchorPoint: "Anchor-17" 0 0 basechar 0
-AnchorPoint: "Anchor-16" 289 527 basechar 0
-AnchorPoint: "Anchor-15" 0 0 basechar 0
-AnchorPoint: "Anchor-14" 284 0 basechar 0
+AnchorPoint: "Anchor-18" -1 0 basechar 0
+AnchorPoint: "Anchor-17" -1 0 basechar 0
+AnchorPoint: "Anchor-16" 288 527 basechar 0
+AnchorPoint: "Anchor-15" -1 0 basechar 0
+AnchorPoint: "Anchor-14" 283 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-373 525.5 m 128,-1,1
- 412 512 412 512 448 482 c 1,2,-1
- 404 424 l 1,3,4
- 376 444 376 444 349.5 453.5 c 128,-1,5
- 323 463 323 463 291 463 c 0,6,7
- 227 463 227 463 191.5 412 c 128,-1,8
- 156 361 156 361 156 261 c 256,9,10
- 156 161 156 161 191 113.5 c 128,-1,11
- 226 66 226 66 291 66 c 0,12,13
- 322 66 322 66 348 75.5 c 128,-1,14
- 374 85 374 85 406 106 c 1,15,-1
- 448 46 l 1,16,17
- 376 -12 376 -12 287 -12 c 0,18,19
- 180 -12 180 -12 118.5 60 c 128,-1,20
- 57 132 57 132 57 259 c 0,21,22
- 57 343 57 343 85 406 c 128,-1,23
- 113 469 113 469 164.5 504 c 128,-1,24
- 216 539 216 539 287 539 c 0,25,0
- 334 539 334 539 373 525.5 c 128,-1,1
+372 525.5 m 128,-1,1
+ 411 512 411 512 447 482 c 1,2,-1
+ 403 424 l 1,3,4
+ 375 444 375 444 348.5 453.5 c 128,-1,5
+ 322 463 322 463 290 463 c 0,6,7
+ 226 463 226 463 190.5 412 c 128,-1,8
+ 155 361 155 361 155 261 c 256,9,10
+ 155 161 155 161 190 113.5 c 128,-1,11
+ 225 66 225 66 290 66 c 0,12,13
+ 321 66 321 66 347 75.5 c 128,-1,14
+ 373 85 373 85 405 106 c 1,15,-1
+ 447 46 l 1,16,17
+ 375 -12 375 -12 286 -12 c 0,18,19
+ 179 -12 179 -12 117.5 60 c 128,-1,20
+ 56 132 56 132 56 259 c 0,21,22
+ 56 343 56 343 84 406 c 128,-1,23
+ 112 469 112 469 163.5 504 c 128,-1,24
+ 215 539 215 539 286 539 c 0,25,0
+ 333 539 333 539 372 525.5 c 128,-1,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 45 subtable" dotlessi
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" i.sc
-Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" i.loclTRK
-Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" i.loclTRK
-Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" i.loclTRK
-Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" i.loclTRK
-Substitution2: "'locl' Localized Forms in Latin lookup 2 subtable" i.loclTRK
-AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" i.loclTRK i.sc dotlessi
 EndChar
